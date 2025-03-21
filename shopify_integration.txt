@@ -1,0 +1,224 @@
+=============================================
+       SHOPIFY API INTEGRATION GUIDE
+=============================================
+
+#############################################
+#        SHOPIFY API INTEGRATION            #
+#############################################
+
+1. **Install Shopify API SDK**
+-----------------------------
+# For Node.js
+npm install shopify-api-node
+
+# For C#
+Install-Package ShopifySharp
+
+# For React (Frontend only)
+# Shopify does not provide a direct frontend SDK, so use API calls directly or through backend.
+
+---------------------------------------------
+2. **Shopify API Setup in Node.js**
+---------------------------------------------
+
+// Create a new file: shopify.js
+const Shopify = require('shopify-api-node');
+
+// Initialize Shopify instance with API credentials
+const shopify = new Shopify({
+    shopName: 'your-shop-name',
+    apiKey: 'your-api-key',
+    password: 'your-password',
+});
+
+// Example: Fetching all products
+shopify.product.list().then(products => {
+    console.log(products);
+});
+
+// Example: Creating a new product
+const newProduct = {
+    title: 'New Product',
+    body_html: '<strong>Great product</strong>',
+    vendor: 'Vendor Name',
+    product_type: 'Type',
+    variants: [
+        {
+            option1: 'First',
+            price: '19.99',
+            sku: '123',
+        },
+    ],
+};
+
+shopify.product.create(newProduct).then(product => {
+    console.log('Product created:', product);
+});
+
+---------------------------------------------
+3. **Shopify API Setup in C#**
+---------------------------------------------
+
+using ShopifySharp;
+
+public class ShopifyService
+{
+    private static string shopName = "your-shop-name";
+    private static string apiKey = "your-api-key";
+    private static string password = "your-password";
+    private static string accessToken = "your-access-token";
+
+    public static async Task GetProducts()
+    {
+        var service = new ProductService(shopName, accessToken);
+
+        var products = await service.ListAsync();
+
+        foreach (var product in products)
+        {
+            Console.WriteLine(product.Title);
+        }
+    }
+
+    public static async Task CreateProduct()
+    {
+        var service = new ProductService(shopName, accessToken);
+
+        var product = new Product()
+        {
+            Title = "New Product",
+            BodyHtml = "<strong>Great product</strong>",
+            Vendor = "Vendor Name",
+            ProductType = "Type",
+            Variants = new List<ProductVariant>
+            {
+                new ProductVariant
+                {
+                    Option1 = "First",
+                    Price = "19.99",
+                    Sku = "123"
+                }
+            }
+        };
+
+        var createdProduct = await service.CreateAsync(product);
+        Console.WriteLine("Product created: " + createdProduct.Title);
+    }
+}
+
+---------------------------------------------
+4. **Shopify API Frontend (React)**
+
+In React, use `fetch` or `axios` to communicate with the Shopify API through your backend.
+
+Example: Fetch products from Shopify API via your Node.js or C# backend:
+
+```javascript
+import React, { useEffect, useState } from 'react';
+
+function Products() {
+  const [products, setProducts] = useState([]);
+
+  useEffect(() => {
+    fetch('/api/products')  // Your backend endpoint
+      .then(res => res.json())
+      .then(data => setProducts(data))
+      .catch(error => console.error('Error fetching products:', error));
+  }, []);
+
+  return (
+    <div>
+      <h2>Products</h2>
+      <ul>
+        {products.map(product => (
+          <li key={product.id}>{product.title}</li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+export default Products;
+
+
+#############################################
+# 5. SHOPIFY API AUTHENTICATION (OAuth)     #
+#############################################
+
+Shopify API uses OAuth for authentication, especially for public apps. Here’s how to set it up:
+
+1. **Get API credentials**  
+   - Go to your [Shopify Partner Dashboard](https://partners.shopify.com) and create a new app.
+   - Get your **API key** and **API secret key**.
+
+2. **OAuth Flow**  
+   You need to redirect users to the Shopify authorization URL to obtain an authorization code, then exchange that code for an **access token**.
+
+### Example: Node.js OAuth Setup
+```javascript
+const axios = require('axios');
+
+// Redirect user to Shopify for OAuth authorization
+function getShopifyAuthUrl(shopName) {
+    const apiKey = 'your-api-key';
+    const redirectUri = 'https://yourapp.com/callback'; // Your callback URL
+    return `https://${shopName}.myshopify.com/admin/oauth/authorize?client_id=${apiKey}&scope=read_products,write_products&redirect_uri=${redirectUri}&state=some_random_state`;
+}
+
+// Exchange authorization code for access token
+async function getAccessToken(shopName, code) {
+    const apiKey = 'your-api-key';
+    const apiSecret = 'your-api-secret';
+    const accessTokenUrl = `https://${shopName}.myshopify.com/admin/oauth/access_token`;
+
+    const response = await axios.post(accessTokenUrl, {
+        client_id: apiKey,
+        client_secret: apiSecret,
+        code: code
+    });
+    return response.data.access_token;
+}
+
+#############################################
+
+6. SHOPIFY WEBHOOKS (Node.js Example)
+#############################################
+
+Webhooks allow you to listen for events in Shopify, like order creation, product updates, etc. You can set up webhooks in your Shopify store and receive event notifications.
+
+Example: Setting up a Webhook in Node.js (Express)
+
+
+//Code Create a webhook endpoint in your server to handle Shopify event notifications.
+const express = require('express');
+const app = express();
+
+// Parse incoming JSON bodies
+app.use(express.json());
+
+// Shopify webhook endpoint
+app.post('/webhooks/order-created', (req, res) => {
+    const orderData = req.body; // Handle the incoming order data
+    console.log('Order Created:', orderData);
+    res.status(200).send('Webhook received');
+});
+
+// Start the server
+app.listen(3000, () => {
+    console.log('Server is listening for webhooks on port 3000');
+});
+
+
+Steps:
+Create a Webhook URL: Set up an endpoint on your server to listen for incoming webhook notifications from Shopify.
+Register the Webhook: In your Shopify admin, go to Settings > Notifications > Webhooks and create a new webhook.
+Listen for Webhook Events: Shopify will send event data to your registered webhook URL whenever the event occurs (e.g., an order is created).
+Example Webhook Events:
+
+orders/create: When an order is created.
+products/create: When a product is added.
+customers/create: When a new customer signs up.
+
+How to Use This?
+OAuth: Use the authorization URL to authenticate users and exchange the authorization code for an access token.
+Webhooks: Set up webhook endpoints in your Node.js server to listen for Shopify events like order creation.
