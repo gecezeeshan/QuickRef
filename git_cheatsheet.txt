@@ -1,0 +1,156 @@
+Here’s a list of common Git commands along with examples:
+
+---
+
+### **Basic Git Commands**
+1. **Check Git Version**  
+   
+   git --version   
+   *Displays the installed Git version.*
+
+2. **Initialize a Repository**  
+   
+   git init   
+   *Creates a new Git repository in the current directory.*
+
+3. **Clone a Repository**  
+   
+   git clone https://github.com/user/repo.git   
+   *Copies a remote repository to your local machine.*
+
+---
+
+### **Working with Files**
+4. **Check the Status of Files**  
+   
+   git status   
+   *Shows the status of changes as untracked, modified, or staged.*
+
+5. **Add Files to Staging**  
+   
+   git add filename
+   git add .   
+   *Stages a specific file or all files for commit.*
+
+6. **Commit Changes**  
+   
+   git commit -m "Added a new feature"   
+   *Commits staged files with a message.*
+
+7. **Amend the Last Commit**  
+   
+   git commit --amend -m "Updated commit message"   
+   *Modifies the last commit message.*
+
+---
+
+### **Branching and Merging**
+8. **Create a New Branch**  
+   
+   git branch new-branch   
+   *Creates a new branch.*
+
+9. **Switch to a Branch**  
+   
+   git checkout new-branch
+   git switch new-branch
+   
+   *Switches to an existing branch.*
+
+10. **Create and Switch to a New Branch**  
+    
+    git checkout -b new-branch
+    git switch -c new-branch
+    *Creates a new branch and moves to it.*
+
+11. **Merge a Branch**  
+    
+    git checkout main
+    git merge new-branch
+    *Merges changes from another branch into the current branch.*
+
+12. **Delete a Branch**  
+    
+    git branch -d new-branch
+    *Deletes a branch.*
+---
+
+### **Working with Remote Repositories**
+13. **View Remote URLs**  
+    
+    git remote -v
+    *Lists remote repository URLs.*
+
+14. **Add a Remote Repository**  
+    
+    git remote add origin https://github.com/user/repo.git    
+    *Adds a new remote repository.*
+
+15. **Push Changes to Remote**  
+    
+    git push origin main
+    *Pushes local commits to the remote repository.*
+
+16. **Pull Changes from Remote**  
+    
+    git pull origin main    
+    *Fetches and merges changes from the remote repository.*
+
+17. **Fetch Changes Without Merging**  
+    
+    git fetch origin    
+    *Retrieves changes but does not merge them.*
+
+---
+
+### **Undoing Changes**
+18. **Undo Changes Before Commit**  
+    
+    git checkout -- filename    
+    *Reverts uncommitted changes in a file.*
+
+19. **Unstage a File**  
+    
+    git reset filename    
+    *Removes a file from staging but keeps changes.*
+
+20. **Reset to a Previous Commit**      
+    git reset --hard commit_id
+    
+    *Resets to a specific commit and discards all changes.*
+
+21. **Revert a Commit**  
+    
+    git revert commit_id    
+    *Creates a new commit that undoes a previous commit.*
+
+---
+
+### **Advanced Git Commands**
+22. **Show Commit History**  
+    
+    git log    
+    *Displays the commit history.*
+
+23. **Show Changes Between Commits**  
+    
+    git diff commit_id1 commit_id2    
+    *Shows the difference between two commits.*
+
+24. **Stash Changes**  
+    
+    git stash    
+    *Temporarily saves changes without committing.*
+
+25. **Apply Stashed Changes**  
+    
+    git stash pop    
+    *Restores the last stashed changes.*
+
+26. **Remove Stashed Changes**  
+    
+    git stash drop    
+    *Deletes the last stashed changes.*
+
+27. **Change the Last Commit Message**  
+    
