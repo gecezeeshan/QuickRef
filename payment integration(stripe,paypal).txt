@@ -1,0 +1,177 @@
+=============================================
+      STRIPE & PAYPAL INTEGRATION GUIDE
+=============================================
+
+#############################################
+#        STRIPE INTEGRATION                 #
+#############################################
+
+1. **Install Stripe SDK**
+-------------------------
+# For Node.js
+npm install stripe
+
+# For C#
+dotnet add package Stripe.Net
+
+# For React (Frontend only)
+npm install @stripe/react-stripe-js @stripe/stripe-js
+
+---------------------------------------------
+2. **Stripe Backend Setup**
+---------------------------------------------
+
+# Node.js (Express)
+const stripe = require('stripe')('YOUR_SECRET_KEY');
+const express = require('express');
+const app = express();
+
+app.post('/create-payment-intent', async (req, res) => {
+    const paymentIntent = await stripe.paymentIntents.create({
+        amount: 1000,   // Amount in cents
+        currency: 'usd',
+    });
+    res.json({ clientSecret: paymentIntent.client_secret });
+});
+
+app.listen(3000, () => console.log('Server running'));
+
+---------------------------------------------
+
+# C# (ASP.NET Core)
+using Stripe;
+using Microsoft.AspNetCore.Mvc;
+
+[ApiController]
+[Route("api/stripe")]
+public class StripeController : ControllerBase
+{
+    private readonly string stripeSecret = "YOUR_SECRET_KEY";
+
+    [HttpPost("create-payment-intent")]
+    public async Task<IActionResult> CreatePaymentIntent()
+    {
+        StripeConfiguration.ApiKey = stripeSecret;
+
+        var options = new PaymentIntentCreateOptions
+        {
+            Amount = 1000,
+            Currency = "usd",
+        };
+        var service = new PaymentIntentService();
+        var paymentIntent = await service.CreateAsync(options);
+
+        return Ok(new { clientSecret = paymentIntent.ClientSecret });
+    }
+}
+
+---------------------------------------------
+3. **Stripe Frontend (React)**
+---------------------------------------------
+
+import { Elements } from '@stripe/react-stripe-js';
+import { loadStripe } from '@stripe/stripe-js';
+
+const stripePromise = loadStripe("YOUR_PUBLISHABLE_KEY");
+
+function PaymentComponent() {
+    return (
+        <Elements stripe={stripePromise}>
+            <CheckoutForm />
+        </Elements>
+    );
+}
+
+---------------------------------------------
+#############################################
+#        PAYPAL INTEGRATION                 #
+#############################################
+
+1. **Install PayPal SDK**
+-------------------------
+# For Node.js
+npm install paypal-rest-sdk
+
+# For React (Frontend)
+npm install @paypal/react-paypal-js
+
+---------------------------------------------
+2. **PayPal Backend Setup**
+---------------------------------------------
+
+# Node.js (Express)
+const paypal = require('paypal-rest-sdk');
+
+paypal.configure({
+    mode: 'sandbox', // or 'live'
+    client_id: 'YOUR_CLIENT_ID',
+    client_secret: 'YOUR_CLIENT_SECRET'
+});
+
+app.post('/pay', (req, res) => {
+    const create_payment_json = {
+        intent: 'sale',
+        payer: { payment_method: 'paypal' },
+        transactions: [{ amount: { total: '10.00', currency: 'USD' } }],
+        redirect_urls: {
+            return_url: 'http://localhost:3000/success',
+            cancel_url: 'http://localhost:3000/cancel'
+        }
+    };
+
+    paypal.payment.create(create_payment_json, (error, payment) => {
+        if (error) res.send(error);
+        else res.json({ payment });
+    });
+});
+
+---------------------------------------------
+
+# C# (ASP.NET Core)
+using PayPal.Api;
+
+public class PayPalController : ControllerBase
+{
+    [HttpPost("create-payment")]
+    public IActionResult CreatePayment()
+    {
+        var apiContext = new APIContext("YOUR_ACCESS_TOKEN");
+
+        var payment = new Payment
+        {
+            intent = "sale",
+            payer = new Payer { payment_method = "paypal" },
+            transactions = new List<Transaction>
+            {
+                new Transaction
+                {
+                    amount = new Amount { total = "10.00", currency = "USD" }
+                }
+            },
+            redirect_urls = new RedirectUrls
+            {
+                return_url = "http://localhost:3000/success",
+                cancel_url = "http://localhost:3000/cancel"
+            }
+        };
+
+        var createdPayment = payment.Create(apiContext);
+        return Ok(createdPayment);
+    }
+}
+
+---------------------------------------------
+3. **PayPal Frontend (React)**
+---------------------------------------------
+
+import { PayPalScriptProvider, PayPalButtons } from "@paypal/react-paypal-js";
+
+function PayPalCheckout() {
+    return (
+        <PayPalScriptProvider options={{ "client-id": "YOUR_CLIENT_ID" }}>
+            <PayPalButtons style={{ layout: "vertical" }} />
+        </PayPalScriptProvider>
+    );
+}
+
+=============================================
