@@ -175,3 +175,5 @@ function PayPalCheckout() {
 }
 
 =============================================
+
+Strip: https://dashboard.stripe.com/apikeys
