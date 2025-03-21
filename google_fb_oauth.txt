@@ -1,0 +1,122 @@
+=============================================
+        GOOGLE & FACEBOOK AUTHENTICATION IN REACT
+=============================================
+
+*********************************************
+ STEP 1: INSTALL DEPENDENCIES
+*********************************************
+Open the terminal and run the following command:
+
+npm install react-oauth/google react-facebook-login
+
+*********************************************
+ STEP 2: GOOGLE AUTHENTICATION SETUP
+*********************************************
+1. Go to https://console.developers.google.com/
+2. Create a new project.
+3. Enable the **Google+ API**.
+4. Go to **Credentials** -> Create **OAuth 2.0 Client ID**.
+5. Set **Authorized Redirect URIs** (example: http://localhost:3000/).
+6. Copy the **Client ID**.
+
+*********************************************
+ STEP 3: FACEBOOK AUTHENTICATION SETUP
+*********************************************
+1. Go to https://developers.facebook.com/apps/.
+2. Create a new app and choose **Facebook Login**.
+3. Go to **Settings > Basic**, and copy the **App ID**.
+4. In **Facebook Login settings**, set the **Valid OAuth Redirect URIs** (example: http://localhost:3000/).
+5. Save changes.
+
+*********************************************
+ STEP 4: CREATE LOGIN COMPONENT IN REACT
+*********************************************
+Create a file **Login.js** and add the following code:
+
+```javascript
+import React from 'react';
+import { GoogleLogin } from '@react-oauth/google'; // Google Login
+import FacebookLogin from 'react-facebook-login'; // Facebook Login
+
+const Login = () => {
+  // Google login success callback
+  const handleGoogleSuccess = (response) => {
+    console.log("Google login success", response);
+    const { credential } = response;
+    // Send the credential to your server for validation
+  };
+
+  // Google login error callback
+  const handleGoogleError = (error) => {
+    console.log("Google login error", error);
+  };
+
+  // Facebook login success callback
+  const responseFacebook = (response) => {
+    console.log("Facebook login success", response);
+    // Handle response (use response.accessToken for API requests)
+  };
+
+  return (
+    <div>
+      <h2>Login Page</h2>
+
+      {/* Google Login Button */}
+      <GoogleLogin
+        onSuccess={handleGoogleSuccess}
+        onError={handleGoogleError}
+        useOneTap
+      />
+
+      {/* Facebook Login Button */}
+      <FacebookLogin
+        appId="YOUR_FACEBOOK_APP_ID" // Replace with Facebook App ID
+        autoLoad={false} 
+        fields="name,email,picture"
+        callback={responseFacebook}
+        icon="fa-facebook"
+      />
+    </div>
+  );
+};
+
+export default Login;
+
+
+STEP 5: SETUP GOOGLE OAUTH IN INDEX.JS
+
+Edit index.js and wrap your app with GoogleOAuthProvider:
+
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+import { GoogleOAuthProvider } from '@react-oauth/google'; // Google OAuth
+
+ReactDOM.render(
+  <GoogleOAuthProvider clientId="YOUR_GOOGLE_CLIENT_ID">
+    <App />
+  </GoogleOAuthProvider>,
+  document.getElementById('root')
+);
+
+
+STEP 6: RUN THE APPLICATION
+
+Start the React application:
+
+npm start
+
+STEP 7: FINAL NOTES
+
+Replace YOUR_GOOGLE_CLIENT_ID and YOUR_FACEBOOK_APP_ID with actual values from Google Developer Console and Facebook Developer Console.
+After successful login, you can send the access token to your backend for further validation.
+Use this authentication system in your login page for Google and Facebook authentication.
+=============================================
+
+### 📌 **How to Use This?**
+- Copy and **paste** the content into **Notepad**.
+- Replace **YOUR_GOOGLE_CLIENT_ID** and **YOUR_FACEBOOK_APP_ID** with your actual credentials.
+- Use **GoogleLogin** and **FacebookLogin** in your **React app**.
+- Run **`npm start`** and test **Google & Facebook login**.
+
+
