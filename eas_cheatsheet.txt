@@ -1,0 +1,53 @@
+=====================================
+      EAS CLI COMMANDS LIST
+=====================================
+
+1. **Initialize EAS in a Project**
+----------------------------------
+eas init
+
+2. **Authenticate with Expo**
+----------------------------
+eas login          # Log in to Expo
+eas whoami        # Check logged-in account
+eas logout        # Log out from Expo
+
+3. **Build the Project**
+------------------------
+eas build --platform android   # Build for Android
+eas build --platform ios       # Build for iOS
+eas build --platform all       # Build for both platforms
+eas build                      # Interactive build mode
+eas build --profile production --platform android  # Build using a profile
+
+4. **Submit the App to Stores**
+-------------------------------
+eas submit --platform android  # Submit to Play Store
+eas submit --platform ios      # Submit to App Store
+
+5. **Update an Existing App (OTA Updates)**
+--------------------------------------------
+eas update --branch production --message "Bug fixes"
+
+6. **Manage Builds**
+--------------------
+eas build:list        # List all builds
+eas build:cancel <BUILD_ID>  # Cancel a build
+
+7. **Manage Updates**
+---------------------
+eas update:list       # List all available updates
+eas update:republish --branch production --message "Rollback to previous version"
+
+8. **Manage Credentials**
+-------------------------
+eas credentials            # Open credential manager
+eas credentials:generate --platform android  # Generate Android keystore
+eas credentials:generate --platform ios      # Generate iOS distribution certificate
+
+9. **Diagnostics and Debugging**
+--------------------------------
+eas doctor        # Check for issues in EAS setup
+eas diagnostics   # Show debugging info
+
+=====================================
