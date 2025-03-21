@@ -1,0 +1,159 @@
+=============================================
+  GOOGLE MAPS API - LOCATION SEARCH & DISTANCE CALCULATION
+=============================================
+
+*********************************************
+ STEP 1: GET GOOGLE MAPS API KEY
+*********************************************
+1. Go to https://console.cloud.google.com/
+2. Create a new project or select an existing one.
+3. Enable **Google Maps JavaScript API**, **Places API**, and **Distance Matrix API**.
+4. Go to **Credentials** -> **Create API Key**.
+5. Copy the **API Key**.
+
+*********************************************
+ STEP 2: INSTALL GOOGLE MAPS LIBRARY IN REACT
+*********************************************
+Run the following command in your terminal:
+
+npm install @react-google-maps/api
+
+*********************************************
+ STEP 3: CREATE GOOGLE MAP COMPONENT
+*********************************************
+Create a file **GoogleMapComponent.js** and add the following code:
+
+```javascript
+import React, { useState } from "react";
+import { GoogleMap, LoadScript, Marker, Autocomplete } from "@react-google-maps/api";
+
+const containerStyle = {
+  width: "100%",
+  height: "400px"
+};
+
+const center = {
+  lat: 25.276987, // Default Latitude (Dubai)
+  lng: 55.296249  // Default Longitude (Dubai)
+};
+
+const GoogleMapComponent = ({ apiKey }) => {
+  const [map, setMap] = useState(null);
+  const [searchBox, setSearchBox] = useState(null);
+  const [location, setLocation] = useState(center);
+
+  const onLoad = (map) => {
+    setMap(map);
+  };
+
+  const onPlaceChanged = () => {
+    if (searchBox !== null) {
+      const place = searchBox.getPlace();
+      if (place.geometry) {
+        setLocation({
+          lat: place.geometry.location.lat(),
+          lng: place.geometry.location.lng(),
+        });
+      }
+    }
+  };
+
+  return (
+    <LoadScript googleMapsApiKey={apiKey} libraries={["places"]}>
+      <GoogleMap mapContainerStyle={containerStyle} center={location} zoom={12} onLoad={onLoad}>
+        <Autocomplete onLoad={setSearchBox} onPlaceChanged={onPlaceChanged}>
+          <input type="text" placeholder="Search a location" style={{ width: "300px", padding: "10px" }} />
+        </Autocomplete>
+        <Marker position={location} />
+      </GoogleMap>
+    </LoadScript>
+  );
+};
+
+export default GoogleMapComponent;
+
+
+STEP 4: CALCULATE DISTANCE BETWEEN TWO LOCATIONS
+
+Create a file DistanceCalculator.js and add the following code:
+
+import React, { useState } from "react";
+
+const DistanceCalculator = ({ apiKey }) => {
+  const [origin, setOrigin] = useState("");
+  const [destination, setDestination] = useState("");
+  const [distance, setDistance] = useState("");
+
+  const calculateDistance = () => {
+    const service = new window.google.maps.DistanceMatrixService();
+    service.getDistanceMatrix(
+      {
+        origins: [origin],
+        destinations: [destination],
+        travelMode: "DRIVING",
+      },
+      (response, status) => {
+        if (status === "OK") {
+          setDistance(response.rows[0].elements[0].distance.text);
+        } else {
+          console.error("Error calculating distance:", status);
+        }
+      }
+    );
+  };
+
+  return (
+    <div>
+      <h3>Distance Calculator</h3>
+      <input type="text" placeholder="Origin" value={origin} onChange={(e) => setOrigin(e.target.value)} />
+      <input type="text" placeholder="Destination" value={destination} onChange={(e) => setDestination(e.target.value)} />
+      <button onClick={calculateDistance}>Calculate Distance</button>
+      {distance && <p>Distance: {distance}</p>}
+    </div>
+  );
+};
+
+export default DistanceCalculator;
+
+STEP 5: INTEGRATE COMPONENTS INTO APP.JS
+
+Edit App.js and add the following code:
+import React from "react";
+import GoogleMapComponent from "./GoogleMapComponent";
+import DistanceCalculator from "./DistanceCalculator";
+
+const App = () => {
+  const apiKey = "YOUR_GOOGLE_MAPS_API_KEY"; // Replace with your API Key
+
+  return (
+    <div>
+      <h1>Google Maps API Integration</h1>
+      <GoogleMapComponent apiKey={apiKey} />
+      <DistanceCalculator apiKey={apiKey} />
+    </div>
+  );
+};
+
+export default App;
+
+STEP 6: RUN THE APPLICATION
+
+Start the React application:
+
+npm start
+
+STEP 7: FINAL NOTES
+
+Replace "YOUR_GOOGLE_MAPS_API_KEY" in App.js with your actual API Key.
+The GoogleMapComponent provides location search and displays a marker on the map.
+The DistanceCalculator calculates the distance between two locations.
+Ensure that Google Maps JavaScript API, Places API, and Distance Matrix API are enabled in the Google Cloud Console.
+=============================================
+
+
+### 📌 **How to Use This?**
+- Copy and **paste** this into **Notepad**.
+- Replace **YOUR_GOOGLE_MAPS_API_KEY** with your **actual Google Maps API Key**.
+- Run **`npm start`** and test the **Google Maps search & distance calculation**.
+
+
