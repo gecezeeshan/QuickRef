@@ -1,0 +1,37 @@
+# Expo CLI Commands
+
+## Project Setup
+- **Create a new Expo project:** `npx create-expo-app myApp`
+- **Create a bare workflow project:** `npx create-expo-app myApp --template bare-minimum`
+- **Navigate to project directory:** `cd myApp`
+
+## Running the Project
+- **Start development server:** `npx expo start`
+- **Run on Android emulator:** `npx expo run:android`
+- **Run on iOS simulator (Mac only):** `npx expo run:ios`
+- **Run in web mode:** `npx expo start --web`
+
+## Managing Dependencies
+- **Install an Expo package:** `npx expo install package-name`
+  - Example: `npx expo install expo-camera`
+
+## Building the App
+- **Build APK (for testing):** `eas build -p android --profile preview`
+- **Build AAB (for Play Store):** `eas build -p android`
+- **Build for iOS:** `eas build -p ios` (Mac required)
+
+## Running on Real Devices
+- **Run on a real device (Expo Go):** `npx expo start --tunnel`
+
+## Debugging & Logs
+- **Clear cache and restart:** `npx expo start --clear`
+- **Check installed Expo version:** `npx expo --version`
+- **Check devices connected to Expo:** `npx expo doctor`
+
+## Updating & Ejecting
+- **Upgrade Expo SDK:** `npx expo update`
+- **Eject to bare workflow:** `npx expo prebuild`
+
+## Publishing the App
+- **Publish to Expo servers:** `npx expo publish`
+
