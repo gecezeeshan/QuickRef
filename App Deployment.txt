@@ -1,0 +1,150 @@
+***Steps to Build, Test & Deploy Expo Bare App***  
+
+========================================  
+
+***1. Prepare Your App for Production***  
+- Ensure all dependencies are installed.  
+- Run:  
+  expo prebuild  
+  (Only needed if not run before in Bare workflow.)  
+
+========================================  
+
+***2. Build APK/AAB for Android***  
+Run the following command to generate a production build:  
+  eas build --profile production --platform android  
+
+- This creates an **AAB (Android App Bundle)** for Play Store.  
+- If you need an APK for testing, use:  
+  eas build --profile preview --platform android  
+
+========================================  
+
+***3. Test the Build on a Device***  
+- Download the `.apk` or `.aab` from the Expo dashboard.  
+- Install the APK on an Android phone using:  
+  adb install myapp.apk  
+- If using an AAB, upload it to Play Store’s **internal testing**.  
+
+========================================  
+
+***4. Deploy Backend API***  
+Google Play Console does NOT host backend APIs.  
+You need to deploy it separately:  
+
+**Options:**  
+- **Firebase** → Best for small apps (Firestore & Cloud Functions)  
+- **Railway.app** → Easy deployment for Node.js APIs  
+- **AWS / DigitalOcean** → Full control for large projects  
+- **Dashboard**
+ - https://dashboard.render.com/web/srv-crs1mljtq21c73dat3lg
+
+
+**Example: Deploying a Node.js API on Railway.app**  
+1. Push backend code to **GitHub**.  
+2. Sign up at **Railway.app** (https://railway.app/).  
+3. Connect your GitHub repo → Click **Deploy**.  
+4. Railway will provide a live API URL (e.g., `https://myapi.railway.app`).  
+5. Update your app to use this URL.  
+
+========================================  
+
+***5. Upload App to Google Play Console***  
+1. Go to **Google Play Console** (https://play.google.com/console).  
+2. Click **Create a new app**.  
+3. Fill in **App Details** (Name, Category, Description, etc.).  
+4. Go to **Production > Create Release**.  
+5. Upload the **AAB file**.  
+6. Add **Privacy Policy URL** (required by Google).  
+7. Set **Target Audience & Permissions**.  
+8. Click **Review & Start Rollout**.  
+
+========================================  
+
+***6. Monitor & Update***  
+- Google will review your app (**takes hours to days**).  
+- Once approved, it will be live on the Play Store.  
+- To update, simply **upload a new AAB file** in Play Console.  
+
+========================================  
+
+***Summary:***  
+✅ **Frontend:** Build AAB → Upload to Play Store  
+✅ **Backend:** Deploy separately (Firebase, Railway, AWS, etc.)  
+✅ **Testing:** Install APK before publishing  
+
+========================================  
+
+
+========================================  
+***🔹 Connecting Backend with Frontend in Expo Bare***  
+========================================  
+
+***1️⃣ Create an `.env` File in Your Frontend Project***  
+- Inside your **Expo project root directory**, create a new file:  
+
+  📄 `.env`  
+API_URL=https://your-backend-api.com
+
+(Replace `https://your-backend-api.com` with your actual backend URL.)  
+
+========================================  
+
+***2️⃣ Install `react-native-dotenv` to Use `.env` in React Native***  
+Run the following command:  
+npm install react-native-dotenv
+
+
+========================================  
+
+***3️⃣ Configure Babel to Support `.env`***  
+- Open **babel.config.js** and update the presets section:  
+```js
+module.exports = {
+  presets: ['module:metro-react-native-babel-preset'],
+  plugins: [
+    ['module:react-native-dotenv']
+  ]
+};
+========================================
+
+4️⃣ Use the Environment Variable in Your Code
+
+Now, import the API_URL in your components:
+
+import { API_URL } from '@env';
+
+fetch(`${API_URL}/listings`)
+  .then(response => response.json())
+  .then(data => console.log(data))
+  .catch(error => console.error('Error:', error));
+========================================
+
+5️⃣ Add .env to .gitignore (To Keep It Secure)
+
+Open your .gitignore file and add:
+.env
+(This prevents sensitive environment variables from being pushed to GitHub.)
+
+========================================
+
+6️⃣ For Production: Create a .env.production File
+
+If you have a different API URL for production, create:
+📄 .env.production
+
+API_URL=https://your-production-api.com
+Then, load it in your app:
+
+const API_URL = process.env.NODE_ENV === 'production' ? process.env.API_URL : process.env.API_URL_DEV;
+========================================
+
+✅ Summary
+✔ Step 1: Create .env file and add API_URL
+✔ Step 2: Install react-native-dotenv
+✔ Step 3: Configure babel.config.js
+✔ Step 4: Import and use API_URL in the frontend
+✔ Step 5: Add .env to .gitignore
+✔ Step 6: Use .env.production for production
+
+
