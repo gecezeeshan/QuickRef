@@ -57,6 +57,31 @@ Here’s a list of common Git commands along with examples:
    
    *Switches to an existing branch.*
 
+9.1. **push current branch to remote
+	git push -u origin development
+
+9.2. ** Show remote branches
+	git branch -r
+
+9.3. ** Local branches If `development` is listed, it exists locally.
+	git branch
+
+9.4 ** Push the Development Branch to Remote**
+	git push -u origin development
+	- `-u` sets up tracking between your local branch and the remote branch.
+	- If successful, the `development` branch should now appear in the remote repository.
+
+9.5 ** (Optional) Fetch All Branches**
+	If you’re working with multiple remotes or other developers, use:
+
+	git fetch --all
+	git branch -a
+```
+This will show **all** branches (both local & remote) and help troubleshoot further.
+
+
+
+
 10. **Create and Switch to a New Branch**  
     
     git checkout -b new-branch
@@ -73,6 +98,8 @@ Here’s a list of common Git commands along with examples:
     
     git branch -d new-branch
     *Deletes a branch.*
+
+
 ---
 
 ### **Working with Remote Repositories**

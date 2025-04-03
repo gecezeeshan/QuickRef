@@ -20,6 +20,10 @@ eas build --platform ios       # Build for iOS
 eas build --platform all       # Build for both platforms
 eas build                      # Interactive build mode
 eas build --profile production --platform android  # Build using a profile
+eas build --profile development --local
+This builds locally instead of waiting for the cloud build, helping to catch errors early.
+
+
 
 4. **Submit the App to Stores**
 -------------------------------

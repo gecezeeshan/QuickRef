@@ -1,0 +1,51 @@
+1. Manage work flow is the code writen in js or ts, and expo handles native dependencies.
+	Runs inside the JavaScript engine (JSC or Hermes), controlled by Expo.
+	 -React Native (JavaScript), Expo Go
+	Run Steps
+	- npx expo start (Metro Bundler & Development Server)
+		This starts the Metro bundler, which serves your JavaScript/TypeScript code to the emulator or physical device.
+			Runs the app using Expo Go (for JavaScript-only apps).
+			Does not require a full native build (i.e., no need for eas build).
+			Works with expo start without issues.
+
+2. Unmanaged/bare work flow where need to interact with native code (java/swift). 
+	Runs directly on the device's OS, outside JavaScript control.
+
+	Run Steps:
+	Since the bare workflow includes custom native code, Expo Go cannot run it.
+		a) Instead, you must build a development client to install the app on a device/emulator.
+		  *  eas build --profile development --local 
+				Use --local if you want to build quickly on your machine without depending on Expo’s servers.
+
+	          * eas build --profile development 
+				Use cloud builds (without --local) if you don’t have a powerful machine or need iOS builds (since macOS is required for iOS builds).
+
+
+		b) After installing the development build, you can run:
+			npx expo start --dev-client
+			This starts the Metro bundler, and your dev client will connect to it.
+
+
+	
+3. Bable only convert modern js and ts to old js. 
+
+4. Difference b/w [npx expo start] and [eas build --profile development --local]
+
+***npx expo start (Metro Bundler & Development Server)
+
+	- This starts the Metro bundler, which serves your JavaScript/TypeScript code to the emulator or physical device.
+	- It does not create a build (APK/IPA); it only runs the app in a development environment.
+	- If you encounter an error here, it’s usually related to JavaScript code, missing dependencies, or bundling issues.
+	- It is used for live reloading, debugging, and testing your app while coding.
+
+***eas build --profile development --local (Building a Development APK/IPA)
+
+	- This command compiles your app into an installable package (APK for Android, IPA for iOS).
+	- It actually runs a full build process, similar to what happens when publishing the app.
+	- Errors in this step are typically related to native dependencies, Gradle (Android), Xcode (iOS), or environment configurations.
+	- This is used when you need a complete build of your app to install on a device or emulator rather than running it in a development server.
+
+When to Use Each?
+Use npx expo start when actively developing, making changes, and testing in real-time.
+Use eas build --profile development --local when you need a test build for manual testing without relying on Metro.
+
