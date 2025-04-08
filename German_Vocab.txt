@@ -1,0 +1,1666 @@
+===================================
+**Everyday Life & Personal Info**
+===================================
+
+----- Personal Details (name, age, gender) -----
+
+English           --- German             --- Usage / Example
+---------------------------------------------------------------
+name              --- Name               --- Mein Name ist Anna.
+age               --- Alter              --- Ich bin 25 Jahre alt.
+birthday          --- Geburtstag         --- Mein Geburtstag ist am 1. Mai.
+first name        --- Vorname            --- Mein Vorname ist Lisa.
+last name         --- Nachname           --- Ihr Nachname ist Müller.
+surname           --- Familienname       --- Wie ist Ihr Familienname?
+middle name       --- zweiter Vorname    --- Mein zweiter Vorname ist Marie.
+gender            --- Geschlecht         --- Welches Geschlecht?
+male              --- männlich           --- Er ist männlich.
+female            --- weiblich           --- Sie ist weiblich.
+passport          --- Reisepass          --- Ich habe meinen Reisepass verloren.
+ID card           --- Ausweis            --- Bitte zeigen Sie Ihren Ausweis.
+nationality       --- Nationalität       --- Meine Nationalität ist deutsch.
+place of birth    --- Geburtsort         --- Mein Geburtsort ist Berlin.
+marital status    --- Familienstand      --- Was ist Ihr Familienstand?
+single            --- ledig              --- Ich bin ledig.
+married           --- verheiratet        --- Bist du verheiratet?
+divorced          --- geschieden         --- Sie ist geschieden.
+address           --- Adresse            --- Meine Adresse ist Hauptstraße 10.
+phone number      --- Telefonnummer      --- Meine Telefonnummer ist 01234 56789.
+email             --- E-Mail             --- Meine E-Mail ist max@mail.com
+
+
+----- Family & Relationships -----
+
+English           --- German               --- Usage / Example
+----------------------------------------------------------------------
+family            --- Familie              --- Meine Familie ist groß.
+mother            --- Mutter               --- Meine Mutter heißt Anna.
+father            --- Vater                --- Mein Vater ist Lehrer.
+parents           --- Eltern               --- Meine Eltern wohnen in Berlin.
+brother           --- Bruder               --- Ich habe einen kleinen Bruder.
+sister            --- Schwester            --- Meine Schwester studiert.
+siblings          --- Geschwister          --- Ich habe zwei Geschwister.
+son               --- Sohn                 --- Mein Sohn ist fünf Jahre alt.
+daughter          --- Tochter              --- Ihre Tochter ist sehr nett.
+child / children  --- Kind / Kinder        --- Wir haben drei Kinder.
+uncle             --- Onkel                --- Mein Onkel lebt in München.
+aunt              --- Tante                --- Ihre Tante ist nett.
+cousin            --- Cousin / Cousine     --- Mein Cousin heißt Paul.
+grandfather       --- Großvater / Opa      --- Mein Großvater ist 80 Jahre alt.
+grandmother       --- Großmutter / Oma     --- Meine Oma kocht gern.
+grandson          --- Enkel                --- Er ist mein Enkel.
+granddaughter     --- Enkelin              --- Die Enkelin besucht uns oft.
+wife              --- Ehefrau              --- Meine Ehefrau arbeitet im Büro.
+husband           --- Ehemann              --- Ihr Ehemann ist Arzt.
+relative          --- Verwandte(r)         --- Ich besuche meine Verwandten.
+friend            --- Freund / Freundin    --- Sie ist meine beste Freundin.
+neighbor          --- Nachbar / Nachbarin  --- Unser Nachbar ist freundlich.
+partner           --- Partner / Partnerin  --- Mein Partner kommt aus Spanien.
+couple            --- Paar                 --- Das Paar ist glücklich verheiratet.
+
+
+----- Home & Furniture -----
+
+English           --- German                  --- Usage / Example
+-------------------------------------------------------------------------
+house            --- Haus                     --- Wir wohnen in einem Haus.
+apartment        --- Wohnung                  --- Die Wohnung ist klein.
+room             --- Zimmer                   --- Mein Zimmer ist im ersten Stock.
+kitchen          --- Küche                    --- Die Küche ist modern.
+bedroom          --- Schlafzimmer             --- Das Schlafzimmer ist gemütlich.
+bathroom         --- Badezimmer               --- Wo ist das Badezimmer?
+living room      --- Wohnzimmer               --- Wir sitzen im Wohnzimmer.
+window           --- Fenster                  --- Das Fenster ist offen.
+door             --- Tür                      --- Bitte mach die Tür zu.
+floor            --- Boden                    --- Der Boden ist sauber.
+ceiling          --- Decke                    --- Die Lampe hängt an der Decke.
+wall             --- Wand                     --- Die Bilder hängen an der Wand.
+light            --- Licht                    --- Mach bitte das Licht an.
+lamp             --- Lampe                    --- Ich habe eine neue Lampe gekauft.
+table            --- Tisch                    --- Das Essen ist auf dem Tisch.
+chair            --- Stuhl                    --- Setz dich auf den Stuhl.
+sofa / couch     --- Sofa / Couch             --- Wir entspannen auf dem Sofa.
+bed              --- Bett                     --- Ich gehe ins Bett.
+pillow           --- Kissen                   --- Ich brauche ein weiches Kissen.
+blanket          --- Decke                    --- Die Decke ist warm.
+cupboard         --- Schrank                  --- Die Tassen sind im Schrank.
+shelf            --- Regal                    --- Bücher stehen im Regal.
+wardrobe         --- Kleiderschrank           --- Die Jacke ist im Kleiderschrank.
+mirror           --- Spiegel                  --- Der Spiegel hängt im Flur.
+fridge           --- Kühlschrank              --- Der Kühlschrank ist voll.
+stove            --- Herd                     --- Ich koche auf dem Herd.
+oven             --- Ofen                     --- Der Kuchen ist im Ofen.
+sink             --- Spüle                    --- Ich spüle das Geschirr in der Spüle.
+washing machine  --- Waschmaschine            --- Die Waschmaschine ist kaputt.
+carpet / rug     --- Teppich                  --- Der Teppich ist bunt.
+
+
+----- Daily Routines -----
+
+English             --- German                       --- Usage / Example
+------------------------------------------------------------------------------------
+wake up            --- aufwachen                    --- Ich wache um 7 Uhr auf.
+get up             --- aufstehen                    --- Ich stehe gleich auf.
+brush teeth        --- Zähne putzen                 --- Ich putze mir die Zähne.
+take a shower      --- duschen                      --- Ich dusche jeden Morgen.
+have breakfast     --- frühstücken                  --- Wir frühstücken um 8 Uhr.
+go to work         --- zur Arbeit gehen             --- Er geht um 9 Uhr zur Arbeit.
+go to school       --- zur Schule gehen             --- Die Kinder gehen zur Schule.
+study              --- lernen / studieren           --- Ich muss für die Prüfung lernen.
+eat lunch          --- zu Mittag essen              --- Wir essen um 13 Uhr zu Mittag.
+come home          --- nach Hause kommen            --- Ich komme um 17 Uhr nach Hause.
+rest               --- sich ausruhen                --- Ich ruhe mich nach der Arbeit aus.
+cook               --- kochen                       --- Ich koche das Abendessen.
+clean              --- putzen                       --- Ich putze das Badezimmer.
+do laundry         --- Wäsche waschen               --- Ich wasche heute Wäsche.
+watch TV           --- fernsehen                    --- Abends sehe ich fern.
+read               --- lesen                        --- Ich lese ein Buch.
+go for a walk      --- spazieren gehen              --- Wir gehen am Abend spazieren.
+have dinner        --- zu Abend essen               --- Wir essen um 19 Uhr zu Abend.
+go to bed          --- ins Bett gehen               --- Ich gehe früh ins Bett.
+sleep              --- schlafen                     --- Ich schlafe acht Stunden.
+
+
+----- Days, Months, Seasons -----
+
+**Days of the Week:**
+Monday            --- Montag                --- Am Montag arbeite ich.
+Tuesday           --- Dienstag              --- Dienstag ist ein schöner Tag.
+Wednesday         --- Mittwoch              --- Wir haben Mittwoch frei.
+Thursday          --- Donnerstag            --- Am Donnerstag gehe ich ins Kino.
+Friday            --- Freitag               --- Freitag ist mein Lieblingstag.
+Saturday          --- Samstag               --- Am Samstag gehe ich einkaufen.
+Sunday            --- Sonntag               --- Sonntags entspanne ich.
+
+**Months of the Year:**
+January           --- Januar                --- Im Januar schneit es oft.
+February          --- Februar               --- Der Februar ist kurz.
+March             --- März                  --- Im März fängt der Frühling an.
+April             --- April                 --- Im April regnet es manchmal.
+May               --- Mai                   --- Der Mai ist ein schöner Monat.
+June              --- Juni                  --- Im Juni ist es sehr warm.
+July              --- Juli                  --- Der Juli ist der heißeste Monat.
+August            --- August                --- Wir fahren im August in den Urlaub.
+September         --- September             --- Im September ist das Wetter angenehm.
+October           --- Oktober               --- Im Oktober fallen die Blätter.
+November          --- November              --- Der November ist kühl.
+December          --- Dezember              --- Im Dezember feiern wir Weihnachten.
+
+**Seasons:**
+spring            --- Frühling              --- Im Frühling blühen die Blumen.
+summer            --- Sommer                --- Der Sommer ist heiß.
+autumn / fall     --- Herbst                --- Im Herbst ernten wir Äpfel.
+winter            --- Winter                --- Im Winter ist es kalt.
+
+----- Time & Clocks -----
+time              --- Zeit                  --- Wie viel Uhr ist es?
+hour              --- Stunde                --- Es ist schon eine Stunde vergangen.
+minute            --- Minute                --- Ich komme in fünf Minuten.
+second            --- Sekunde               --- Eine Sekunde dauert sehr kurz.
+o’clock           --- Uhr                   --- Es ist fünf Uhr.
+morning           --- Morgen                --- Guten Morgen!
+afternoon         --- Nachmittag            --- Am Nachmittag arbeite ich.
+evening           --- Abend                 --- Wir gehen abends spazieren.
+night             --- Nacht                 --- Gute Nacht!
+midnight          --- Mitternacht           --- Es ist schon Mitternacht.
+noon              --- Mittag                --- Wir essen um Mittag.
+early             --- früh                  --- Ich stehe immer früh auf.
+late              --- spät                  --- Ich bin heute spät dran.
+now               --- jetzt                 --- Was machst du jetzt?
+today             --- heute                 --- Heute ist ein schöner Tag.
+tomorrow          --- morgen                --- Wir sehen uns morgen.
+yesterday         --- gestern               --- Gestern war es sehr kalt.
+day               --- Tag                   --- Der Tag war sehr lang.
+week              --- Woche                 --- Diese Woche arbeite ich viel.
+weekend           --- Wochenende            --- Am Wochenende fahre ich weg.
+month             --- Monat                 --- Der Monat Januar ist sehr kalt.
+year              --- Jahr                  --- Ich werde nächstes Jahr 30 Jahre alt.
+clock             --- Uhr                   --- Die Uhr ist sehr alt.
+watch             --- Armbanduhr            --- Ich habe eine neue Armbanduhr.
+calendar          --- Kalender              --- Ich schaue im Kalender nach.
+
+----- Colors -----
+red               --- rot                   --- Meine Lieblingsfarbe ist rot.
+blue              --- blau                  --- Der Himmel ist blau.
+yellow            --- gelb                  --- Die Blumen sind gelb.
+green             --- grün                  --- Das Gras ist grün.
+orange            --- orange                --- Orangen sind orange.
+purple            --- lila                  --- Der Tisch ist lila.
+pink              --- rosa                  --- Das Kleid ist rosa.
+brown             --- braun                 --- Der Hund ist braun.
+black             --- schwarz               --- Der Hut ist schwarz.
+white             --- weiß                  --- Die Wand ist weiß.
+grey / gray       --- grau                  --- Der Himmel ist grau.
+light blue        --- hellblau              --- Das Meer ist hellblau.
+dark green        --- dunkelgrün            --- Der Wald ist dunkelgrün.
+beige             --- beige                 --- Die Wände sind beige.
+gold              --- gold                  --- Sie trägt ein goldenes Armband.
+silver            --- silber                --- Der Ring ist silber.
+
+----- Numbers & Counting -----
+zero              --- null                  --- Null ist keine Zahl.
+one               --- eins                  --- Eins ist die erste Zahl.
+two               --- zwei                  --- Zwei ist meine Glückszahl.
+three             --- drei                  --- Drei Katzen laufen im Garten.
+four              --- vier                  --- Ich habe vier Äpfel.
+five              --- fünf                  --- Es sind fünf Tage bis zum Wochenende.
+six               --- sechs                 --- Sechs Personen kommen zur Party.
+seven             --- sieben                --- Wir gehen in sieben Minuten.
+eight             --- acht                  --- Es gibt acht Stühle.
+nine              --- neun                  --- Neun Leute sind gekommen.
+ten               --- zehn                  --- Ich habe zehn Bananen.
+eleven            --- elf                   --- Es ist elf Uhr.
+twelve            --- zwölf                 --- Zwölf Monate hat ein Jahr.
+thirteen … twenty --- dreizehn … zwanzig     --- Ich habe dreizehn … zwanzig Euro.
+twenty-one … thirty --- einundzwanzig … dreißig --- Der Film dauert einundzwanzig … dreißig Minuten.
+thirty … one hundred --- dreißig … hundert   --- Es gibt dreißig bis hundert verschiedene Modelle.
+hundred           --- hundert               --- Ich habe hundert Bücher.
+thousand          --- tausend               --- Der Preis ist tausend Euro.
+million           --- Million               --- Eine Million Menschen waren da.
+number            --- Zahl                  --- Welche Zahl ist das?
+count             --- zählen                --- Wir zählen die Äpfel.
+how many?         --- wie viele?            --- Wie viele Äpfel hast du?
+more              --- mehr                  --- Ich möchte mehr Äpfel.
+less              --- weniger               --- Es gibt weniger Äpfel.
+a few             --- ein paar               --- Ich habe ein paar Freunde eingeladen.
+a lot             --- viel                   --- Es gibt viel zu tun.
+half              --- halb                   --- Ich habe die Pizza halb gegessen.
+dozen             --- Dutzend                --- Ich kaufe ein Dutzend Eier.
+pair              --- Paar                   --- Ich habe ein Paar Schuhe gekauft.
+
+
+-----------------------------------------------------------------------------------------------------
+
+English             --- German                       --- Usage / Example
+------------------------------------------------------------------------------------
+name                --- Name                         --- Mein Name ist John.
+age                 --- Alter                        --- Wie alt bist du?
+gender              --- Geschlecht                   --- Welches Geschlecht hast du?
+nationality         --- Nationalität                 --- Meine Nationalität ist Deutsch.
+address             --- Adresse                      --- Meine Adresse ist in Berlin.
+occupation          --- Beruf                        --- Was ist dein Beruf?
+marital status      --- Familienstand                --- Was ist dein Familienstand?
+ethnicity           --- Ethnizität                   --- Welche Ethnizität hast du?
+background          --- Hintergrund                   --- Was ist dein Hintergrund?
+identity            --- Identität                     --- Was ist deine Identität?
+appearance          --- Aussehen                      --- Ihr Aussehen ist sehr schön.
+citizenship         --- Staatsbürgerschaft            --- Ich habe die amerikanische Staatsbürgerschaft.
+relationship status  --- Beziehungsstatus              --- Ihr Beziehungsstatus ist verheiratet.
+residence           --- Wohnsitz                      --- Mein Wohnsitz ist in München.
+personality         --- Persönlichkeit                --- Sie hat eine freundliche Persönlichkeit.
+character           --- Charakter                     --- Sein Charakter ist sehr nett.
+nationality         --- Nationalität                 --- Meine Nationalität ist Spanisch.
+language            --- Sprache                       --- Welche Sprache sprichst du?
+native language     --- Muttersprache                 --- Meine Muttersprache ist Englisch.
+bilingual           --- zweisprachig                  --- Er ist zweisprachig, spricht Englisch und Spanisch.
+multilingual        --- mehrsprachig                  --- Sie ist mehrsprachig und spricht fünf Sprachen.
+English speaker     --- Englisch sprechend            --- Er ist ein Englisch sprechender Lehrer.
+French speaker      --- Französisch sprechend         --- Sie ist eine Französisch sprechende Dolmetscherin.
+Spanish speaker     --- Spanisch sprechend            --- Der Spanisch sprechende Guide ist sehr nett.
+German speaker      --- Deutsch sprechend             --- Der Deutsch sprechende Tourist war hilfsbereit.
+Chinese speaker     --- Chinesisch sprechend          --- Er ist ein Chinesisch sprechender Übersetzer.
+translator          --- Übersetzer                    --- Der Übersetzer hilft beim Dolmetschen.
+interpreter         --- Dolmetscher                   --- Der Dolmetscher übersetzt die Rede.
+foreign language    --- Fremdsprache                  --- Ich lerne eine neue Fremdsprache.
+accent              --- Akzent                        --- Ihr Akzent ist sehr stark.
+dialect             --- Dialekt                       --- Er spricht im süddeutschen Dialekt.
+fluent              --- fließend                      --- Sie spricht fließend Englisch.
+native              --- Muttersprachler               --- Er ist ein Muttersprachler.
+foreigner           --- Ausländer                     --- Der Ausländer hat uns besucht.
+job                 --- Job                           --- Welchen Job hast du?
+profession          --- Beruf                         --- Er hat einen akademischen Beruf.
+career              --- Karriere                      --- Sie hat eine erfolgreiche Karriere im IT-Bereich.
+employee            --- Angestellter                  --- Der Angestellte arbeitet im Büro.
+employer            --- Arbeitgeber                   --- Mein Arbeitgeber ist ein großes Unternehmen.
+manager             --- Manager                       --- Der Manager führt das Team.
+director            --- Direktor                      --- Sie ist die Direktorin des Unternehmens.
+teacher             --- Lehrer                        --- Der Lehrer erklärt die Aufgabe.
+doctor              --- Arzt                          --- Der Arzt hilft mir, mich zu erholen.
+nurse               --- Krankenschwester              --- Die Krankenschwester gibt mir Medikamente.
+engineer            --- Ingenieur                     --- Der Ingenieur arbeitet an neuen Technologien.
+lawyer              --- Anwalt                        --- Der Anwalt berät seine Klienten.
+chef                --- Koch                          --- Der Koch bereitet das Abendessen zu.
+artist              --- Künstler                      --- Der Künstler malt ein wunderschönes Bild.
+writer              --- Schriftsteller                --- Der Schriftsteller hat ein neues Buch veröffentlicht.
+actor               --- Schauspieler                  --- Der Schauspieler spielt die Hauptrolle im Film.
+musician            --- Musiker                       --- Der Musiker spielt Gitarre.
+programmer          --- Programmierer                 --- Der Programmierer schreibt Code für das neue Projekt.
+designer            --- Designer                      --- Der Designer hat das neue Logo entworfen.
+scientist           --- Wissenschaftler               --- Der Wissenschaftler forscht im Bereich der Biologie.
+accountant          --- Buchhalter                    --- Der Buchhalter verwaltet die Finanzen.
+architect           --- Architekt                     --- Der Architekt plant das neue Gebäude.
+photographer        --- Fotograf                      --- Der Fotograf hat viele beeindruckende Bilder gemacht.
+carpenter           --- Tischler                      --- Der Tischler baut das neue Möbelstück.
+plumber             --- Klempner                      --- Der Klempner repariert das Rohr.
+mechanic            --- Mechaniker                    --- Der Mechaniker repariert das Auto.
+height              --- Höhe                          --- Wie groß bist du?
+weight              --- Gewicht                       --- Wie viel wiegst du?
+build               --- Körperbau                     --- Er hat einen kräftigen Körperbau.
+body type           --- Körperform                    --- Ihre Körperform ist schlank.
+skin color          --- Hautfarbe                     --- Er hat eine helle Hautfarbe.
+hair color          --- Haarfarbe                     --- Sie hat braune Haarfarbe.
+eye color           --- Augenfarbe                    --- Meine Augenfarbe ist grün.
+facial features     --- Gesichtszüge                  --- Ihre Gesichtszüge sind sehr markant.
+face shape          --- Gesichtsform                  --- Seine Gesichtsform ist oval.
+hair type           --- Haartyp                       --- Sie hat lockiges Haar.
+hair length         --- Haarlänge                      --- Ihr Haar ist kurz.
+hairstyle           --- Frisur                        --- Meine Frisur ist neu.
+freckles            --- Sommersprossen                --- Sie hat viele Sommersprossen.
+scars               --- Narben                        --- Er hat eine Narbe am Arm.
+glasses             --- Brille                        --- Ich trage eine Brille.
+beard               --- Bart                          --- Der Bart des Mannes ist sehr lang.
+mustache            --- Schnurrbart                    --- Er trägt einen Schnurrbart.
+tattoos             --- Tattoos                       --- Sie hat zwei Tattoos auf ihrem Arm.
+piercings           --- Piercings                      --- Er hat ein Piercing an der Lippe.
+body hair           --- Körperbehaarung               --- Er hat wenig Körperbehaarung.
+teeth               --- Zähne                         --- Seine Zähne sind sehr weiß.
+posture             --- Haltung                       --- Ihre Haltung ist sehr aufrecht.
+shirt               --- Hemd                          --- Ich trage ein blaues Hemd.
+pants               --- Hose                          --- Er trägt eine schwarze Hose.
+shorts              --- Shorts                        --- Die Kinder tragen Shorts.
+dress               --- Kleid                          --- Sie trägt ein rotes Kleid.
+skirt               --- Rock                          --- Ich trage einen schwarzen Rock.
+jacket              --- Jacke                          --- Die Jacke ist warm.
+coat                --- Mantel                         --- Mein Mantel ist sehr dick.
+sweater             --- Pullover                       --- Er trägt einen grauen Pullover.
+t-shirt             --- T-Shirt                        --- Sie trägt ein T-Shirt.
+shoes               --- Schuhe                         --- Ich habe neue Schuhe gekauft.
+socks               --- Socken                         --- Er trägt bunte Socken.
+boots               --- Stiefel                        --- Meine Stiefel sind aus Leder.
+sandals             --- Sandalen                       --- Sie trägt Sandalen im Sommer.
+hat                 --- Hut                            --- Der Hut schützt vor Sonne.
+cap                 --- Mütze                          --- Ich trage eine Mütze bei kaltem Wetter.
+scarf               --- Schal                          --- Der Schal hält mich warm.
+gloves              --- Handschuhe                    --- Ich habe meine Handschuhe vergessen.
+belt                --- Gürtel                         --- Er trägt einen braunen Gürtel.
+watch               --- Uhr                            --- Sie trägt eine teure Uhr.
+ring                --- Ring                           --- Der Ring ist aus Gold.
+necklace            --- Halskette                      --- Sie trägt eine goldene Halskette.
+bracelet            --- Armband                        --- Das Armband ist schön.
+earrings            --- Ohrringe                       --- Ich trage Ohrringe zu meinem Outfit.
+handbag             --- Handtasche                     --- Sie hat eine rote Handtasche.
+backpack            --- Rucksack                       --- Mein Rucksack ist groß.
+wallet              --- Geldbörse                      --- Ich habe meine Geldbörse verloren.
+tie                 --- Krawatte                       --- Die Krawatte ist blau.
+sunglasses          --- Sonnenbrille                   --- Er trägt Sonnenbrillen.
+hoodie              --- Kapuzenpullover                --- Der Kapuzenpullover ist bequem.
+mittens             --- Fäustlinge                     --- Ich trage Fäustlinge im Winter.
+happy               --- glücklich                      --- Ich fühle mich heute glücklich.
+sad                 --- traurig                        --- Er ist traurig wegen des Verlusts.
+angry               --- wütend                         --- Er ist wütend über die Entscheidung.
+excited             --- aufgeregt                       --- Sie ist sehr aufgeregt wegen der Reise.
+scared              --- ängstlich                       --- Ich bin ängstlich, weil es dunkel ist.
+worried             --- besorgt                        --- Sie ist besorgt wegen ihrer Prüfung.
+nervous             --- nervös                         --- Ich bin nervös vor dem Interview.
+surprised           --- überrascht                     --- Sie war überrascht von der Nachricht.
+bored               --- gelangweilt                    --- Er fühlt sich gelangweilt.
+frustrated          --- frustriert                      --- Ich bin frustriert über das Ergebnis.
+calm                --- ruhig                          --- Sie bleibt ruhig in stressigen Situationen.
+anxious             --- ängstlich                      --- Ich bin nervös wegen der Prüfung.
+lonely              --- einsam                         --- Sie fühlt sich oft einsam.
+confident           --- selbstbewusst                 --- Er ist sehr selbstbewusst.
+embarrassed        --- verlegen                       --- Ich bin verlegen wegen meines Fehlers.
+relieved            --- erleichtert                    --- Sie fühlte sich erleichtert nach der schlechten Nachricht.
+hopeful             --- hoffnungsvoll                  --- Wir sind hoffnungsvoll, dass es besser wird.
+disappointed        --- enttäuscht                     --- Ich bin enttäuscht von der Entscheidung.
+ashamed             --- beschämt                       --- Er fühlt sich beschämt, weil er zu spät gekommen ist.
+guilty              --- schuldig                       --- Ich fühle mich schuldig wegen meines Verhaltens.
+proud               --- stolz                          --- Ich bin stolz auf meine Leistung.
+jealous             --- eifersüchtig                   --- Sie ist eifersüchtig auf ihren Erfolg.
+grateful            --- dankbar                        --- Ich bin dankbar für deine Hilfe.
+content             --- zufrieden                      --- Sie ist mit ihrem Leben zufrieden.
+confused            --- verwirrt                       --- Er ist verwirrt wegen der Anweisung.
+hurt                --- verletzt                       --- Ich habe mich beim Sport verletzt.
+kind                --- nett                           --- Er ist immer sehr nett zu allen.
+generous           --- großzügig                      --- Sie ist sehr großzügig und gibt viel.
+friendly            --- freundlich                     --- Er ist ein freundlicher Mensch.
+rude                --- unhöflich                      --- Sie ist oft unhöflich zu anderen.
+arrogant            --- arrogant                       --- Er ist arrogant und denkt, er ist besser.
+shy                 --- schüchtern                     --- Sie ist sehr schüchtern.
+outgoing            --- aufgeschlossen                 --- Er ist sehr aufgeschlossen und freundlich.
+confident           --- selbstbewusst                 --- Sie ist selbstbewusst in ihrer Arbeit.
+humble              --- bescheiden                     --- Er bleibt immer bescheiden, trotz seines Erfolgs.
+talkative           --- gesprächig                     --- Sie ist sehr gesprächig.
+quiet               --- ruhig                          --- Der Raum ist sehr ruhig.
+thoughtful          --- nachdenklich                   --- Er ist sehr nachdenklich in seiner Herangehensweise.
+honest              --- ehrlich                        --- Sie ist immer ehrlich zu mir.
+dishonest           --- unehrlich                      --- Er war unehrlich in der Diskussion.
+hardworking         --- fleißig                        --- Sie ist sehr fleißig bei der Arbeit.
+lazy                --- faul                           --- Er ist sehr faul und arbeitet nie.
+serious             --- ernst                          --- Sie ist sehr ernst in ihrer Arbeit.
+funny               --- lustig                         --- Er ist immer so lustig.
+creative            --- kreativ                        --- Sie ist sehr kreativ in ihrer Arbeit.
+organized           --- organisiert                    --- Sie ist immer gut organisiert.
+disorganized        --- unorganisiert                  --- Er ist oft unorganisiert.
+punctual            --- pünktlich                      --- Sie ist immer pünktlich.
+dependable          --- zuverlässig                    --- Sie ist sehr zuverlässig.
+reliable            --- verlässlich                    --- Er ist ein sehr verlässlicher Freund.
+sensitive           --- sensibel                       --- Sie ist sehr sensibel gegenüber den Gefühlen anderer.
+optimistic          --- optimistisch                   --- Sie ist sehr optimistisch für die Zukunft.
+pessimistic         --- pessimistisch                  --- Er ist pessimistisch über das Wetter.
+patient             --- geduldig                       --- Sie ist sehr geduldig mit den Kindern.
+impatient           --- ungeduldig                     --- Er ist ungeduldig und will schnell antworten.
+brave               --- mutig                          --- Sie ist sehr mutig und geht immer voran.
+selfish             --- egoistisch                     --- Er ist sehr egoistisch.
+loyal               --- loyal                          --- Sie ist sehr loyal zu ihren Freunden.
+adventurous         --- abenteuerlustig               --- Er ist abenteuerlustig und liebt Reisen.
+
+--------------------------------------------------------------------------------------------------------------------
+
+English             --- German                       --- Usage / Example
+------------------------------------------------------------------------------------
+food                --- Essen                         --- Ich liebe gutes Essen.
+drink               --- Getränk                       --- Möchtest du ein Getränk?
+beverage            --- Getränk                       --- Das Getränk ist erfrischend.
+snack               --- Snack                         --- Er hat einen kleinen Snack gegessen.
+meal                --- Mahlzeit                      --- Die Mahlzeit war sehr lecker.
+dessert             --- Nachtisch                     --- Zum Nachtisch gab es Kuchen.
+appetizer           --- Vorspeise                     --- Die Vorspeise war sehr scharf.
+sandwich            --- Sandwich                      --- Ich habe ein Sandwich zum Mittagessen.
+salad               --- Salat                         --- Der Salat ist sehr gesund.
+soup                --- Suppe                          --- Die Suppe ist sehr heiß.
+breakfast           --- Frühstück                     --- Ich habe ein gesundes Frühstück gegessen.
+lunch               --- Mittagessen                   --- Wir haben im Park zu Mittag gegessen.
+dinner              --- Abendessen                    --- Zum Abendessen gab es Pasta.
+appetizer           --- Vorspeise                     --- Die Vorspeise war lecker.
+soup                --- Suppe                          --- Die Suppe schmeckt hervorragend.
+main course         --- Hauptgericht                  --- Das Hauptgericht ist Lachs.
+side dish           --- Beilage                       --- Die Beilage war Kartoffeln.
+juice               --- Saft                          --- Der Orangensaft ist frisch.
+water               --- Wasser                         --- Kann ich bitte Wasser haben?
+soda                --- Limonade                       --- Ich trinke gerne Limonade.
+wine                --- Wein                           --- Er trinkt oft Rotwein.
+beer                --- Bier                           --- Wir haben Bier im Kühlschrank.
+coffee              --- Kaffee                         --- Ich trinke jeden Morgen Kaffee.
+tea                 --- Tee                            --- Sie trinkt grünen Tee.
+alcohol             --- Alkohol                        --- Trinken Sie Alkohol?
+milk                --- Milch                          --- Ich trinke gerne Milch.
+soft drink          --- Erfrischungsgetränk           --- Cola ist ein beliebtes Erfrischungsgetränk.
+cocktail            --- Cocktail                       --- Sie bestellt einen Cocktail.
+fruit juice         --- Fruchtsaft                     --- Ich mag Fruchtsaft.
+smoothie            --- Smoothie                       --- Der Smoothie ist aus Beeren.
+grocery store       --- Lebensmittelgeschäft          --- Ich gehe ins Lebensmittelgeschäft.
+supermarket         --- Supermarkt                     --- Der Supermarkt hat frisches Gemüse.
+market              --- Markt                          --- Ich kaufe oft auf dem Markt ein.
+cart / trolley      --- Einkaufswagen                 --- Der Einkaufswagen ist voll.
+cashier             --- Kassierer                      --- Der Kassierer scannte die Produkte.
+checkout            --- Kasse                          --- Ich bezahle an der Kasse.
+grocery list        --- Einkaufsliste                  --- Ich habe meine Einkaufsliste vergessen.
+receipt             --- Quittung                       --- Ich habe die Quittung aufbewahrt.
+aisle               --- Gang                           --- Die Milch ist im Gang vier.
+shelf               --- Regal                          --- Das Brot ist auf dem obersten Regal.
+basket              --- Korb                           --- Der Korb ist schwer.
+produce             --- Obst und Gemüse               --- Der Markt verkauft frisches Obst und Gemüse.
+dairy section       --- Molkereiregal                  --- Butter ist im Molkereiregal.
+meat section        --- Fleischabteilung               --- Rindfleisch ist in der Fleischabteilung.
+bakery              --- Bäckerei                       --- Die Bäckerei verkauft frisches Brot.
+frozen food         --- Tiefkühlkost                   --- Ich habe Tiefkühlkost gekauft.
+canned food         --- Konservendosen                 --- Er kauft oft Konservendosen.
+packaged food       --- Fertigverpackte Lebensmittel   --- Fertigverpackte Lebensmittel sind praktisch.
+organic food        --- Bio-Lebensmittel               --- Sie kauft immer Bio-Lebensmittel.
+discount            --- Rabatt                         --- Ich habe einen Rabatt bekommen.
+sale                --- Ausverkauf                     --- Im Ausverkauf gibt es viele Schnäppchen.
+promotion           --- Aktion                         --- Es gibt eine Sonderaktion im Supermarkt.
+clothes             --- Kleidung                       --- Sie trägt moderne Kleidung.
+clothing            --- Bekleidung                     --- Ich brauche neue Bekleidung.
+wardrobe            --- Kleiderschrank                 --- Der Kleiderschrank ist voll.
+jacket              --- Jacke                          --- Ich habe eine neue Jacke gekauft.
+shirt               --- Hemd                           --- Das Hemd ist blau.
+blouse              --- Bluse                          --- Sie trägt eine weiße Bluse.
+pants               --- Hose                           --- Die Hose ist sehr bequem.
+jeans               --- Jeans                           --- Diese Jeans sind sehr modisch.
+shorts              --- Shorts                         --- Ich trage im Sommer oft Shorts.
+skirt               --- Rock                           --- Sie trägt einen langen Rock.
+dress               --- Kleid                           --- Sie trägt ein rotes Kleid.
+sweater             --- Pullover                       --- Der Pullover ist warm.
+suit                --- Anzug                          --- Er trägt einen schwarzen Anzug.
+tie                 --- Krawatte                       --- Die Krawatte ist gestreift.
+scarf               --- Schal                          --- Der Schal hält mich warm.
+shoes               --- Schuhe                         --- Ich habe neue Schuhe gekauft.
+boots               --- Stiefel                        --- Diese Stiefel sind aus Leder.
+sandals             --- Sandalen                       --- Sandalen sind perfekt für den Sommer.
+hat                 --- Hut                            --- Er trägt einen großen Hut.
+gloves              --- Handschuhe                    --- Im Winter trage ich Handschuhe.
+socks               --- Socken                         --- Ich brauche neue Socken.
+sweater             --- Pullover                       --- Der Pullover ist schön warm.
+jacket              --- Jacke                          --- Er trägt eine Jacke, weil es kalt ist.
+size                --- Größe                          --- Welche Größe trägst du?
+small               --- klein                          --- Die Jacke ist zu klein.
+medium              --- mittel                         --- Ich habe das in mittlerer Größe gekauft.
+large               --- groß                           --- Die Hose ist in Größe groß.
+extra large         --- extra groß                     --- Das T-Shirt ist extra groß.
+fit                 --- passt                          --- Der Schuh passt mir gut.
+loose               --- locker                         --- Die Hose ist zu locker.
+tight               --- eng                            --- Das Hemd ist zu eng.
+size chart          --- Größenübersicht               --- Schau dir die Größenübersicht an.
+price               --- Preis                          --- Wie viel kostet der Artikel?
+cost                --- Kosten                         --- Die Kosten sind sehr hoch.
+value               --- Wert                           --- Das Produkt hat einen guten Wert.
+discount            --- Rabatt                         --- Es gibt einen Rabatt auf das Kleid.
+sale                --- Ausverkauf                     --- Der Ausverkauf beginnt morgen.
+budget              --- Budget                         --- Mein Budget für die Reise ist begrenzt.
+affordable          --- erschwinglich                  --- Die Preise sind erschwinglich.
+expensive           --- teuer                          --- Das Auto ist sehr teuer.
+cheap               --- billig                         --- Diese Tasche ist billig.
+pricey              --- teuer                          --- Der neue Laptop ist ziemlich teuer.
+change              --- Wechselgeld                    --- Ich habe kein Wechselgeld.
+receipt             --- Quittung                       --- Ich habe die Quittung verloren.
+bill                --- Rechnung                       --- Die Rechnung muss noch bezahlt werden.
+credit card         --- Kreditkarte                    --- Ich bezahle mit meiner Kreditkarte.
+debit card          --- Debitkarte                     --- Er bezahlt mit der Debitkarte.
+cash                --- Bargeld                        --- Ich habe nur Bargeld.
+coins               --- Münzen                         --- Ich habe keine Münzen.
+banknotes           --- Banknoten                      --- Ich habe keine Banknoten mehr.
+pay                 --- bezahlen                       --- Ich muss noch bezahlen.
+payment             --- Zahlung                        --- Die Zahlung ist erfolgreich.
+shopping cart       --- Einkaufswagen                 --- Der Einkaufswagen ist voll.
+checkout            --- Kasse                          --- Ich gehe zur Kasse.
+tip                 --- Trinkgeld                      --- Er gibt dem Kellner ein Trinkgeld.
+coupon              --- Gutschein                      --- Der Gutschein gibt 10% Rabatt.
+exchange rate       --- Wechselkurs                    --- Der Wechselkurs ist günstig.
+refund              --- Rückerstattung                 --- Ich habe eine Rückerstattung erhalten.
+return              --- Rückgabe                       --- Die Rückgabe des Produkts war einfach.
+shop                --- Laden                          --- Ich gehe in den Laden.
+store               --- Geschäft                       --- Das Geschäft ist geschlossen.
+mall                --- Einkaufszentrum                --- Wir gehen ins Einkaufszentrum.
+boutique            --- Boutique                       --- Sie kauft in einer kleinen Boutique ein.
+department store    --- Kaufhaus                       --- Das Kaufhaus hat viele Abteilungen.
+shopping center     --- Einkaufszentrum                --- Das Einkaufszentrum ist groß.
+supermarket         --- Supermarkt                     --- Der Supermarkt ist in der Nähe.
+online store        --- Online-Shop                    --- Ich habe es im Online-Shop gekauft.
+service             --- Service                        --- Der Service war ausgezeichnet.
+customer service    --- Kundenservice                  --- Der Kundenservice ist freundlich.
+shopping cart       --- Einkaufswagen                 --- Der Einkaufswagen ist voll.
+gift card           --- Geschenkkarte                  --- Ich habe eine Geschenkkarte erhalten.
+delivery            --- Lieferung                       --- Die Lieferung kommt morgen.
+return policy       --- Rückgabebedingungen            --- Sie haben eine großzügige Rückgabebedingung.
+exchange            --- Umtausch                        --- Der Umtausch war problemlos.
+repair shop         --- Reparaturwerkstatt             --- Das Handy ist in der Reparaturwerkstatt.
+beauty salon        --- Schönheitssalon                --- Sie geht regelmäßig ins Schönheitssalon.
+pharmacy            --- Apotheke                       --- Ich gehe in die Apotheke, um Medizin zu holen.
+post office         --- Postamt                        --- Das Postamt schließt um 18 Uhr.
+
+
+--------------------------------------------------------------------------------------------------------------------
+English             --- German                       --- Usage / Example
+------------------------------------------------------------------------------------
+breakfast           --- Frühstück                     --- Zum Frühstück esse ich Müsli.
+lunch               --- Mittagessen                   --- Wir haben ein leichtes Mittagessen.
+dinner              --- Abendessen                    --- Zum Abendessen gab es Pizza.
+snack               --- Snack                         --- Ich habe einen kleinen Snack gegessen.
+dessert             --- Nachtisch                     --- Zum Nachtisch gab es Kuchen.
+brunch              --- Brunch                        --- Wir hatten am Sonntag Brunch.
+late lunch          --- Spätes Mittagessen            --- Ein spätes Mittagessen ist um 15 Uhr.
+evening snack       --- Abend-Snack                   --- Ich habe einen Abend-Snack gegessen.
+takeout             --- Mitnehmen                     --- Wir haben Takeout bestellt.
+leftovers           --- Reste                          --- Ich esse die Reste vom Mittagessen.
+buffet              --- Buffet                        --- Im Hotel gibt es ein reichhaltiges Buffet.
+picnic              --- Picknick                      --- Wir machen heute ein Picknick im Park.
+coffee break        --- Kaffeepause                   --- Ich mache eine kurze Kaffeepause.
+afternoon tea       --- Nachmittagstee                --- Wir trinken nachmittags gerne Tee.
+ingredient          --- Zutat                          --- Welche Zutaten brauchen wir für das Rezept?
+flour               --- Mehl                           --- Du brauchst 200g Mehl.
+sugar               --- Zucker                         --- Der Kuchen braucht viel Zucker.
+salt                --- Salz                           --- Ein wenig Salz macht das Gericht besser.
+pepper              --- Pfeffer                        --- Gib etwas Pfeffer dazu.
+butter              --- Butter                         --- Die Butter schmilzt schnell.
+oil                 --- Öl                             --- Du solltest Olivenöl verwenden.
+olive oil           --- Olivenöl                       --- Olivenöl ist gesund für Salate.
+vinegar             --- Essig                          --- Essig wird oft in Dressings verwendet.
+garlic              --- Knoblauch                      --- Füge etwas Knoblauch hinzu.
+onion               --- Zwiebel                        --- Schneide die Zwiebel in kleine Stücke.
+tomato              --- Tomate                         --- Ich brauche zwei Tomaten für das Rezept.
+lemon               --- Zitrone                        --- Der Saft einer Zitrone reicht.
+spices              --- Gewürze                        --- Ich verwende verschiedene Gewürze.
+herbs               --- Kräuter                        --- Frische Kräuter geben dem Gericht Geschmack.
+baking powder       --- Backpulver                     --- Du musst Backpulver hinzufügen.
+yeast               --- Hefe                           --- Die Hefe muss aufgelöst werden.
+cream               --- Sahne                          --- Ich mag Sahne in meinen Kaffee.
+milk                --- Milch                          --- Ich trinke gerne Milch zum Frühstück.
+eggs                --- Eier                           --- Wir brauchen sechs Eier für das Rezept.
+cheese              --- Käse                           --- Der Käse muss gerieben werden.
+chocolate           --- Schokolade                     --- Ich esse Schokolade als Dessert.
+honey               --- Honig                          --- Ich süße den Tee mit Honig.
+nuts                --- Nüsse                          --- Nüsse sind gut für die Gesundheit.
+beans               --- Bohnen                         --- Wir essen Bohnen als Beilage.
+rice                --- Reis                           --- Ich koche oft Reis.
+pasta               --- Pasta                          --- Wir essen heute Pasta.
+noodles             --- Nudeln                         --- Die Nudeln sind schon gekocht.
+sauce               --- Soße                           --- Die Soße passt gut zum Fleisch.
+broth               --- Brühe                          --- Ich mache eine Gemüsesuppe mit Brühe.
+stock               --- Fond                           --- Der Fond gibt der Suppe Geschmack.
+apple               --- Apfel                          --- Ein Apfel ist gesund.
+banana              --- Banane                         --- Ich esse eine Banane zum Frühstück.
+orange              --- Orange                         --- Ich trinke frisch gepressten Orangensaft.
+strawberry          --- Erdbeere                       --- Erdbeeren sind lecker im Sommer.
+grape               --- Traube                         --- Ich esse gerne Trauben.
+watermelon          --- Wassermelone                   --- Wassermelone ist im Sommer erfrischend.
+melon               --- Melone                         --- Melonen sind süß und saftig.
+lemon               --- Zitrone                        --- Zitrone verleiht den Gerichten Frische.
+pear                --- Birne                          --- Birnen sind saftig und süß.
+peach               --- Pfirsich                       --- Pfirsiche sind im Sommer sehr lecker.
+plum                --- Pflaume                        --- Pflaumen sind süß und saftig.
+pineapple           --- Ananas                         --- Ananas ist tropisch und süß.
+avocado             --- Avocado                        --- Ich mache einen Avocadosalat.
+tomato              --- Tomate                         --- Tomaten sind gesund und reich an Vitaminen.
+cucumber            --- Gurke                          --- Die Gurke gibt dem Salat Frische.
+carrot              --- Karotte                        --- Ich esse gern Karotten als Snack.
+lettuce             --- Salat                           --- Wir essen einen frischen Salat.
+spinach             --- Spinat                         --- Spinat ist sehr gesund.
+broccoli            --- Brokkoli                       --- Brokkoli enthält viele Vitamine.
+onion               --- Zwiebel                        --- Zwiebeln kommen in fast jedes Gericht.
+garlic              --- Knoblauch                      --- Ich liebe den Geschmack von Knoblauch.
+potato              --- Kartoffel                      --- Kartoffeln sind vielseitig.
+zucchini            --- Zucchini                       --- Zucchini ist ein tolles Gemüse.
+bell pepper         --- Paprika                        --- Paprika kann in vielen Gerichten verwendet werden.
+eggplant            --- Aubergine                      --- Auberginen sind perfekt für Ratatouille.
+peas                --- Erbsen                         --- Erbsen sind ein klassisches Gemüse.
+green beans         --- grüne Bohnen                  --- Grüne Bohnen passen gut zu Fleisch.
+asparagus           --- Spargel                        --- Spargel ist ein Frühlingsgemüse.
+cabbage             --- Kohl                           --- Kohl ist ein sehr gesundes Gemüse.
+mushroom            --- Pilz                           --- Pilze schmecken gut in Salaten.
+corn                --- Mais                           --- Maiskolben sind im Sommer beliebt.
+meat                --- Fleisch                        --- Wir essen heute Rindfleisch.
+beef                --- Rindfleisch                    --- Das Rindfleisch ist zart und saftig.
+pork                --- Schweinefleisch                --- Schweinefleisch wird oft gegrillt.
+chicken             --- Hähnchen                       --- Hähnchen ist ein beliebtes Gericht.
+lamb                --- Lamm                           --- Lammfleisch ist sehr zart.
+turkey              --- Truthahn                       --- Wir essen Truthahn zu Thanksgiving.
+fish                --- Fisch                           --- Fisch ist gesund und lecker.
+seafood             --- Meeresfrüchte                  --- Meeresfrüchte sind teuer, aber lecker.
+bacon               --- Speck                          --- Ich mag Speck zum Frühstück.
+sausage             --- Wurst                          --- Wurst ist eine beliebte Beilage.
+steak               --- Steak                          --- Das Steak war perfekt gebraten.
+ham                 --- Schinken                       --- Schinken wird oft in Sandwiches gegessen.
+deli meat           --- Aufschnitt                     --- Der Aufschnitt ist frisch.
+yogurt              --- Joghurt                        --- Ich esse Joghurt mit Obst.
+milk                --- Milch                          --- Ich nehme gerne Milch in meinen Kaffee.
+cheese              --- Käse                           --- Käse schmeckt gut auf Brot.
+butter              --- Butter                         --- Butter wird oft in der Küche verwendet.
+cream               --- Sahne                          --- Sahne macht das Dessert cremig.
+ice cream           --- Eiscreme                       --- Im Sommer esse ich gerne Eiscreme.
+eggs                --- Eier                           --- Rührei wird aus Eiern gemacht.
+tea                 --- Tee                            --- Tee ist sehr beruhigend.
+coffee              --- Kaffee                         --- Ich trinke morgens immer Kaffee.
+water               --- Wasser                         --- Ich habe Wasser in meiner Flasche.
+juice               --- Saft                           --- Ich trinke immer frischen Orangensaft.
+soft drink          --- Erfrischungsgetränk           --- Cola ist ein Soft Drink.
+soda                --- Limonade                       --- Er trinkt Soda zum Mittagessen.
+beer                --- Bier                           --- Bier wird oft in sozialen Situationen getrunken.
+wine                --- Wein                           --- Wir trinken Wein zum Abendessen.
+cocktail            --- Cocktail                       --- Ich habe einen Cocktail bestellt.
+energy drink        --- Energydrink                    --- Er trinkt einen Energydrink vor dem Training.
+smoothie            --- Smoothie                       --- Ich mache mir einen Erdbeersmoothie.
+kitchen             --- Küche                          --- Die Küche ist sehr modern.
+stove               --- Herd                           --- Der Herd funktioniert gut.
+oven                --- Ofen                           --- Der Ofen ist vorgeheizt.
+fridge              --- Kühlschrank                    --- Ich stelle das Getränk in den Kühlschrank.
+freezer             --- Gefrierschrank                 --- Der Gefrierschrank ist voll.
+microwave           --- Mikrowelle                     --- Ich habe das Mittagessen in der Mikrowelle erwärmt.
+toaster             --- Toaster                         --- Ich habe das Brot im Toaster geröstet.
+kettle              --- Wasserkocher                   --- Ich koche Wasser im Wasserkocher.
+blender             --- Mixer                          --- Der Mixer hilft beim Mischen von Zutaten.
+coffee maker        --- Kaffeemaschine                 --- Die Kaffeemaschine ist kaputt.
+mixer               --- Handmixer                      --- Ich benutze den Mixer für den Teig.
+saucepan            --- Kasserolle                      --- Die Suppe kocht in der Kasserolle.
+frying pan          --- Bratpfanne                      --- Ich brate das Gemüse in der Bratpfanne.
+pot                 --- Topf                            --- Der Topf ist sehr groß.
+baking tray         --- Backblech                      --- Ich lege den Teig auf das Backblech.
+cutting board       --- Schneidebrett                  --- Schneide das Gemüse auf dem Schneidebrett.
+knife               --- Messer                          --- Das Messer ist sehr scharf.
+spoon               --- Löffel                          --- Ich esse Suppe mit einem Löffel.
+fork                --- Gabel                           --- Benutze eine Gabel für den Salat.
+plate               --- Teller                          --- Der Teller ist voll.
+bowl                --- Schüssel                        --- Die Schüssel ist groß.
+glass               --- Glas                            --- Ich trinke aus einem Glas.
+mug                 --- Becher                          --- Der Becher ist aus Keramik.
+cup                 --- Tasse                          --- Ich habe eine Tasse Kaffee getrunken.
+sieve               --- Sieb                            --- Du solltest das Mehl durch ein Sieb sieben.
+grater              --- Reibe                           --- Reibe den Käse mit der Reibe.
+can opener          --- Dosenöffner                    --- Der Dosenöffner ist kaputt.
+bottle opener       --- Flaschenöffner                 --- Ich brauche einen Flaschenöffner.
+peeler              --- Schälmesser                    --- Benutze das Schälmesser für die Kartoffeln.
+colander            --- Sieb                            --- Wasche die Nudeln im Sieb.
+spatula             --- Spatel                          --- Du kannst den Teig mit dem Spatel umdrehen.
+tongs               --- Zange                           --- Ich benutze die Zange für das Grillen.
+ladle               --- Schöpfkelle                    --- Benutze die Schöpfkelle für die Suppe.
+strainer            --- Abtropfsieb                     --- Gieße die Pasta durch das Abtropfsieb.
+
+
+--------------------------------------------------------------------------------------------------------------------
+English             --- German                       --- Usage / Example
+------------------------------------------------------------------------------------
+school              --- Schule                         --- Ich gehe zur Schule.
+classroom           --- Klassenzimmer                  --- Das Klassenzimmer ist groß.
+teacher             --- Lehrer                         --- Der Lehrer erklärt die Aufgabe.
+student             --- Schüler                        --- Der Schüler liest das Buch.
+lesson              --- Unterricht                     --- Der Unterricht beginnt um 8 Uhr.
+homework            --- Hausaufgabe                    --- Ich muss meine Hausaufgaben machen.
+exam                --- Prüfung                        --- Die Prüfung ist nächste Woche.
+test                --- Test                           --- Ich habe einen Test in Mathe.
+grade               --- Note                           --- Ich habe eine gute Note bekommen.
+mark                --- Punkt                          --- Er hat viele Punkte in der Prüfung erzielt.
+class               --- Klasse                         --- Die Klasse ist sehr motiviert.
+blackboard          --- Tafel                          --- Der Lehrer schreibt an die Tafel.
+whiteboard          --- Whiteboard                     --- Das Whiteboard ist leer.
+desk                --- Schreibtisch                    --- Mein Schreibtisch ist ordentlich.
+chair               --- Stuhl                          --- Der Stuhl ist bequem.
+notebook            --- Notizbuch                      --- Ich schreibe alles in mein Notizbuch.
+pen                 --- Stift                          --- Ich habe einen blauen Stift.
+pencil              --- Bleistift                      --- Ich schreibe mit einem Bleistift.
+eraser              --- Radiergummi                    --- Ich habe mein Radiergummi verloren.
+ruler               --- Lineal                         --- Du musst das Lineal benutzen.
+bag                 --- Tasche                         --- Meine Tasche ist schwer.
+uniform             --- Uniform                        --- Wir tragen eine Schuluniform.
+schedule            --- Stundenplan                    --- Der Stundenplan ist sehr voll.
+recess              --- Pause                          --- Wir haben eine halbe Stunde Pause.
+principal           --- Direktor                       --- Der Direktor spricht mit den Eltern.
+
+math                --- Mathematik                     --- Ich mag Mathematik.
+science             --- Wissenschaft                   --- Wir lernen viel über Wissenschaft.
+biology             --- Biologie                       --- Biologie ist ein interessantes Fach.
+physics             --- Physik                         --- Physik ist schwer für mich.
+chemistry           --- Chemie                         --- Chemie ist ein spannendes Fach.
+history             --- Geschichte                     --- Geschichte ist mein Lieblingsfach.
+geography           --- Geografie                       --- Geografie beschäftigt sich mit Karten.
+literature          --- Literatur                       --- Literatur ist ein Teil des Studiums.
+language            --- Sprache                         --- Wir lernen Englisch als Fremdsprache.
+English             --- Englisch                       --- Englisch ist eine Weltsprache.
+art                 --- Kunst                           --- Kunst ist kreativ.
+music               --- Musik                          --- Musik beruhigt mich.
+computer science    --- Informatik                     --- Informatik ist ein sehr modernes Fach.
+physical education (PE) --- Sport                        --- Sport ist wichtig für die Gesundheit.
+textbook            --- Lehrbuch                       --- Das Lehrbuch ist sehr hilfreich.
+dictionary          --- Wörterbuch                     --- Ich benutze ein Wörterbuch zum Übersetzen.
+calculator          --- Taschenrechner                 --- Ich habe meinen Taschenrechner vergessen.
+highlighter         --- Textmarker                     --- Ich habe wichtige Sätze mit Textmarkern markiert.
+folder              --- Ordner                         --- Ich habe alle Dokumente in einem Ordner.
+glue                --- Kleber                          --- Wir benötigen Kleber für das Basteln.
+scissors            --- Schere                          --- Ich schneide mit einer Schere.
+university          --- Universität                     --- Ich studiere an der Universität.
+college             --- Hochschule                      --- Das College bietet viele Kurse an.
+campus              --- Campus                         --- Der Campus ist sehr schön.
+lecture             --- Vorlesung                       --- Die Vorlesung beginnt um 9 Uhr.
+professor           --- Professor                       --- Der Professor ist sehr erfahren.
+degree              --- Abschluss                       --- Ich habe meinen Abschluss gemacht.
+course              --- Kurs                            --- Der Kurs ist sehr informativ.
+major               --- Hauptfach                       --- Mein Hauptfach ist Mathematik.
+dormitory           --- Wohnheim                       --- Ich wohne im Wohnheim.
+library             --- Bibliothek                      --- Die Bibliothek ist ruhig und groß.
+tuition             --- Studiengebühren                --- Die Studiengebühren sind teuer.
+student ID          --- Studenten-ID                    --- Ich habe meine Studenten-ID vergessen.
+graduation          --- Abschluss                       --- Die Abschlussfeier war sehr emotional.
+thesis              --- Diplomarbeit                    --- Ich schreibe meine Diplomarbeit.
+seminar             --- Seminar                         --- Das Seminar dauert zwei Stunden.
+exam                --- Prüfung                         --- Die Prüfung ist am Freitag.
+credit              --- Kredit                          --- Ich habe genügend Credits für das Semester.
+scholarship         --- Stipendium                      --- Sie hat ein Stipendium bekommen.
+
+office              --- Büro                            --- Ich arbeite im Büro.
+desk                --- Schreibtisch                    --- Mein Schreibtisch ist sehr ordentlich.
+computer            --- Computer                        --- Ich arbeite am Computer.
+printer             --- Drucker                         --- Der Drucker ist kaputt.
+scanner             --- Scanner                         --- Ich muss das Dokument scannen.
+photocopier         --- Fotokopierer                    --- Der Fotokopierer funktioniert nicht.
+meeting             --- Besprechung                     --- Wir haben morgen eine Besprechung.
+email               --- E-Mail                          --- Ich habe eine E-Mail geschickt.
+report              --- Bericht                         --- Der Bericht muss bis morgen abgegeben werden.
+file                --- Akte                            --- Die Akte ist im Schrank.
+folder              --- Ordner                          --- Alle Papiere sind im Ordner.
+keyboard            --- Tastatur                        --- Die Tastatur ist sehr laut.
+mouse               --- Maus                            --- Die Maus funktioniert nicht richtig.
+phone               --- Telefon                         --- Ich muss ein Telefonat führen.
+fax                 --- Fax                             --- Ich habe das Dokument per Fax gesendet.
+notepad             --- Notizblock                      --- Ich schreibe es in meinen Notizblock.
+calendar            --- Kalender                        --- Der Kalender zeigt alle Termine an.
+employee            --- Mitarbeiter                     --- Der Mitarbeiter arbeitet im Büro.
+boss                --- Chef                            --- Der Chef ist sehr nett.
+manager             --- Manager                         --- Der Manager führt das Team.
+colleague           --- Kollege                         --- Mein Kollege ist sehr hilfsbereit.
+
+job                 --- Job                             --- Ich habe einen neuen Job.
+work                --- Arbeit                           --- Ich gehe jeden Tag zur Arbeit.
+task                --- Aufgabe                         --- Ich habe eine wichtige Aufgabe.
+project             --- Projekt                         --- Das Projekt ist sehr herausfordernd.
+deadline            --- Frist                            --- Die Frist für die Abgabe ist nächste Woche.
+meeting             --- Besprechung                     --- Wir haben um 10 Uhr ein Meeting.
+presentation        --- Präsentation                    --- Ich muss eine Präsentation halten.
+promotion           --- Beförderung                     --- Sie hat eine Beförderung erhalten.
+salary              --- Gehalt                          --- Das Gehalt ist fair.
+wage                --- Lohn                            --- Der Lohn wird monatlich gezahlt.
+hour                --- Stunde                          --- Die Arbeitszeit ist von 9 bis 17 Uhr.
+shift               --- Schicht                          --- Er arbeitet in der Nachtschicht.
+break               --- Pause                           --- Wir haben eine 15-minütige Pause.
+resign              --- Kündigen                        --- Ich habe beschlossen, zu kündigen.
+retire              --- In Rente gehen                  --- Sie wird in zwei Jahren in Rente gehen.
+vacation            --- Urlaub                          --- Ich habe nächstes Monat Urlaub.
+contract            --- Vertrag                         --- Der Vertrag wurde unterschrieben.
+freelance           --- Freiberuflich                    --- Ich arbeite als Freiberufler.
+remote work         --- Remote-Arbeit                   --- Ich arbeite von zu Hause aus.
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+🚗 Travel & Transport
+
+Directions & Locations
+-----------------------------------------------------------
+left             --- links                         --- Gehen Sie links.
+right            --- rechts                        --- Gehen Sie nach rechts.
+straight         --- gerade                        --- Gehen Sie geradeaus.
+intersection     --- Kreuzung                      --- An der nächsten Kreuzung biegen Sie links ab.
+corner           --- Ecke                          --- Die Schule ist an der Ecke.
+crosswalk        --- Fußgängerüberweg              --- Benutzen Sie den Fußgängerüberweg.
+road             --- Straße                        --- Die Straße ist blockiert.
+street           --- Straße                        --- Die Straße ist sehr lang.
+avenue           --- Allee                         --- Die Allee ist voller Bäume.
+square           --- Platz                         --- Wir treffen uns auf dem Marktplatz.
+roundabout       --- Kreisverkehr                  --- Fahren Sie im Kreisverkehr nach rechts.
+bridge           --- Brücke                        --- Die Brücke führt über den Fluss.
+tunnel           --- Tunnel                        --- Der Tunnel ist lang.
+near             --- in der Nähe                   --- Das Café ist in der Nähe.
+far              --- weit                          --- Der Park ist weit entfernt.
+next to          --- neben                         --- Das Auto steht neben dem Haus.
+in front of      --- vor                           --- Das Hotel ist vor dem Bahnhof.
+behind           --- hinter                        --- Die Schule ist hinter der Bibliothek.
+opposite         --- gegenüber                     --- Der Park ist gegenüber der Kirche.
+between          --- zwischen                      --- Die Post ist zwischen der Bank und dem Café.
+
+Vehicles
+-----------------------------------------------------------
+car              --- Auto                          --- Ich fahre ein Auto.
+bus              --- Bus                           --- Der Bus fährt in fünf Minuten ab.
+train            --- Zug                           --- Der Zug ist pünktlich.
+bicycle          --- Fahrrad                       --- Ich fahre mit dem Fahrrad zur Arbeit.
+motorbike        --- Motorrad                      --- Er fährt mit dem Motorrad.
+truck            --- Lkw                           --- Der Lkw liefert Waren.
+van              --- Van                           --- Der Van ist voll mit Gepäck.
+tram             --- Straßenbahn                   --- Die Straßenbahn fährt alle zehn Minuten.
+subway           --- U-Bahn                        --- Die U-Bahn ist schnell.
+taxi             --- Taxi                          --- Wir fahren mit dem Taxi zum Flughafen.
+scooter          --- Roller                         --- Ich fahre gerne mit dem Roller.
+ferry            --- Fähre                          --- Wir nehmen die Fähre über den See.
+boat             --- Boot                           --- Das Boot fährt morgen ab.
+ship             --- Schiff                         --- Das Schiff ist groß.
+plane            --- Flugzeug                      --- Wir fliegen mit dem Flugzeug.
+helicopter       --- Hubschrauber                  --- Der Hubschrauber fliegt über die Stadt.
+
+Road Signs & Traffic
+-----------------------------------------------------------
+stop             --- Stopp                         --- An der roten Ampel müssen Sie stoppen.
+go               --- fahren                        --- Sie können jetzt fahren.
+yield            --- Vorfahrt gewähren            --- Sie müssen an der Kreuzung Vorfahrt gewähren.
+no entry         --- Einfahrt verboten             --- Es gibt hier kein Einfahrtsschild.
+speed limit      --- Geschwindigkeitsbegrenzung    --- Achten Sie auf die Geschwindigkeitsbegrenzung.
+pedestrian       --- Fußgänger                     --- Der Fußgängerüberweg ist sicher.
+parking          --- Parken                        --- Es gibt keinen Parkplatz hier.
+traffic light    --- Ampel                         --- Die Ampel ist grün.
+roundabout       --- Kreisverkehr                  --- Fahren Sie im Kreisverkehr rechts.
+detour           --- Umleitung                     --- Es gibt eine Umleitung wegen Bauarbeiten.
+construction     --- Baustelle                     --- Es gibt eine Baustelle auf der Straße.
+one-way          --- Einbahnstraße                 --- Diese Straße ist eine Einbahnstraße.
+crossing         --- Übergang                      --- Der Zebrastreifen ist ein Fußgängerüberweg.
+highway          --- Autobahn                      --- Die Autobahn ist heute sehr voll.
+lane             --- Fahrspur                      --- Bitte bleiben Sie in Ihrer Fahrspur.
+
+Public Transport (Bus, Train, etc.)
+-----------------------------------------------------------
+bus              --- Bus                           --- Der Bus kommt in fünf Minuten.
+train            --- Zug                           --- Der Zug fährt nach München.
+metro            --- U-Bahn                        --- Nehmen Sie die U-Bahn zur nächsten Station.
+ticket           --- Ticket                        --- Ich habe ein Ticket für den Zug.
+platform         --- Bahnsteig                     --- Der Zug fährt von Bahnsteig 3 ab.
+station          --- Station                       --- Die nächste Station ist der Hauptbahnhof.
+stop             --- Halt                          --- Der Bus hält an der nächsten Haltestelle.
+schedule         --- Fahrplan                      --- Der Fahrplan zeigt die Abfahrtszeiten.
+delay            --- Verspätung                    --- Der Zug hat eine Verspätung.
+conductor        --- Schaffner                     --- Der Schaffner kontrolliert die Tickets.
+passenger        --- Passagier                     --- Der Passagier sitzt am Fenster.
+fare             --- Fahrpreis                     --- Der Fahrpreis für den Bus ist 2 Euro.
+monthly pass     --- Monatskarte                   --- Ich habe eine Monatskarte für die U-Bahn.
+arrival          --- Ankunft                       --- Die Ankunft des Zuges ist in 10 Minuten.
+departure        --- Abfahrt                       --- Die Abfahrt des Fluges wurde verschoben.
+
+Airport & Flying
+-----------------------------------------------------------
+airport          --- Flughafen                     --- Der Flughafen ist sehr groß.
+flight           --- Flug                          --- Der Flug ist pünktlich.
+pilot            --- Pilot                         --- Der Pilot fliegt das Flugzeug.
+cabin crew       --- Kabinenbesatzung              --- Die Kabinenbesatzung ist sehr freundlich.
+boarding pass    --- Bordkarte                     --- Zeigen Sie Ihre Bordkarte beim Boarding.
+passport         --- Reisepass                     --- Ich habe meinen Reisepass vergessen.
+check-in         --- Einchecken                    --- Wir müssen jetzt einchecken.
+security         --- Sicherheitskontrolle           --- Die Sicherheitskontrolle ist schnell.
+gate             --- Gate                          --- Unser Gate ist B23.
+terminal         --- Terminal                       --- Der Terminal ist gut ausgeschildert.
+luggage          --- Gepäck                        --- Wir holen unser Gepäck am Gepäckband ab.
+baggage          --- Gepäck                        --- Ich habe mein Gepäck verloren.
+carry-on         --- Handgepäck                    --- Ich nehme nur Handgepäck mit.
+customs          --- Zoll                          --- Wir müssen beim Zoll kontrolliert werden.
+duty-free        --- Duty-Free                     --- Ich kaufe Parfüm im Duty-Free-Shop.
+arrival          --- Ankunft                       --- Unsere Ankunft ist in 30 Minuten.
+departure        --- Abfahrt                       --- Die Abfahrt des Fluges wurde verschoben.
+landing          --- Landung                       --- Das Flugzeug hat sicher gelandet.
+take-off         --- Start                         --- Der Start war sehr ruhig.
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+🏥 Health & Body
+
+Body Parts
+-----------------------------------------------------------
+head             --- Kopf                          --- Mein Kopf tut weh.
+hair             --- Haar                          --- Sie hat braune Haare.
+eye              --- Auge                          --- Mein Auge ist rot.
+ear              --- Ohr                           --- Mein Ohr tut weh.
+nose             --- Nase                          --- Deine Nase ist rot.
+mouth            --- Mund                          --- Er hat einen Mundschutz.
+tooth            --- Zahn                          --- Mein Zahn tut weh.
+tongue           --- Zunge                         --- Ich habe mir die Zunge verbrannt.
+neck             --- Hals                          --- Mein Hals ist steif.
+shoulder         --- Schulter                       --- Meine Schulter ist verletzt.
+arm              --- Arm                           --- Mein Arm tut weh.
+elbow            --- Ellbogen                       --- Er hat sich den Ellbogen verletzt.
+hand             --- Hand                          --- Ich habe meine Hand verbrannt.
+finger           --- Finger                         --- Mein Finger ist blau.
+chest            --- Brust                          --- Meine Brust tut weh.
+back             --- Rücken                         --- Mein Rücken ist schmerzlich.
+stomach          --- Bauch                          --- Mein Bauch tut weh.
+leg              --- Bein                           --- Mein Bein ist gebrochen.
+knee             --- Knie                           --- Mein Knie ist geschwollen.
+foot             --- Fuß                            --- Mein Fuß tut weh.
+toe              --- Zeh                            --- Mein Zeh ist verletzt.
+
+Common Illnesses
+-----------------------------------------------------------
+fever            --- Fieber                         --- Ich habe Fieber.
+cold             --- Erkältung                     --- Ich habe eine Erkältung.
+cough            --- Husten                         --- Ich habe Husten.
+sore throat      --- Halsschmerzen                 --- Ich habe Halsschmerzen.
+flu              --- Grippe                        --- Ich habe die Grippe.
+headache         --- Kopfschmerzen                 --- Ich habe starke Kopfschmerzen.
+stomachache      --- Bauchschmerzen                --- Ich habe Bauchschmerzen.
+toothache        --- Zahnschmerzen                  --- Ich habe Zahnschmerzen.
+runny nose       --- Schnupfen                     --- Ich habe Schnupfen.
+sneeze           --- Niesen                         --- Er niest oft.
+allergy          --- Allergie                       --- Ich habe eine Pollenallergie.
+infection        --- Infektion                      --- Sie hat eine Hautinfektion.
+pain             --- Schmerz                        --- Ich habe Schmerzen im Rücken.
+rash             --- Ausschlag                      --- Sie hat einen Ausschlag.
+vomiting         --- Erbrechen                      --- Er hatte Erbrechen.
+
+Doctor & Pharmacy
+-----------------------------------------------------------
+doctor           --- Arzt                           --- Ich muss zum Arzt gehen.
+nurse            --- Krankenschwester               --- Die Krankenschwester hilft mir.
+patient          --- Patient                        --- Der Patient ist sehr krank.
+appointment      --- Termin                         --- Ich habe einen Arzttermin.
+clinic           --- Klinik                         --- Die Klinik öffnet um 8 Uhr.
+medicine         --- Medizin                        --- Ich nehme meine Medizin.
+prescription     --- Rezept                         --- Der Arzt hat mir ein Rezept gegeben.
+pharmacy         --- Apotheke                       --- Ich gehe in die Apotheke.
+pill             --- Pille                          --- Ich nehme meine Pille.
+syrup            --- Sirup                          --- Der Hustensaft hilft mir.
+injection        --- Injektion                       --- Die Injektion tut nicht weh.
+tablet           --- Tablette                       --- Ich muss eine Tablette nehmen.
+capsule          --- Kapsel                         --- Die Kapsel ist schwer zu schlucken.
+dose             --- Dosis                          --- Die Dosis ist einmal täglich.
+side effect      --- Nebenwirkung                   --- Die Nebenwirkung ist Übelkeit.
+consultation     --- Konsultation                   --- Ich habe einen Termin für eine Konsultation.
+
+Hospital Vocabulary
+-----------------------------------------------------------
+hospital         --- Krankenhaus                   --- Ich wurde ins Krankenhaus gebracht.
+emergency        --- Notfall                        --- Sie hat einen medizinischen Notfall.
+ambulance        --- Ambulanz                       --- Die Ambulanz kam schnell.
+surgery          --- Chirurgie                      --- Die Chirurgie war erfolgreich.
+operation        --- Operation                      --- Die Operation verlief gut.
+ward             --- Station                        --- Ich bin auf der Krankenstation.
+ICU              --- Intensivstation                --- Der Patient ist auf der Intensivstation.
+nurse            --- Krankenschwester               --- Die Krankenschwester ist sehr nett.
+doctor           --- Arzt                           --- Der Arzt hat mir geholfen.
+check-up         --- Untersuchung                   --- Ich habe einen regelmäßigen Check-up.
+blood test       --- Bluttest                       --- Ich muss einen Bluttest machen.
+x-ray            --- Röntgenbild                    --- Der Arzt macht ein Röntgenbild.
+scan             --- Scan                           --- Der Scan zeigt keine Probleme.
+diagnosis        --- Diagnose                       --- Der Arzt stellte eine Diagnose.
+treatment        --- Behandlung                     --- Die Behandlung dauert eine Woche.
+recovery         --- Genesung                       --- Die Genesung verläuft gut.
+
+Hygiene
+-----------------------------------------------------------
+soap             --- Seife                          --- Ich wasche meine Hände mit Seife.
+shampoo          --- Shampoo                        --- Ich benutze Shampoo zum Waschen.
+toothbrush       --- Zahnbürste                     --- Ich putze meine Zähne mit einer Zahnbürste.
+toothpaste       --- Zahnpasta                      --- Ich benutze Zahnpasta jeden Morgen.
+towel            --- Handtuch                       --- Ich trockne mich mit einem Handtuch ab.
+hand sanitizer   --- Handdesinfektionsmittel        --- Ich benutze Handdesinfektionsmittel.
+mask             --- Maske                          --- Ich trage eine Maske.
+tissue           --- Taschentuch                    --- Ich benutze ein Taschentuch.
+toilet paper     --- Toilettenpapier                --- Ich brauche Toilettenpapier.
+shower           --- Dusche                         --- Ich nehme eine Dusche.
+bath             --- Bad                            --- Ich nehme ein Bad.
+comb             --- Kamm                           --- Ich benutze einen Kamm für meine Haare.
+razor            --- Rasierer                       --- Ich habe den Rasierer benutzt.
+nail clipper     --- Nagelknipser                   --- Ich benutze einen Nagelknipser.
+deodorant        --- Deodorant                      --- Ich benutze Deodorant nach dem Duschen.
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+🏘️ Places in Town
+
+Buildings & Landmarks
+-----------------------------------------------------------
+school            --- Schule                          --- Ich gehe zur Schule.
+hospital          --- Krankenhaus                     --- Das Krankenhaus ist nah.
+library           --- Bibliothek                       --- Ich studiere in der Bibliothek.
+museum            --- Museum                          --- Das Museum ist sehr interessant.
+church            --- Kirche                          --- Wir gehen in die Kirche.
+mosque            --- Moschee                         --- Die Moschee ist groß.
+temple            --- Tempel                          --- Der Tempel ist alt.
+post office       --- Postamt                         --- Ich gehe zum Postamt.
+fire station      --- Feuerwehrstation                --- Die Feuerwehrstation ist in der Nähe.
+police station    --- Polizeistation                  --- Die Polizeistation ist sicher.
+town hall         --- Rathaus                         --- Das Rathaus ist im Zentrum.
+tower             --- Turm                            --- Der Turm ist sehr hoch.
+bridge            --- Brücke                          --- Wir gehen über die Brücke.
+statue            --- Statue                          --- Die Statue ist aus Bronze.
+monument          --- Denkmal                         --- Das Denkmal ist beeindruckend.
+
+Shops & Services
+-----------------------------------------------------------
+bakery            --- Bäckerei                        --- Ich kaufe Brot in der Bäckerei.
+butcher           --- Metzgerei                       --- Die Metzgerei verkauft frisches Fleisch.
+pharmacy          --- Apotheke                        --- Ich gehe in die Apotheke.
+grocery store     --- Lebensmittelgeschäft            --- Das Lebensmittelgeschäft ist hier.
+supermarket       --- Supermarkt                      --- Der Supermarkt hat viele Produkte.
+mall              --- Einkaufszentrum                 --- Das Einkaufszentrum ist groß.
+barber            --- Friseur                         --- Ich gehe zum Friseur.
+salon             --- Salon                           --- Der Salon bietet Haarschnitte an.
+bank              --- Bank                            --- Ich gehe zur Bank, um Geld abzuheben.
+ATM               --- Geldautomat                     --- Ich hole Geld vom Geldautomaten.
+garage            --- Garage                          --- Das Auto ist in der Garage.
+repair shop       --- Reparaturwerkstatt              --- Ich bringe mein Auto in die Reparaturwerkstatt.
+tailor            --- Schneider                       --- Der Schneider ändert mein Hemd.
+bookstore         --- Buchhandlung                    --- Ich kaufe ein Buch in der Buchhandlung.
+
+Parks & Entertainment Places
+-----------------------------------------------------------
+park              --- Park                            --- Wir gehen im Park spazieren.
+playground        --- Spielplatz                      --- Die Kinder spielen auf dem Spielplatz.
+cinema            --- Kino                            --- Wir gehen ins Kino, um einen Film zu sehen.
+theater           --- Theater                         --- Das Theater ist sehr berühmt.
+zoo               --- Zoo                             --- Der Zoo hat viele Tiere.
+aquarium          --- Aquarium                        --- Das Aquarium zeigt Fische.
+amusement park    --- Freizeitpark                    --- Der Freizeitpark hat viele Fahrgeschäfte.
+stadium           --- Stadion                         --- Das Stadion ist sehr groß.
+sports center     --- Sportzentrum                    --- Das Sportzentrum hat ein Schwimmbad.
+swimming pool     --- Schwimmbad                      --- Wir gehen ins Schwimmbad.
+museum            --- Museum                          --- Das Museum ist sehr informativ.
+art gallery       --- Kunstgalerie                    --- Die Kunstgalerie hat tolle Ausstellungen.
+concert hall      --- Konzerthalle                    --- Die Konzerthalle ist ausverkauft.
+
+City vs Countryside
+-----------------------------------------------------------
+city              --- Stadt                           --- Die Stadt ist sehr laut.
+town              --- Stadt                           --- Mein Bruder lebt in einer Stadt.
+village           --- Dorf                            --- Das Dorf ist sehr ruhig.
+countryside      --- Land                            --- Ich gehe gerne ins Land.
+urban             --- urban                           --- Das Leben in der Stadt ist urban.
+rural             --- ländlich                        --- Das Leben ist ländlich und ruhig.
+traffic           --- Verkehr                         --- Der Verkehr ist sehr stark.
+skyscraper        --- Wolkenkratzer                   --- Der Wolkenkratzer ist der höchste in der Stadt.
+public transport  --- öffentliche Verkehrsmittel      --- Wir nutzen öffentliche Verkehrsmittel.
+quiet             --- ruhig                           --- Es ist sehr ruhig in den Bergen.
+busy              --- beschäftigt                     --- Die Stadt ist immer beschäftigt.
+fields            --- Felder                          --- Wir fahren durch die Felder.
+forest            --- Wald                            --- Der Wald ist sehr schön.
+farm              --- Bauernhof                       --- Der Bauernhof hat viele Tiere.
+mountain          --- Berg                            --- Wir wandern im Berg.
+
+🧳 Holidays & Leisure
+
+Travel Planning
+-----------------------------------------------------------
+trip              --- Reise                           --- Ich plane eine Reise nach Berlin.
+travel            --- Reisen                          --- Reisen macht mir Spaß.
+holiday           --- Urlaub                          --- Ich nehme im Sommer Urlaub.
+vacation          --- Ferien                          --- Wir fahren in den Ferien ans Meer.
+itinerary         --- Reiseplan                       --- Mein Reiseplan ist gut organisiert.
+passport          --- Reisepass                       --- Ich habe meinen Reisepass vergessen.
+visa              --- Visum                           --- Ich benötige ein Visum für die Reise.
+booking           --- Buchung                         --- Ich habe die Hotelbuchung bestätigt.
+tickets           --- Tickets                         --- Ich habe die Tickets gekauft.
+map               --- Karte                           --- Die Karte zeigt den Weg.
+guidebook         --- Reiseführer                      --- Der Reiseführer hilft uns.
+tour              --- Tour                            --- Wir machen eine Stadttour.
+travel agency     --- Reisebüro                       --- Ich buche meine Reise im Reisebüro.
+tourist           --- Tourist                         --- Der Tourist fotografiert das Denkmal.
+plan              --- Plan                            --- Ich habe einen Plan für die Reise.
+destination       --- Ziel                            --- Mein Ziel ist Paris.
+
+Booking & Accommodation
+-----------------------------------------------------------
+hotel             --- Hotel                           --- Wir haben ein Zimmer im Hotel reserviert.
+hostel            --- Hostel                          --- Das Hostel ist sehr günstig.
+guesthouse        --- Gasthaus                        --- Das Gasthaus ist gemütlich.
+apartment         --- Wohnung                         --- Ich habe eine Wohnung gemietet.
+room              --- Zimmer                          --- Das Zimmer ist sehr groß.
+reservation       --- Reservierung                    --- Ich habe eine Reservierung gemacht.
+check-in          --- Einchecken                      --- Wir müssen um 14 Uhr einchecken.
+check-out         --- Auschecken                      --- Der Check-out ist um 11 Uhr.
+key               --- Schlüssel                       --- Ich habe den Schlüssel verloren.
+reception         --- Rezeption                       --- Die Rezeption ist im Erdgeschoss.
+bed               --- Bett                            --- Das Bett ist sehr bequem.
+bathroom          --- Badezimmer                      --- Das Badezimmer ist modern.
+single room       --- Einzelzimmer                    --- Ich habe ein Einzelzimmer gebucht.
+double room       --- Doppelzimmer                    --- Das Doppelzimmer hat ein großes Bett.
+suite             --- Suite                           --- Die Suite ist sehr luxuriös.
+
+Weather & Seasons
+-----------------------------------------------------------
+sunny             --- sonnig                          --- Das Wetter ist sonnig.
+rainy             --- regnerisch                       --- Heute ist es regnerisch.
+cloudy            --- bewölkt                         --- Der Himmel ist bewölkt.
+snowy             --- schneereich                     --- Es ist heute schneereich.
+stormy            --- stürmisch                        --- Es ist stürmisch draußen.
+windy             --- windig                          --- Es ist windig am Meer.
+hot               --- heiß                            --- Es ist heute sehr heiß.
+cold              --- kalt                            --- Der Winter ist kalt.
+warm              --- warm                            --- Der Frühling ist warm.
+cool              --- kühl                            --- Der Abend ist kühl.
+temperature       --- Temperatur                      --- Die Temperatur beträgt 20 Grad.
+forecast          --- Wettervorhersage                --- Die Wettervorhersage sagt Regen voraus.
+season            --- Saison                          --- Die Saison für Skifahren beginnt im Dezember.
+spring            --- Frühling                        --- Der Frühling ist meine Lieblingsjahreszeit.
+summer            --- Sommer                          --- Der Sommer ist sehr heiß.
+autumn / fall     --- Herbst                          --- Der Herbst ist wunderschön.
+winter            --- Winter                          --- Im Winter schneit es oft.
+
+--------------------------------------------------------------------------------------------------------------------
+
+Hobbies & Interests
+-----------------------------------------------------------
+reading           --- lesen                            --- Ich lese ein interessantes Buch.
+drawing           --- Zeichnen                         --- Sie liebt es, zu zeichnen.
+painting          --- Malen                            --- Er malt ein schönes Bild.
+writing           --- Schreiben                        --- Ich schreibe einen Brief.
+knitting          --- Stricken                         --- Meine Oma strickt einen Pullover.
+cooking           --- Kochen                           --- Ich koche gerne italienisches Essen.
+baking            --- Backen                           --- Ich backe einen Kuchen.
+gardening         --- Gärtnern                         --- Wir gärtnern im Garten.
+playing music     --- Musik spielen                    --- Ich spiele Gitarre.
+photography      --- Fotografie                       --- Sie macht gerne Fotos.
+dancing           --- Tanzen                           --- Wir gehen zum Tanzen.
+hiking            --- Wandern                          --- Wir gehen heute wandern.
+camping           --- Zelten                           --- Wir gehen jedes Jahr campen.
+fishing           --- Angeln                           --- Er geht oft angeln.
+collecting        --- Sammeln                          --- Sie sammelt Briefmarken.
+traveling         --- Reisen                           --- Ich reise gerne in neue Länder.
+watching movies   --- Filme schauen                    --- Wir schauen einen spannenden Film.
+playing games     --- Spiele spielen                   --- Er spielt Computerspiele.
+ 
+Sports
+-----------------------------------------------------------
+football / soccer --- Fußball                          --- Ich spiele gerne Fußball.
+basketball        --- Basketball                       --- Wir spielen Basketball im Park.
+tennis            --- Tennis                           --- Er spielt Tennis sehr gut.
+cricket           --- Cricket                          --- Sie spielen Cricket im Garten.
+baseball          --- Baseball                         --- Baseball ist in den USA sehr beliebt.
+volleyball        --- Volleyball                       --- Wir spielen Volleyball am Strand.
+swimming          --- Schwimmen                        --- Ich schwimme gerne im See.
+running           --- Laufen                           --- Ich gehe morgens laufen.
+cycling           --- Radfahren                        --- Er fährt mit dem Fahrrad zur Arbeit.
+gymnastics        --- Gymnastik                        --- Sie macht Gymnastik.
+karate            --- Karate                           --- Er trainiert Karate.
+yoga              --- Yoga                             --- Ich mache Yoga zur Entspannung.
+skiing            --- Skifahren                        --- Wir fahren im Winter Skifahren.
+surfing           --- Surfen                           --- Er liebt es, zu surfen.
+golf              --- Golf                             --- Golf ist ein entspannendes Spiel.
+badminton         --- Badminton                        --- Wir spielen Badminton im Garten.
+hockey            --- Hockey                           --- Hockey ist ein schneller Sport.
+skating           --- Schlittschuhlaufen               --- Sie geht gerne Schlittschuhlaufen.
+climbing          --- Klettern                          --- Er liebt es, in den Bergen zu klettern.
+
+💬 Communication & Media
+
+Phones & Email
+-----------------------------------------------------------
+phone             --- Telefon                          --- Ich habe das Telefon nicht gehört.
+mobile            --- Handy                            --- Ich habe mein Handy verloren.
+smartphone        --- Smartphone                       --- Mein Smartphone ist neu.
+landline          --- Festnetztelefon                  --- Wir haben noch ein Festnetztelefon.
+text              --- Text                             --- Ich habe ihm einen Text geschickt.
+message           --- Nachricht                        --- Ich habe eine Nachricht erhalten.
+call              --- Anruf                            --- Ich habe einen Anruf bekommen.
+voicemail         --- Voicemail                        --- Ich habe die Voicemail abgehört.
+email             --- E-Mail                           --- Ich habe ihm eine E-Mail geschickt.
+inbox             --- Posteingang                      --- Meine E-Mails sind im Posteingang.
+send              --- Senden                           --- Ich sende dir die Datei.
+receive           --- Empfangen                        --- Ich habe die Nachricht erhalten.
+attachment        --- Anhang                           --- Die E-Mail hatte einen Anhang.
+contact list      --- Kontaktliste                     --- Ich habe alle meine Kontakte gespeichert.
+
+Social Media
+-----------------------------------------------------------
+account           --- Konto                            --- Er hat ein neues Instagram-Konto.
+profile           --- Profil                            --- Sie hat ihr Profil aktualisiert.
+username          --- Benutzername                     --- Mein Benutzername ist @example.
+password          --- Passwort                          --- Ich habe mein Passwort vergessen.
+post              --- Post                              --- Ich habe ein Foto gepostet.
+comment           --- Kommentar                         --- Hinterlasse einen Kommentar.
+like              --- mögen                             --- Ich habe das Bild gemocht.
+share             --- teilen                            --- Teile diesen Beitrag.
+hashtag           --- Hashtag                           --- Verwende den Hashtag #sommer.
+follower          --- Follower                          --- Sie hat viele Follower.
+influencer        --- Influencer                        --- Er ist ein bekannter Influencer.
+notification      --- Benachrichtigung                 --- Ich habe eine Benachrichtigung erhalten.
+DM (direct message) --- Direktnachricht                 --- Ich habe ihm eine DM geschickt.
+story             --- Story                             --- Sie hat eine neue Story gepostet.
+feed              --- Feed                              --- Mein Feed ist voll von Fotos.
+
+TV & Radio
+-----------------------------------------------------------
+TV                --- Fernsehen                        --- Wir schauen jeden Abend Fernsehen.
+radio             --- Radio                            --- Ich höre gerne Radio.
+channel           --- Kanal                            --- Der Kanal zeigt viele Filme.
+station           --- Station                          --- Der Radiosender spielt Musik.
+program           --- Programm                         --- Das Programm ist sehr spannend.
+show              --- Show                             --- Die Show ist sehr unterhaltsam.
+episode           --- Episode                          --- Die nächste Episode kommt morgen.
+commercial        --- Werbung                          --- Ich hasse die Werbung.
+news              --- Nachrichten                       --- Die Nachrichten sind gerade zu Ende.
+weather report    --- Wetterbericht                    --- Der Wetterbericht sagt Regen voraus.
+sports show       --- Sportsendung                     --- Die Sportsendung ist sehr beliebt.
+cartoon           --- Zeichentrickfilm                 --- Die Kinder schauen einen Cartoon.
+remote control    --- Fernbedienung                    --- Ich habe die Fernbedienung gefunden.
+volume            --- Lautstärke                        --- Stell die Lautstärke bitte leiser.
+screen            --- Bildschirm                        --- Der Bildschirm ist sehr klar.
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+Internet Terms
+-----------------------------------------------------------
+website           --- Webseite                        --- Ich besuche die Webseite jeden Tag.
+browser           --- Browser                         --- Ich benutze einen neuen Browser.
+link              --- Link                             --- Klicke auf den Link, um mehr zu erfahren.
+download          --- Herunterladen                    --- Ich werde die Datei herunterladen.
+upload            --- Hochladen                        --- Ich lade das Bild auf die Website hoch.
+search            --- Suchen                           --- Ich werde nach Informationen suchen.
+homepage          --- Startseite                       --- Die Startseite ist sehr gut gestaltet.
+tab               --- Tab                              --- Öffne einen neuen Tab im Browser.
+URL               --- URL                              --- Die URL der Seite ist www.example.com.
+login             --- Einloggen                        --- Ich werde mich in meinem Konto einloggen.
+logout            --- Ausloggen                        --- Bitte logge dich aus, wenn du fertig bist.
+password          --- Passwort                         --- Ändere dein Passwort regelmäßig.
+account           --- Konto                            --- Ich habe ein neues Konto erstellt.
+Wi-Fi             --- WLAN                             --- Ich bin mit dem Wi-Fi verbunden.
+online            --- Online                           --- Wir sind jetzt online.
+offline           --- Offline                          --- Du bist derzeit offline.
+
+Newspapers
+-----------------------------------------------------------
+newspaper         --- Zeitung                          --- Ich lese die Zeitung jeden Morgen.
+headline          --- Schlagzeile                      --- Die Schlagzeile war sehr interessant.
+article           --- Artikel                          --- Der Artikel behandelt ein aktuelles Thema.
+editor            --- Redakteur                        --- Der Redakteur hat den Artikel bearbeitet.
+journalist        --- Journalist                       --- Der Journalist hat den Bericht geschrieben.
+report            --- Bericht                          --- Der Bericht ist sehr detailliert.
+photo             --- Foto                             --- Sie hat ein schönes Foto gemacht.
+column            --- Kolumne                          --- Die Kolumne war sehr informativ.
+review            --- Rezension                        --- Die Rezension des Films war positiv.
+interview         --- Interview                        --- Ich habe ein Interview gegeben.
+newsstand         --- Zeitungskiosk                    --- Ich habe die Zeitung am Kiosk gekauft.
+subscription      --- Abonnement                       --- Ich habe ein Abonnement für die Zeitung abgeschlossen.
+press             --- Presse                            --- Die Presse berichtete über das Ereignis.
+daily             --- Täglich                          --- Die Zeitung wird täglich veröffentlicht.
+weekly            --- Wöchentlich                       --- Der Bericht erscheint wöchentlich.
+
+🐶 Nature & Animals
+
+Wild & Domestic Animals
+-----------------------------------------------------------
+dog               --- Hund                             --- Der Hund läuft im Garten.
+cat               --- Katze                            --- Die Katze schläft auf dem Sofa.
+rabbit            --- Kaninchen                        --- Wir haben ein Kaninchen als Haustier.
+hamster           --- Hamster                          --- Der Hamster läuft im Rad.
+guinea pig        --- Meerschweinchen                  --- Mein Meerschweinchen ist sehr freundlich.
+fish              --- Fisch                             --- Der Fisch schwimmt im Aquarium.
+bird              --- Vogel                             --- Der Vogel fliegt durch den Himmel.
+horse             --- Pferd                             --- Das Pferd läuft auf der Wiese.
+cow               --- Kuh                               --- Die Kuh grast auf der Weide.
+sheep             --- Schaf                             --- Das Schaf ist im Stall.
+goat              --- Ziege                             --- Die Ziege isst Gras.
+pig               --- Schwein                           --- Das Schwein grunzt im Stall.
+chicken           --- Huhn                              --- Das Huhn legt Eier.
+duck              --- Ente                              --- Die Ente schwimmt im Teich.
+turkey            --- Truthahn                          --- Der Truthahn ist im Garten.
+lion              --- Löwe                              --- Der Löwe ist im Zoo.
+tiger             --- Tiger                             --- Der Tiger ist ein Raubtier.
+bear              --- Bär                               --- Der Bär lebt im Wald.
+elephant          --- Elefant                           --- Der Elefant ist das größte Landtier.
+giraffe           --- Giraffe                           --- Die Giraffe hat einen langen Hals.
+zebra             --- Zebra                             --- Das Zebra hat schwarz-weiße Streifen.
+monkey            --- Affe                              --- Der Affe klettert auf den Baum.
+wolf              --- Wolf                              --- Der Wolf heult bei Vollmond.
+fox               --- Fuchs                             --- Der Fuchs ist ein schlauer Jäger.
+kangaroo          --- Känguru                           --- Das Känguru springt hoch.
+deer              --- Hirsch                            --- Der Hirsch läuft durch den Wald.
+snake             --- Schlange                          --- Die Schlange ist giftig.
+lizard            --- Eidechse                          --- Die Eidechse läuft schnell.
+frog              --- Frosch                            --- Der Frosch quakt im Teich.
+parrot            --- Papagei                          --- Der Papagei kann sprechen.
+owl               --- Eule                              --- Die Eule ist ein nachtaktiver Vogel.
+eagle             --- Adler                             --- Der Adler fliegt hoch am Himmel.
+shark             --- Hai                               --- Der Hai schwimmt im Ozean.
+whale             --- Wal                               --- Der Wal ist das größte Tier im Ozean.
+dolphin           --- Delfin                            --- Der Delfin springt über die Wellen.
+bat               --- Fledermaus                        --- Die Fledermaus fliegt nachts.
+
+Plants & Trees
+-----------------------------------------------------------
+tree              --- Baum                              --- Der Baum ist sehr hoch.
+flower            --- Blume                             --- Die Blume wächst im Garten.
+plant             --- Pflanze                           --- Ich habe eine Pflanze in meinem Zimmer.
+bush              --- Busch                             --- Der Busch ist grün und dicht.
+shrub             --- Strauch                           --- Der Strauch ist voller Blätter.
+grass             --- Gras                              --- Das Gras ist feucht vom Regen.
+leaf              --- Blatt                             --- Das Blatt fällt vom Baum.
+branch            --- Zweig                             --- Der Zweig bricht im Wind.
+trunk             --- Stamm                             --- Der Baumstamm ist dick.
+roots             --- Wurzeln                           --- Die Wurzeln des Baumes sind tief.
+stem              --- Stiel                             --- Der Stiel der Blume ist grün.
+petal             --- Blütenblatt                       --- Das Blütenblatt ist zart.
+seed              --- Samen                             --- Ich pflanze einen Samen in die Erde.
+bloom             --- Blühen                            --- Die Blumen blühen im Frühling.
+fruit             --- Frucht                            --- Der Baum trägt viele Früchte.
+vegetable         --- Gemüse                            --- Wir essen frisches Gemüse.
+herb              --- Kraut                             --- Ich pflanze frische Kräuter.
+cactus            --- Kaktus                            --- Der Kaktus wächst in der Wüste.
+pine tree         --- Kieferbaum                        --- Der Kieferbaum ist immergrün.
+oak tree          --- Eiche                             --- Die Eiche ist ein sehr alter Baum.
+maple tree        --- Ahornbaum                         --- Der Ahornbaum hat rote Blätter im Herbst.
+palm tree         --- Palmenbaum                        --- Der Palmenbaum wächst am Strand.
+fir tree          --- Tannenbaum                        --- Der Tannenbaum ist im Winter grün.
+rose              --- Rose                              --- Die Rose duftet wunderbar.
+sunflower         --- Sonnenblume                       --- Die Sonnenblume dreht sich nach der Sonne.
+lily              --- Lilie                             --- Die Lilie ist eine elegante Blume.
+tulip             --- Tulpe                             --- Die Tulpe ist im Frühling sehr schön.
+daisy             --- Gänseblümchen                     --- Das Gänseblümchen wächst im Gras.
+
+Natural Landscapes
+-----------------------------------------------------------
+mountain          --- Berg                              --- Der Berg ist hoch.
+hill              --- Hügel                             --- Wir wandern den Hügel hinauf.
+valley            --- Tal                               --- Das Tal ist grün und weit.
+forest            --- Wald                              --- Der Wald ist voller Bäume.
+jungle            --- Dschungel                         --- Der Dschungel ist sehr dicht.
+desert            --- Wüste                             --- Die Wüste ist trocken und heiß.
+beach             --- Strand                            --- Wir gehen zum Strand.
+coast             --- Küste                             --- Die Küste ist sehr malerisch.
+river             --- Fluss                             --- Der Fluss fließt schnell.
+stream            --- Bach                              --- Der Bach plätschert durch den Wald.
+lake              --- See                               --- Der See ist sehr ruhig.
+waterfall         --- Wasserfall                        --- Der Wasserfall ist sehr hoch.
+ocean             --- Ozean                             --- Der Ozean ist riesig.
+sea               --- Meer                              --- Das Meer ist sehr weit.
+island            --- Insel                             --- Die Insel ist tropisch.
+cave              --- Höhle                             --- Die Höhle ist dunkel und geheimnisvoll.
+cliff             --- Klippe                            --- Die Klippe bietet einen schönen Ausblick.
+canyon            --- Canyon                            --- Der Canyon ist tief und beeindruckend.
+volcano           --- Vulkan                            --- Der Vulkan ist aktiv.
+plain             --- Ebene                             --- Die Ebene ist sehr weitläufig.
+prairie           --- Prärie                            --- Die Prärie ist von Gras bedeckt.
+field             --- Feld                              --- Das Feld ist voller Blumen.
+swamp             --- Sumpf                             --- Der Sumpf ist feucht.
+wetland           --- Feuchtgebiet                      --- Das Feuchtgebiet ist voll von Tieren.
+rainforest        --- Regenwald                        --- Der Regenwald ist sehr vielfältig.
+
+Weather & Environment
+-----------------------------------------------------------
+sun               --- Sonne                             --- Die Sonne scheint heute.
+cloud             --- Wolke                             --- Der Himmel ist voller Wolken.
+rain              --- Regen                             --- Es regnet den ganzen Tag.
+snow              --- Schnee                            --- Der Schnee bedeckt den Boden.
+wind              --- Wind                              --- Der Wind weht stark.
+storm             --- Sturm                             --- Ein Sturm zieht auf.
+fog               --- Nebel                             --- Der Nebel ist sehr dicht.
+thunder           --- Donner                            --- Wir hören den Donner.
+lightning         --- Blitz                             --- Der Blitz war sehr hell.
+hail              --- Hagel                             --- Der Hagel hat das Auto beschädigt.
+tornado           --- Tornado                           --- Der Tornado zerstörte alles auf seinem Weg.
+hurricane         --- Hurrikan                          --- Der Hurrikan kam mit großer Gewalt.
+cyclone           --- Zyklon                            --- Der Zyklon zog über die Küste.
+earthquake        --- Erdbeben                          --- Das Erdbeben war sehr stark.
+temperature       --- Temperatur                        --- Die Temperatur ist heute sehr hoch.
+humidity          --- Luftfeuchtigkeit                  --- Die Luftfeuchtigkeit ist sehr hoch.
+forecast          --- Vorhersage                        --- Die Wettervorhersage sagt Regen.
+season            --- Jahreszeit                        --- Der Herbst ist eine schöne Jahreszeit.
+climate           --- Klima                             --- Das Klima ist tropisch.
+drought           --- Dürre                             --- Die Dürre hat die Ernte zerstört.
+flood             --- Überschwemmung                    --- Die Überschwemmung war katastrophal.
+global warming    --- Globale Erwärmung                 --- Globale Erwärmung ist ein ernstes Problem.
+pollution         --- Verschmutzung                     --- Die Luftverschmutzung in der Stadt ist hoch.
+environment       --- Umwelt                            --- Wir sollten die Umwelt schützen.
+greenhouse effect --- Treibhauseffekt                   --- Der Treibhauseffekt trägt zur Erwärmung der Erde bei.
+recycle           --- Recyceln                          --- Wir recyceln Papier und Plastik.
+
+--------------------------------------------------------------------------------------------------------------------
+
+🔧 Verbs & Grammar Helpers
+
+Common Regular/Irregular Verbs
+-----------------------------------------------------------
+work              --- arbeiten                         --- Ich arbeite im Büro.
+play              --- spielen                          --- Wir spielen Fußball.
+study             --- lernen                           --- Ich lerne Deutsch.
+watch             --- schauen                          --- Ich schaue einen Film.
+listen            --- hören                            --- Ich höre Musik.
+eat               --- essen                            --- Wir essen Pizza.
+drink             --- trinken                          --- Ich trinke Wasser.
+sleep             --- schlafen                          --- Ich schlafe acht Stunden.
+run               --- laufen                           --- Er läuft im Park.
+walk              --- gehen                            --- Sie geht zur Schule.
+sit               --- sitzen                           --- Wir sitzen im Restaurant.
+stand             --- stehen                           --- Er steht am Fenster.
+read              --- lesen                            --- Ich lese ein Buch.
+write             --- schreiben                         --- Sie schreibt einen Brief.
+speak             --- sprechen                         --- Ich spreche Englisch.
+talk              --- reden                            --- Wir reden über den Film.
+think             --- denken                           --- Ich denke nach.
+want              --- wollen                           --- Ich will ein neues Auto.
+need              --- brauchen                         --- Ich brauche Hilfe.
+love              --- lieben                           --- Ich liebe meinen Hund.
+like              --- mögen                            --- Ich mag Pizza.
+hate              --- hassen                           --- Ich hasse den Regen.
+see               --- sehen                            --- Ich sehe einen Vogel.
+hear              --- hören                            --- Ich höre das Telefon klingeln.
+make              --- machen                           --- Sie macht ihre Hausaufgaben.
+do                --- tun                              --- Ich tue meine Arbeit.
+help              --- helfen                           --- Kannst du mir helfen?
+understand        --- verstehen                        --- Ich verstehe die Frage.
+ask               --- fragen                           --- Er fragt nach dem Weg.
+answer            --- antworten                         --- Sie antwortet auf die Frage.
+give              --- geben                            --- Ich gebe dir mein Buch.
+take              --- nehmen                           --- Sie nimmt den Stift.
+bring             --- bringen                          --- Kannst du das bringen?
+come              --- kommen                           --- Kommst du zu mir?
+go                --- gehen                            --- Ich gehe nach Hause.
+arrive            --- ankommen                         --- Der Zug kommt um 10 Uhr an.
+leave             --- verlassen                        --- Wir verlassen das Hotel.
+enter             --- betreten                         --- Du musst das Gebäude betreten.
+exit              --- verlassen                        --- Der Notausgang ist dort.
+travel            --- reisen                           --- Ich reise gern.
+ 
+Modal Verbs
+-----------------------------------------------------------
+can               --- können                           --- Ich kann schwimmen.
+could             --- konnte                           --- Er konnte das Problem lösen.
+will              --- werden                           --- Ich werde morgen arbeiten.
+would             --- würde                            --- Ich würde gerne helfen.
+shall             --- sollen                            --- Du sollst deine Hausaufgaben machen.
+should            --- sollten                          --- Du solltest mehr schlafen.
+may               --- dürfen                           --- Darf ich das Fenster öffnen?
+might             --- könnte                           --- Es könnte morgen regnen.
+must              --- müssen                           --- Du musst die Regeln befolgen.
+ought to          --- sollte                           --- Du solltest den Arzt aufsuchen.
+have to           --- müssen                           --- Ich muss morgen zur Arbeit.
+need to           --- müssen                           --- Ich muss nach Hause gehen.
+would like to     --- möchte                           --- Ich möchte ein Eis.
+ 
+Question Words (What, When, Where…)
+-----------------------------------------------------------
+what              --- was                               --- Was machst du morgen?
+who               --- wer                               --- Wer kommt heute Abend?
+where             --- wo                                --- Wo ist mein Schlüssel?
+when              --- wann                               --- Wann beginnt der Film?
+why               --- warum                              --- Warum gehst du nach Hause?
+how               --- wie                                --- Wie geht es dir?
+which             --- welcher                            --- Welcher Stift ist deiner?
+whose             --- wessen                             --- Wessen Buch ist das?
+how much          --- wie viel                           --- Wie viel kostet das?
+how many          --- wie viele                          --- Wie viele Äpfel möchtest du?
+
+Prepositions (in, on, under…)
+-----------------------------------------------------------
+in                --- in                                 --- Ich bin in der Schule.
+on                --- auf                                --- Das Buch ist auf dem Tisch.
+under             --- unter                              --- Der Hund schläft unter dem Bett.
+over              --- über                               --- Der Vogel fliegt über das Haus.
+beside            --- neben                              --- Der Stuhl steht neben dem Tisch.
+next to           --- neben                              --- Der Supermarkt ist neben dem Restaurant.
+behind            --- hinter                             --- Der Park ist hinter dem Gebäude.
+in front of       --- vor                                 --- Das Auto steht vor der Garage.
+between           --- zwischen                           --- Der Tisch steht zwischen den Stühlen.
+among             --- unter                               --- Er ist unter den besten Schülern.
+above             --- über                               --- Das Bild hängt über dem Sofa.
+below             --- unter                               --- Die Tasse ist unter dem Regal.
+through           --- durch                               --- Ich gehe durch den Park.
+across            --- über                                --- Wir fahren über die Brücke.
+around            --- um                                 --- Der Hund läuft um den Baum.
+near              --- nahe                               --- Der Park ist nahe der Schule.
+far               --- weit                                --- Mein Haus ist weit von hier.
+inside            --- innen                               --- Die Katze ist im Haus.
+outside           --- draußen                            --- Wir spielen draußen.
+throughout        --- überall                             --- Es regnet überall in der Stadt.
+during            --- während                            --- Während des Essens redeten wir viel.
+until             --- bis                                --- Ich arbeite bis 5 Uhr.
+before            --- bevor                              --- Bevor du gehst, ruf mich an.
+after             --- nach                               --- Nach der Schule gehen wir essen.
+with              --- mit                                --- Ich gehe mit meinen Freunden.
+without           --- ohne                               --- Ich kann ohne dich nicht leben.
+
+Conjunctions (and, but, because…)
+-----------------------------------------------------------
+and               --- und                                --- Ich habe einen Hund und eine Katze.
+but               --- aber                               --- Es regnet, aber ich gehe trotzdem spazieren.
+or                --- oder                               --- Möchtest du Tee oder Kaffee?
+so                --- also                               --- Es regnet, also bleibe ich zu Hause.
+because           --- weil                               --- Ich gehe, weil es regnet.
+although          --- obwohl                             --- Obwohl es regnet, gehen wir nach draußen.
+though            --- obwohl                             --- Ich habe es verstanden, obwohl es schwierig war.
+if                --- wenn                               --- Wenn es regnet, bleiben wir drinnen.
+while             --- während                            --- Ich höre Musik, während ich arbeite.
+whereas           --- während                            --- Er mag Kaffee, während sie Tee bevorzugt.
+therefore         --- daher                              --- Es regnet, daher bleiben wir zu Hause.
+either…or         --- entweder…oder                      --- Du kannst entweder nach Hause gehen oder hier bleiben.
+neither…nor       --- weder…noch                         --- Ich habe weder das Buch noch den Film gesehen.
+as well as        --- sowie                              --- Sie spricht Englisch sowie Französisch.
+since             --- seit                               --- Seit ich hier bin, habe ich viel gelernt.
+until             --- bis                                --- Wir bleiben bis morgen.
+
+Adverbs (Quickly, Often, Never…)
+-----------------------------------------------------------
+quickly           --- schnell                            --- Ich renne schnell.
+slowly            --- langsam                           --- Der Zug fährt langsam.
+carefully         --- vorsichtig                         --- Sie fährt vorsichtig.
+loudly            --- laut                               --- Er spricht laut.
+softly            --- leise                              --- Sie singt leise.
+never             --- nie                                --- Ich habe das nie gesehen.
+always            --- immer                              --- Ich gehe immer ins Fitnessstudio.
+usually           --- gewöhnlich                        --- Ich trinke gewöhnlich Kaffee.
+often             --- oft                                --- Wir gehen oft ins Kino.
+sometimes         --- manchmal                          --- Manchmal regnet es.
+rarely            --- selten                             --- Ich gehe selten ins Restaurant.
+seldom            --- selten                             --- Wir sehen uns selten.
+every day         --- jeden Tag                          --- Ich lese jeden Tag die Zeitung.
+now               --- jetzt                              --- Jetzt ist es Zeit zu gehen.
+then              --- dann                               --- Ich gehe nach Hause, dann esse ich.
+soon              --- bald                               --- Ich werde bald gehen.
+late              --- spät                               --- Ich komme immer spät zur Arbeit.
+early             --- früh                               --- Wir stehen früh auf.
+again             --- wieder                             --- Wir werden es wieder tun.
+already           --- schon                              --- Ich habe das Buch schon gelesen.
+finally           --- endlich                            --- Endlich ist der Film zu Ende.
+almost            --- fast                               --- Es ist fast Zeit zu gehen.
+exactly           --- genau                              --- Das ist genau das, was ich wollte.
+completely       --- vollständig                        --- Der Film war völlig unvorhersehbar.
+really            --- wirklich                           --- Das war wirklich toll.
+very              --- sehr                               --- Ich bin sehr müde.
+
+🛠️ Emergency & Safety
+
+Emergency Services
+-----------------------------------------------------------
+ambulance         --- Ambulanz                          --- Die Ambulanz ist auf dem Weg.
+fire truck         --- Feuerwehrauto                     --- Das Feuerwehrauto fährt schnell.
+police car         --- Polizeiauto                        --- Das Polizeiauto fährt zur Station.
+emergency room    --- Notaufnahme                       --- Er wurde in die Notaufnahme gebracht.
+fire department    --- Feuerwehr                         --- Die Feuerwehr löscht das Feuer.
+police department  --- Polizeibehörde                     --- Ich rufe die Polizeibehörde an.
+doctor             --- Arzt                              --- Der Arzt hat mir geholfen.
+nurse              --- Krankenschwester                   --- Die Krankenschwester kümmert sich um den Patienten.
+emergency number   --- Notrufnummer                      --- Wähle die Notrufnummer im Falle eines Notfalls.
+rescue             --- Rettung                            --- Die Rettungskräfte sind angekommen.
+first aid          --- Erste Hilfe                        --- Ich habe Erste Hilfe gelernt.
+paramedic          --- Sanitäter                          --- Der Sanitäter hat die Verletzung behandelt.
+hospital           --- Krankenhaus                        --- Sie ist im Krankenhaus.
+911 (or local emergency number) --- 911 (oder lokale Notrufnummer) --- In den USA rufst du 911 an.
+crisis             --- Krise                              --- Es ist eine große Krise.
+victim             --- Opfer                              --- Das Unfallopfer wird ins Krankenhaus gebracht.
+injury             --- Verletzung                         --- Sie hat sich eine Verletzung am Bein zugezogen.
+blood              --- Blut                               --- Der Arzt hat das Blut untersucht.
+life support      --- lebenserhaltende Maßnahmen        --- Der Patient benötigt lebenserhaltende Maßnahmen.
+AED (Automated External Defibrillator) --- AED (Automatisierter Externer Defibrillator) --- Der AED wurde aktiviert.
+emergency exit    --- Notausgang                         --- Der Notausgang ist auf der linken Seite.
+
+--------------------------------------------------------------------------------------------------------------------
+Accidents
+-----------------------------------------------------------
+fall               --- fallen                            --- Er ist gestürzt.
+trip               --- stolpern                          --- Ich habe über einen Stein gestolpert.
+burn               --- verbrennen                        --- Er hat sich die Hand verbrannt.
+cut                --- schneiden                         --- Ich habe mich geschnitten.
+bruise             --- blauen Fleck                      --- Sie hat einen blauen Fleck am Arm.
+fracture           --- Bruch                             --- Er hat sich den Arm gebrochen.
+sprain             --- Verstauchung                       --- Sie hat sich das Handgelenk verstaucht.
+dislocation        --- Verrenkung                         --- Er hat sich die Schulter verrenkt.
+head injury        --- Kopfverletzung                     --- Der Patient hat eine Kopfverletzung.
+broken bone        --- gebrochener Knochen                --- Er hat einen gebrochenen Knochen.
+bleeding           --- bluten                            --- Der Finger blutet.
+poisoning          --- Vergiftung                         --- Sie hat eine Vergiftung durch das Essen erlitten.
+drowning           --- Ertrinken                          --- Er ist fast ertrunken.
+shock              --- Schock                             --- Sie erlitt einen Schock nach dem Unfall.
+asthma attack      --- Asthma-Anfall                      --- Er hatte einen Asthma-Anfall.
+heart attack       --- Herzinfarkt                        --- Sie erlitt einen Herzinfarkt.
+stroke             --- Schlaganfall                       --- Er hatte einen Schlaganfall.
+accident           --- Unfall                             --- Es gab einen Unfall auf der Straße.
+collision          --- Kollision                          --- Es gab eine Kollision zwischen zwei Autos.
+explosion          --- Explosion                          --- Eine Explosion ereignete sich in der Fabrik.
+injury             --- Verletzung                         --- Die Verletzung war ernst.
+
+Signs & Warnings
+-----------------------------------------------------------
+stop sign          --- Stoppschild                        --- Das Stoppschild zeigt an, dass du anhalten musst.
+warning sign       --- Warnschild                         --- Das Warnschild weist auf Gefahr hin.
+danger             --- Gefahr                             --- Es besteht eine Gefahr.
+no entry           --- kein Zutritt                       --- Der Zugang ist hier verboten.
+no parking         --- kein Parken                        --- Parken ist hier nicht erlaubt.
+slippery           --- rutschig                           --- Der Boden ist rutschig.
+hazard             --- Gefahrstoff                        --- Dieser Bereich ist ein Gefahrstoffbereich.
+flammable          --- entzündlich                        --- Diese Substanz ist entzündlich.
+toxic              --- giftig                             --- Das Produkt ist giftig.
+caution            --- Vorsicht                           --- Vorsicht, heiß!
+wet floor          --- nasser Boden                       --- Der Boden ist nass.
+exit               --- Ausgang                            --- Der Ausgang ist dort.
+fire exit          --- Notausgang                         --- Der Notausgang ist auf der linken Seite.
+emergency          --- Notfall                            --- Bei Notfällen rufen Sie sofort an.
+first aid          --- Erste Hilfe                        --- Erste Hilfe ist notwendig.
+keep clear         --- freihalten                         --- Bitte halten Sie den Weg freihalten.
+do not disturb     --- nicht stören                        --- Bitte nicht stören.
+restricted area    --- gesperrter Bereich                 --- Der Bereich ist gesperrt.
+no smoking         --- Nichtrauchen                       --- In diesem Bereich ist Rauchen verboten.
+hard hat required  --- Schutzhelm erforderlich             --- Ein Schutzhelm ist erforderlich.
+dangerous chemicals --- gefährliche Chemikalien            --- Achten Sie auf gefährliche Chemikalien.
+fire hazard        --- Brandgefahr                        --- Es besteht Brandgefahr.
+
+Safety Instructions
+-----------------------------------------------------------
+wear a helmet      --- einen Helm tragen                  --- Tragen Sie immer einen Helm.
+wear a seatbelt    --- einen Sicherheitsgurt anlegen       --- Vergessen Sie nicht, den Sicherheitsgurt anzulegen.
+turn off the gas   --- das Gas abdrehen                    --- Drehen Sie das Gas ab, bevor Sie den Raum verlassen.
+fire drill         --- Feuerübung                         --- Wir machen heute eine Feuerübung.
+emergency plan     --- Notfallplan                        --- Haben Sie einen Notfallplan?
+use extinguisher   --- Feuerlöscher benutzen              --- Benutzen Sie den Feuerlöscher im Brandfall.
+call 911           --- 911 anrufen                        --- Bei Notfällen rufen Sie 911 an.
+avoid contact      --- Kontakt vermeiden                   --- Vermeiden Sie den Kontakt mit dem Strom.
+stay away from     --- fernhalten von                      --- Halten Sie sich von der Maschine fern.
+evacuate           --- evakuieren                         --- Evakuieren Sie das Gebäude sofort.
+do not touch       --- nicht anfassen                      --- Nicht anfassen, Gefahr!
+use gloves         --- Handschuhe tragen                  --- Tragen Sie Handschuhe beim Arbeiten.
+wash hands         --- Hände waschen                       --- Waschen Sie Ihre Hände gründlich.
+read instructions  --- Anweisungen lesen                   --- Lesen Sie zuerst die Anweisungen.
+do not disturb     --- nicht stören                        --- Nicht stören, bitte!
+first aid kit      --- Erste-Hilfe-Set                     --- Das Erste-Hilfe-Set ist in der Tasche.
+stay calm          --- ruhig bleiben                       --- Bleiben Sie ruhig, es wird alles gut.
+stay safe          --- sicher bleiben                      --- Bleiben Sie sicher und vorsichtig.
+follow the procedure --- der Anweisung folgen               --- Folgen Sie der Anweisung im Notfall.
+emergency contact  --- Notfallkontakt                      --- Geben Sie Ihre Notfallkontakt-Nummer an.
+be alert           --- aufmerksam sein                     --- Seien Sie aufmerksam und wachsam.
+
+--------------------------------------------------------------------------------------------------------------------
+
