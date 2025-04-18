@@ -1,0 +1,110 @@
++--------------------+-------------------------------+-------------------------+
+| Problem Type       | Example                       | Suggested Model         |
++--------------------+-------------------------------+-------------------------+
+| Regression         | Predict salary from experience| Linear Regression       |
+| Classification     | Is email spam or not?         | Logistic Regression,    |
+|                    |                               | Decision Tree, SVM      |
+| Clustering         | Group customers by behavior   | K-Means, DBSCAN         |
+| Time Series        | Forecast next month's sales   | ARIMA, LSTM             |
+| Recommendation     | Suggest movies to a user      | Collaborative Filtering |
+| Anomaly Detection  | Detect fraud in transactions  | Isolation Forest, One-Class SVM |
++--------------------+-------------------------------+-------------------------+
+
+
+==================================================
+1. Regression
+--------------------------------------------------
+Example: Predict salary from experience
+Model: Linear Regression
+
+Python Code:
+from sklearn.linear_model import LinearRegression
+
+model = LinearRegression()
+model.fit(X_train, y_train)
+y_pred = model.predict(X_test)
+==================================================
+
+2. Classification
+--------------------------------------------------
+Example: Spam or not
+Models: Logistic Regression, Decision Tree, SVM
+
+Logistic Regression:
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression()
+
+Decision Tree:
+from sklearn.tree import DecisionTreeClassifier
+model = DecisionTreeClassifier()
+
+SVM:
+from sklearn.svm import SVC
+model = SVC()
+
+model.fit(X_train, y_train)
+y_pred = model.predict(X_test)
+==================================================
+
+3. Clustering
+--------------------------------------------------
+Example: Group customers by behavior
+Model: KMeans
+
+from sklearn.cluster import KMeans
+
+model = KMeans(n_clusters=3)
+model.fit(X)
+labels = model.predict(X)
+==================================================
+
+4. Time Series
+--------------------------------------------------
+Example: Forecast next month's sales
+
+Model 1: ARIMA (using statsmodels)
+from statsmodels.tsa.arima.model import ARIMA
+
+model = ARIMA(data, order=(1,1,1))
+model_fit = model.fit()
+forecast = model_fit.forecast(steps=5)
+
+Model 2: LSTM (using TensorFlow/Keras)
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import LSTM, Dense
+
+model = Sequential([
+    LSTM(50, input_shape=(timesteps, features)),
+    Dense(1)
+])
+model.compile(optimizer='adam', loss='mse')
+model.fit(X_train, y_train, epochs=10)
+==================================================
+
+5. Recommendation
+--------------------------------------------------
+Example: Suggest movies to a user
+Model: Collaborative Filtering (using Surprise)
+
+from surprise import SVD, Dataset, Reader
+from surprise.model_selection import train_test_split
+
+data = Dataset.load_builtin('ml-100k')
+trainset, testset = train_test_split(data, test_size=0.2)
+
+model = SVD()
+model.fit(trainset)
+predictions = model.test(testset)
+==================================================
+
+6. Anomaly Detection
+--------------------------------------------------
+Example: Detect fraud in transactions
+Model: Isolation Forest
+
+from sklearn.ensemble import IsolationForest
+
+model = IsolationForest(contamination=0.05)
+model.fit(X)
+outliers = model.predict(X)  # -1 = outlier, 1 = normal
+==================================================
