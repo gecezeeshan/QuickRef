@@ -1,0 +1,3458 @@
+{
+  "United States": {
+    "Carnegie Mellon University": [
+      {
+        "name": "Abhinav Gupta 0001",
+        "link": "http://www.cs.cmu.edu/~abhinavg",
+        "email": "."
+      },
+      {
+        "name": "Lei Li 0005",
+        "link": "https://lileicc.github.io",
+        "email": "."
+      },
+      {
+        "name": "Zhiwei Steven Wu",
+        "link": "https://zstevenwu.com",
+        "email": "."
+      },
+      {
+        "name": "Swarun Kumar",
+        "link": "https://swarunkumar.com",
+        "email": "."
+      },
+      {
+        "name": "David Lindlbauer",
+        "link": "https://www.davidlindlbauer.com",
+        "email": "."
+      },
+      {
+        "name": "Fernando Diaz 0001",
+        "link": "https://841.io",
+        "email": "."
+      },
+      {
+        "name": "K. V. Rashmi",
+        "link": "http://www.cs.cmu.edu/~rvinayak",
+        "email": "."
+      },
+      {
+        "name": "Nihar B. Shah",
+        "link": "http://www.cs.cmu.edu/~nihars",
+        "email": "."
+      },
+      {
+        "name": "Wenting Zheng",
+        "link": "https://wzheng.github.io",
+        "email": "."
+      },
+      {
+        "name": "Eunsuk Kang",
+        "link": "https://eskang.github.io",
+        "email": "."
+      },
+      {
+        "name": "Theophilus Benson",
+        "link": "https://www.andrew.cmu.edu/user/theophib",
+        "email": "."
+      }
+    ],
+    "Univ. of Illinois at Urbana-Champaign": [
+      {
+        "name": "Jiawei Han 0001",
+        "link": "http://hanj.cs.illinois.edu",
+        "email": "."
+      },
+      {
+        "name": "James M. Rehg",
+        "link": "http://rehg.org",
+        "email": "."
+      },
+      {
+        "name": "Christopher W. Fletcher",
+        "link": "http://cwfletcher.net",
+        "email": "."
+      },
+      {
+        "name": "Koustuv Saha",
+        "link": "https://koustuv.com",
+        "email": "."
+      },
+      {
+        "name": "Mohammed El-Kebir",
+        "link": "http://www.el-kebir.net",
+        "email": "."
+      },
+      {
+        "name": "Sharifa Sultana",
+        "link": "https://www.sharifasultana.com",
+        "email": "."
+      }
+    ],
+    "Univ. of California - San Diego": [
+      {
+        "name": "Zhuowen Tu",
+        "link": "http://pages.ucsd.edu/~ztu",
+        "email": "."
+      },
+      {
+        "name": "Rose Yu",
+        "link": "http://roseyu.com",
+        "email": "."
+      },
+      {
+        "name": "Arun Kumar 0001",
+        "link": "http://cseweb.ucsd.edu/~arunkk",
+        "email": "."
+      },
+      {
+        "name": "Ndapandula Nakashole",
+        "link": "http://nakashole.com",
+        "email": "."
+      },
+      {
+        "name": "Jun-Kun Wang",
+        "link": "https://jimwang123.github.io",
+        "email": "."
+      }
+    ],
+    "Georgia Institute of Technology": [
+      {
+        "name": "Daniel Genkin",
+        "link": "https://faculty.cc.gatech.edu/~genkin",
+        "email": "."
+      },
+      {
+        "name": "Jennifer G. Kim",
+        "link": "https://faculty.cc.gatech.edu/~jkim693",
+        "email": "."
+      },
+      {
+        "name": "Alexey Tumanov",
+        "link": "https://www.cc.gatech.edu/~atumanov",
+        "email": "."
+      },
+      {
+        "name": "Vidya Muthukumar",
+        "link": "https://vmuthukumar.ece.gatech.edu",
+        "email": "."
+      },
+      {
+        "name": "Yunan Luo",
+        "link": "https://faculty.cc.gatech.edu/~yunan",
+        "email": "."
+      },
+      {
+        "name": "Ashwin Pananjady",
+        "link": "https://sites.gatech.edu/ashwin-pananjady",
+        "email": "."
+      }
+    ],
+    "Massachusetts Institute of Technology": [
+      {
+        "name": "Mengjia Yan 0001",
+        "link": "https://people.csail.mit.edu/mengjia",
+        "email": "."
+      },
+      {
+        "name": "Priya L. Donti",
+        "link": "https://priyadonti.com",
+        "email": "."
+      },
+      {
+        "name": "Collin M. Stultz",
+        "link": "https://imes.mit.edu/people/faculty/stultz-collin",
+        "email": "."
+      }
+    ],
+    "University of Michigan": [
+      {
+        "name": "Dmitry Berenson",
+        "link": "https://web.eecs.umich.edu/~dmitryb",
+        "email": "."
+      },
+      {
+        "name": "Chris Peikert",
+        "link": "http://web.eecs.umich.edu/~cpeikert",
+        "email": "."
+      },
+      {
+        "name": "Dhruv Jain",
+        "link": "https://web.eecs.umich.edu/~profdj",
+        "email": "."
+      },
+      {
+        "name": "Jean-Baptiste Jeannin",
+        "link": "http://www-personal.umich.edu/~jeannin",
+        "email": "."
+      },
+      {
+        "name": "Georgios Tzimpragos",
+        "link": "https://www.georgetzimpragos.com",
+        "email": "."
+      }
+    ],
+    "University of Washington": [
+      {
+        "name": "Ranjay Krishna",
+        "link": "http://www.ranjaykrishna.com/index.html",
+        "email": "."
+      },
+      {
+        "name": "Adriana Schulz",
+        "link": "https://homes.cs.washington.edu/~adriana",
+        "email": "."
+      },
+      {
+        "name": "James Fogarty",
+        "link": "https://homes.cs.washington.edu/~jfogarty",
+        "email": "."
+      },
+      {
+        "name": "David Kohlbrenner",
+        "link": "https://homes.cs.washington.edu/~dkohlbre",
+        "email": "."
+      }
+    ],
+    "Univ. of California - Berkeley": [
+      {
+        "name": "Jiantao Jiao",
+        "link": "https://people.eecs.berkeley.edu/~jiantao",
+        "email": "."
+      },
+      {
+        "name": "James F. O'Brien",
+        "link": "http://obrien.berkeley.edu",
+        "email": "."
+      },
+      {
+        "name": "Jennifer Listgarten",
+        "link": "http://www.jennifer.listgarten.com",
+        "email": "."
+      }
+    ],
+    "Cornell University": [
+      {
+        "name": "Nicholas Spooner",
+        "link": "https://spooner.cc",
+        "email": "."
+      }
+    ],
+    "University of Maryland - College Park": [
+      {
+        "name": "Amanda Lazar",
+        "link": "https://amandalazar.net",
+        "email": "."
+      },
+      {
+        "name": "Yizheng Chen 0001",
+        "link": "https://surrealyz.github.io",
+        "email": "."
+      }
+    ],
+    "Stanford University": [
+      {
+        "name": "Tatsunori B. Hashimoto",
+        "link": "https://thashim.github.io",
+        "email": "."
+      },
+      {
+        "name": "Shuran Song",
+        "link": "http://shurans.github.io",
+        "email": "."
+      }
+    ],
+    "Northeastern University": [
+      {
+        "name": "Ehsan Elhamifar",
+        "link": "http://www.ccs.neu.edu/home/eelhami",
+        "email": "."
+      },
+      {
+        "name": "Lace M. K. Padilla",
+        "link": "http://www.lacepadilla.com",
+        "email": "."
+      },
+      {
+        "name": "Maitraye Das",
+        "link": "https://maitraye.github.io",
+        "email": "."
+      }
+    ],
+    "Purdue University": [
+      {
+        "name": "Aniket Bera",
+        "link": "https://www.cs.purdue.edu/~ab",
+        "email": "."
+      },
+      {
+        "name": "Ming Yin 0001",
+        "link": "https://mingyin.org",
+        "email": "."
+      },
+      {
+        "name": "Saugata Basu",
+        "link": "https://www.math.purdue.edu/~sbasu",
+        "email": "."
+      }
+    ],
+    "New York University": [
+      {
+        "name": "Chen Feng 0002",
+        "link": "https://engineering.nyu.edu/faculty/chen-feng",
+        "email": "."
+      },
+      {
+        "name": "Saining Xie",
+        "link": "https://www.sainingxie.com",
+        "email": "."
+      },
+      {
+        "name": "Damon McCoy",
+        "link": "http://engineering.nyu.edu/people/damon-mccoy",
+        "email": "."
+      },
+      {
+        "name": "Christopher Musco",
+        "link": "https://www.chrismusco.com",
+        "email": "."
+      },
+      {
+        "name": "Siddharth Garg",
+        "link": "http://engineering.nyu.edu/people/siddharth-garg",
+        "email": "."
+      },
+      {
+        "name": "Ramesh Karri",
+        "link": "http://engineering.nyu.edu/people/ramesh-karri",
+        "email": "."
+      },
+      {
+        "name": "Chinmay Hegde",
+        "link": "https://engineering.nyu.edu/faculty/chinmay-hegde",
+        "email": "."
+      },
+      {
+        "name": "Qi Sun 0003",
+        "link": "http://qisun.me",
+        "email": "."
+      },
+      {
+        "name": "Martin Farach-Colton",
+        "link": "https://engineering.nyu.edu/faculty/martin-farach-colton",
+        "email": "."
+      },
+      {
+        "name": "Brandon Reagen",
+        "link": "https://engineering.nyu.edu/faculty/brandon-reagen",
+        "email": "."
+      },
+      {
+        "name": "Juliana Freire",
+        "link": "http://engineering.nyu.edu/user/4254",
+        "email": "."
+      },
+      {
+        "name": "Danny Yuxing Huang",
+        "link": "https://engineering.nyu.edu/faculty/danny-yuxing-huang",
+        "email": "."
+      },
+      {
+        "name": "Yanjun Han",
+        "link": "https://yanjunhan2021.github.io/index.html",
+        "email": "."
+      },
+      {
+        "name": "Rosanna Bellini",
+        "link": "https://www.rosiebellini.com",
+        "email": "."
+      },
+      {
+        "name": "Brendan Dolan-Gavitt",
+        "link": "http://engineering.nyu.edu/people/brendan-dolan-gavitt",
+        "email": "."
+      },
+      {
+        "name": "Justin Cappos",
+        "link": "http://engineering.nyu.edu/people/justin-cappos",
+        "email": "."
+      },
+      {
+        "name": "Guido Gerig",
+        "link": "http://engineering.nyu.edu/people/guido-gerig",
+        "email": "."
+      },
+      {
+        "name": "Boris Aronov",
+        "link": "http://engineering.nyu.edu/people/boris-aronov",
+        "email": "."
+      },
+      {
+        "name": "Julian Togelius",
+        "link": "http://engineering.nyu.edu/people/julian-togelius",
+        "email": "."
+      },
+      {
+        "name": "Edward K. Wong",
+        "link": "http://engineering.nyu.edu/people/edward-k-wong",
+        "email": "."
+      },
+      {
+        "name": "Juan Pablo Bello",
+        "link": "https://engineering.nyu.edu/faculty/juan-pablo-bello",
+        "email": "."
+      }
+    ],
+    "University of Pennsylvania": [
+      {
+        "name": "Osbert Bastani",
+        "link": "https://obastani.github.io",
+        "email": "."
+      }
+    ],
+    "Columbia University": [
+      {
+        "name": "Richard S. Zemel",
+        "link": "http://www.cs.toronto.edu/~zemel",
+        "email": "."
+      },
+      {
+        "name": "Steven K. Feiner",
+        "link": "http://www.cs.columbia.edu/~feiner",
+        "email": "."
+      },
+      {
+        "name": "Gil Zussman",
+        "link": "https://wimnet.ee.columbia.edu/people/gil-zussman",
+        "email": "."
+      }
+    ],
+    "Univ. of California - Los Angeles": [
+      {
+        "name": "Yuchen Cui",
+        "link": "https://yuchencui.cc",
+        "email": "."
+      },
+      {
+        "name": "Sam Kumar",
+        "link": "https://www.samkumar.org",
+        "email": "."
+      }
+    ],
+    "University of Wisconsin - Madison": [
+      {
+        "name": "Yuhang Zhao 0001",
+        "link": "https://www.yuhangz.com",
+        "email": "."
+      },
+      {
+        "name": "Josiah Hanna",
+        "link": "https://www.cs.wisc.edu/staff/hanna-josiah",
+        "email": "."
+      },
+      {
+        "name": "Suman Banerjee 0001",
+        "link": "http://pages.cs.wisc.edu/~suman",
+        "email": "."
+      },
+      {
+        "name": "Paraschos Koutris",
+        "link": "http://pages.cs.wisc.edu/~paris",
+        "email": "."
+      },
+      {
+        "name": "Joshua San Miguel",
+        "link": "http://jsm.ece.wisc.edu",
+        "email": "."
+      },
+      {
+        "name": "Ramya Korlakai Vinayak",
+        "link": "https://ramyakv.github.io",
+        "email": "."
+      }
+    ],
+    "University of Southern California": [
+      {
+        "name": "Xiang Ren 0001",
+        "link": "https://shanzhenren.github.io",
+        "email": "."
+      },
+      {
+        "name": "Ibrahim Sabek",
+        "link": "http://people.csail.mit.edu/ibrahimsabek",
+        "email": "."
+      }
+    ],
+    "University of Massachusetts Amherst": [
+      {
+        "name": "Philip S. Thomas",
+        "link": "http://psthomas.com",
+        "email": "."
+      },
+      {
+        "name": "Razieh Rahimi",
+        "link": "https://people.cs.umass.edu/~rahimi",
+        "email": "."
+      },
+      {
+        "name": "Filip Rozpedek",
+        "link": "https://sites.google.com/view/filiprozpedek",
+        "email": "."
+      }
+    ],
+    "University of Chicago": [
+      {
+        "name": "Aaron J. Elmore",
+        "link": "http://people.cs.uchicago.edu/~aelmore",
+        "email": "."
+      }
+    ],
+    "Stony Brook University": [
+      {
+        "name": "Nick Nikiforakis",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/NickNikiforakis",
+        "email": "."
+      },
+      {
+        "name": "Dongyoon Lee",
+        "link": "https://www3.cs.stonybrook.edu/~dongyoon",
+        "email": "."
+      },
+      {
+        "name": "Nilanjan Chakraborty",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/NilanjanChakraborty",
+        "email": "."
+      },
+      {
+        "name": "Aruna Balasubramanian",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/ArunaBalasubramanian",
+        "email": "."
+      },
+      {
+        "name": "I. V. Ramakrishnan",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/IVRamakrishnan",
+        "email": "."
+      },
+      {
+        "name": "Shubham Jain",
+        "link": "https://www3.cs.stonybrook.edu/~jain",
+        "email": "."
+      },
+      {
+        "name": "Omkant Pandey",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/OmkantPandey",
+        "email": "."
+      },
+      {
+        "name": "Xin Wang 0001",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/XinWang",
+        "email": "."
+      },
+      {
+        "name": "Omar Chowdhury",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/OmarChowdhury",
+        "email": "."
+      },
+      {
+        "name": "Chenyu You",
+        "link": "http://chenyuyou.me",
+        "email": "."
+      },
+      {
+        "name": "Owen Rambow",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/OwenRambow",
+        "email": "."
+      },
+      {
+        "name": "Nengkun Yu",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/NengkunYu",
+        "email": "."
+      },
+      {
+        "name": "Prateek Prasanna",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/PrateekPrasanna",
+        "email": "."
+      },
+      {
+        "name": "Radu Sion",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/RaduSion",
+        "email": "."
+      },
+      {
+        "name": "Yi Liu 0059",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/yiliu",
+        "email": "."
+      },
+      {
+        "name": "Zhenhua Liu 0002",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/ZhenhuaLiu",
+        "email": "."
+      },
+      {
+        "name": "Yifan Sun 0001",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/YifanSun",
+        "email": "."
+      },
+      {
+        "name": "Fusheng Wang 0001",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/FushengWang",
+        "email": "."
+      },
+      {
+        "name": "Barbara M. Chapman",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/BarbaraChapman",
+        "email": "."
+      },
+      {
+        "name": "Yuanyuan Yang 0001",
+        "link": "https://www.cs.stonybrook.edu/people/faculty/YuanyuanYang",
+        "email": "."
+      }
+    ],
+    "Univ. of California - Irvine": [
+      {
+        "name": "Sitao Huang",
+        "link": "http://sitaohuang.com",
+        "email": "."
+      }
+    ],
+    "Northwestern University": [
+      {
+        "name": "Konstantin Makarychev",
+        "link": "https://konstantin.makarychev.net",
+        "email": "."
+      },
+      {
+        "name": "Jason D. Hartline",
+        "link": "https://sites.northwestern.edu/hartline",
+        "email": "."
+      },
+      {
+        "name": "Michael Rubenstein",
+        "link": "http://users.eecs.northwestern.edu/~mrubenst",
+        "email": "."
+      },
+      {
+        "name": "Nivedita Arora",
+        "link": "https://niveditaarora.com",
+        "email": "."
+      }
+    ],
+    "Pennsylvania State University": [
+      {
+        "name": "Jinghui Chen",
+        "link": "https://jinghuichen.github.io",
+        "email": "."
+      },
+      {
+        "name": "Kiwan Maeng",
+        "link": "https://kiwanmaeng.com",
+        "email": "."
+      },
+      {
+        "name": "Chunhao Wang",
+        "link": "https://www.chunhaowang.com",
+        "email": "."
+      }
+    ],
+    "Univ. of California - Riverside": [
+      {
+        "name": "Zhijia Zhao 0001",
+        "link": "http://www.cs.ucr.edu/~zhijia",
+        "email": "."
+      },
+      {
+        "name": "Elaheh Sadredini",
+        "link": "https://www.cs.ucr.edu/~elaheh",
+        "email": "."
+      },
+      {
+        "name": "Yan Gu 0001",
+        "link": "https://www.cs.ucr.edu/~ygu",
+        "email": "."
+      },
+      {
+        "name": "Yihan Sun 0001",
+        "link": "https://www.cs.cmu.edu/~yihans",
+        "email": "."
+      }
+    ],
+    "Univ. of California - Santa Barbara": [
+      {
+        "name": "Shiyu Chang",
+        "link": "https://code-terminator.github.io",
+        "email": "."
+      },
+      {
+        "name": "B. S. Manjunath",
+        "link": "https://vision.ece.ucsb.edu/people/bs-manjunath",
+        "email": "."
+      },
+      {
+        "name": "Linda R. Petzold",
+        "link": "https://cse.cs.ucsb.edu",
+        "email": "."
+      }
+    ],
+    "Duke University": [
+      {
+        "name": "Benjamin Rossman",
+        "link": "https://users.cs.duke.edu/~br148",
+        "email": "."
+      }
+    ],
+    "Rutgers University": [
+      {
+        "name": "Kangning Wang 0001",
+        "link": "https://sites.google.com/view/kangningwang/home",
+        "email": "."
+      },
+      {
+        "name": "Xintong Wang 0002",
+        "link": "https://xintongemilywang.github.io",
+        "email": "."
+      },
+      {
+        "name": "Guanyang Wang",
+        "link": "https://guanyangwang.github.io",
+        "email": "."
+      },
+      {
+        "name": "Bhargav Narayanan",
+        "link": "https://sites.math.rutgers.edu/~narayanan",
+        "email": "."
+      }
+    ],
+    "George Mason University": [
+      {
+        "name": "Lap-Fai Yu",
+        "link": "https://craigyuyu.github.io/home",
+        "email": "."
+      },
+      {
+        "name": "Bo Han 0001",
+        "link": "https://bohan00.github.io",
+        "email": "."
+      },
+      {
+        "name": "Khaled N. Khasawneh",
+        "link": "https://sites.google.com/view/knkhasawneh/khaled-n-khasawneh",
+        "email": "."
+      },
+      {
+        "name": "Jessica Lin 0001",
+        "link": "http://cs.gmu.edu/~jessica",
+        "email": "."
+      }
+    ],
+    "University of Utah": [
+      {
+        "name": "Robert M. Kirby",
+        "link": "https://www.cs.utah.edu/~kirby",
+        "email": "."
+      },
+      {
+        "name": "Anna Fariha",
+        "link": "https://afariha.github.io",
+        "email": "."
+      },
+      {
+        "name": "El Kindi Rezig",
+        "link": "https://elkindi.github.io",
+        "email": "."
+      }
+    ],
+    "Texas A&M University": [
+      {
+        "name": "Guofei Gu",
+        "link": "http://faculty.cs.tamu.edu/guofei",
+        "email": "."
+      },
+      {
+        "name": "Yu Zhang 0044",
+        "link": "https://yuzhimanhua.github.io",
+        "email": "."
+      },
+      {
+        "name": "Nitesh Saxena",
+        "link": "https://nsaxena.engr.tamu.edu",
+        "email": "."
+      },
+      {
+        "name": "Kuan-Hao Huang",
+        "link": "https://khhuang.me",
+        "email": "."
+      },
+      {
+        "name": "Ricardo Gutierrez-Osuna",
+        "link": "http://psi.cse.tamu.edu/people/ricardo-gutierrez-osuna",
+        "email": "."
+      }
+    ],
+    "Univ. of California - Santa Cruz": [
+      {
+        "name": "Xin Wang 0061",
+        "link": "https://eric-xw.github.io",
+        "email": "."
+      },
+      {
+        "name": "Seshadhri Comandur",
+        "link": "https://users.soe.ucsc.edu/~sesh",
+        "email": "."
+      },
+      {
+        "name": "Steve Whittaker 0001",
+        "link": "https://sites.google.com/view/stevewhittaker/home",
+        "email": "."
+      }
+    ],
+    "University of Virginia": [
+      {
+        "name": "Sheng Li 0001",
+        "link": "http://sheng-li.org",
+        "email": "."
+      },
+      {
+        "name": "Yu Meng 0001",
+        "link": "https://yumeng5.github.io",
+        "email": "."
+      },
+      {
+        "name": "Wajih Ul Hassan",
+        "link": "https://www.cs.virginia.edu/~hur7wv",
+        "email": "."
+      },
+      {
+        "name": "Chang Lou",
+        "link": "https://changlousys.github.io",
+        "email": "."
+      }
+    ],
+    "Ohio State University": [
+      {
+        "name": "Hanqi Guo 0001",
+        "link": "https://hguo.github.io",
+        "email": "."
+      }
+    ],
+    "Yale University": [
+      {
+        "name": "Anurag Khandelwal",
+        "link": "http://anuragkhandelwal.com",
+        "email": "."
+      },
+      {
+        "name": "Andre Wibisono",
+        "link": "http://www.cs.yale.edu/homes/wibisono",
+        "email": "."
+      }
+    ],
+    "Boston University": [
+      {
+        "name": "Mark Bun",
+        "link": "https://cs-people.bu.edu/mbun",
+        "email": "."
+      },
+      {
+        "name": "Eshed Ohn-Bar",
+        "link": "https://eshed1.github.io",
+        "email": "."
+      },
+      {
+        "name": "Brian Kulis",
+        "link": "http://people.bu.edu/bkulis",
+        "email": "."
+      },
+      {
+        "name": "Ankush Das",
+        "link": "https://ankushdas.github.io",
+        "email": "."
+      }
+    ],
+    "University of Illinois at Chicago": [
+      {
+        "name": "Yan Yan 0002",
+        "link": "https://tomyan555.github.io",
+        "email": "."
+      },
+      {
+        "name": "Abolfazl Asudeh",
+        "link": "https://asudeh.github.io",
+        "email": "."
+      }
+    ],
+    "Arizona State University": [
+      {
+        "name": "Zilin Jiang",
+        "link": "https://www.zilin.one",
+        "email": "."
+      }
+    ],
+    "Brown University": [
+      {
+        "name": "Peihan Miao 0001",
+        "link": "https://sites.google.com/view/peihanmiao/home",
+        "email": "."
+      },
+      {
+        "name": "Deepti Raghavan",
+        "link": "https://deeptir.me",
+        "email": "."
+      }
+    ],
+    "Univ. of California - Davis": [
+      {
+        "name": "Ian Davidson",
+        "link": "http://www.cs.ucdavis.edu/~davidson",
+        "email": "."
+      },
+      {
+        "name": "Jiawei Zhang 0001",
+        "link": "http://jiaweizhang.net",
+        "email": "."
+      },
+      {
+        "name": "Michael Neff",
+        "link": "http://www.cs.ucdavis.edu/~neff",
+        "email": "."
+      },
+      {
+        "name": "Luis Rademacher",
+        "link": "https://www.math.ucdavis.edu/~lrademac",
+        "email": "."
+      }
+    ],
+    "University at Buffalo": [
+      {
+        "name": "Zhuoyue Zhao 0001",
+        "link": "https://cse.buffalo.edu/~zzhao35",
+        "email": "."
+      },
+      {
+        "name": "Sargur N. Srihari",
+        "link": "http://www.cedar.buffalo.edu/~srihari",
+        "email": "."
+      }
+    ],
+    "Harvard University": [
+      {
+        "name": "Yiling Chen 0001",
+        "link": "http://yiling.seas.harvard.edu",
+        "email": "."
+      },
+      {
+        "name": "Yiling Chen",
+        "link": "http://yiling.seas.harvard.edu",
+        "email": "."
+      }
+    ],
+    "University of Minnesota": [
+      {
+        "name": "Yogatheesan Varatharajah",
+        "link": "https://sites.google.com/view/yoga-personal/home",
+        "email": "."
+      }
+    ],
+    "University of North Carolina": [
+      {
+        "name": "Praneeth Chakravarthula",
+        "link": "https://www.cs.unc.edu/~cpk",
+        "email": "."
+      }
+    ],
+    "Johns Hopkins University": [
+      {
+        "name": "Tianmin Shu",
+        "link": "https://www.tshu.io",
+        "email": "."
+      },
+      {
+        "name": "Amitabh Basu",
+        "link": "https://www.ams.jhu.edu/~abasu9",
+        "email": "."
+      }
+    ],
+    "Oregon State University": [
+      {
+        "name": "Stefan Lee",
+        "link": "http://web.engr.oregonstate.edu/~leestef",
+        "email": "."
+      },
+      {
+        "name": "Huazheng Wang",
+        "link": "https://huazhengwang.github.io",
+        "email": "."
+      },
+      {
+        "name": "Wenqian Dong",
+        "link": "https://wdong5.github.io",
+        "email": "."
+      },
+      {
+        "name": "Martin Erwig",
+        "link": "http://eecs.oregonstate.edu/~erwig",
+        "email": "."
+      }
+    ],
+    "Rice University": [
+      {
+        "name": "Scott Rixner",
+        "link": "https://www.cs.rice.edu/~rixner",
+        "email": "."
+      }
+    ],
+    "University of Colorado Boulder": [
+      {
+        "name": "Majid Zamani 0001",
+        "link": "https://sites.google.com/site/zamani1362/home",
+        "email": "."
+      },
+      {
+        "name": "Lijun Chen 0001",
+        "link": "http://spot.colorado.edu/~lich1539",
+        "email": "."
+      }
+    ],
+    "Virginia Tech": [
+      {
+        "name": "Peng Gao 0008",
+        "link": "https://people.cs.vt.edu/penggao",
+        "email": "."
+      },
+      {
+        "name": "Wu-chun Feng",
+        "link": "http://people.cs.vt.edu/feng",
+        "email": "."
+      }
+    ],
+    "University of Central Florida": [
+      {
+        "name": "Kevin Moran",
+        "link": "https://www.kpmoran.com",
+        "email": "."
+      },
+      {
+        "name": "Joseph T. Kider Jr.",
+        "link": "https://www.josephkider.com",
+        "email": "."
+      }
+    ],
+    "Rochester Institute of Technology": [
+      {
+        "name": "Zhiqiang Tao",
+        "link": "http://ztao.cc",
+        "email": "."
+      },
+      {
+        "name": "Ji Hwan Park",
+        "link": "https://people.rit.edu/jhpigm",
+        "email": "."
+      }
+    ],
+    "University of Texas at Dallas": [
+      {
+        "name": "Xinda Wang 0001",
+        "link": "https://xindawang.org",
+        "email": "."
+      }
+    ],
+    "Washington University in St. Louis": [
+      {
+        "name": "Sanjoy K. Baruah",
+        "link": "https://sites.wustl.edu/baruah",
+        "email": "."
+      }
+    ],
+    "University of Texas at Arlington": [
+      {
+        "name": "Jiayi Meng",
+        "link": "https://ranger.uta.edu/~jmeng",
+        "email": "."
+      },
+      {
+        "name": "Mohammad A. Islam 0001",
+        "link": "http://crystal.uta.edu/~mislam",
+        "email": "."
+      },
+      {
+        "name": "Habeeb Olufowobi",
+        "link": "https://dipupo.github.io",
+        "email": "."
+      }
+    ],
+    "University of Notre Dame": [
+      {
+        "name": "Meng Jiang 0001",
+        "link": "http://www.meng-jiang.com",
+        "email": "."
+      },
+      {
+        "name": "Tijana Milenkovic",
+        "link": "http://www3.nd.edu/~tmilenko",
+        "email": "."
+      }
+    ],
+    "University of Connecticut": [
+      {
+        "name": "Suining He",
+        "link": "http://hesuining.weebly.com",
+        "email": "."
+      },
+      {
+        "name": "Fei Miao",
+        "link": "http://feimiao.org",
+        "email": "."
+      }
+    ],
+    "Dartmouth College": [
+      {
+        "name": "SouYoung Jin",
+        "link": "https://souyoungjin.github.io",
+        "email": "."
+      }
+    ],
+    "University of Delaware": [
+      {
+        "name": "Chengmo Yang",
+        "link": "https://www.eecis.udel.edu/~chengmo",
+        "email": "."
+      },
+      {
+        "name": "Xing Gao 0001",
+        "link": "http://xgao-work.github.io",
+        "email": "."
+      }
+    ],
+    "Florida State University": [
+      {
+        "name": "Peixiang Zhao 0001",
+        "link": "http://www.cs.fsu.edu/~zhao",
+        "email": "."
+      }
+    ],
+    "Clemson University": [
+      {
+        "name": "Andrew T. Duchowski",
+        "link": "http://andrewd.ces.clemson.edu",
+        "email": "."
+      }
+    ],
+    "College of William and Mary": [
+      {
+        "name": "Jindong Wang 0001",
+        "link": "https://jd92.wang",
+        "email": "."
+      },
+      {
+        "name": "Jindong Wang",
+        "link": "https://jd92.wang",
+        "email": "."
+      }
+    ],
+    "NJIT": [
+      {
+        "name": "Zhihao Yao 0001",
+        "link": "https://web.njit.edu/~zy8",
+        "email": "."
+      },
+      {
+        "name": "Shantanu Sharma 0001",
+        "link": "https://web.njit.edu/~ss797",
+        "email": "."
+      },
+      {
+        "name": "Alisha Pradhan",
+        "link": "https://www.alishapradhan.net",
+        "email": "."
+      }
+    ],
+    "Vanderbilt University": [
+      {
+        "name": "Daniel Moyer",
+        "link": "https://dcmoyer.github.io",
+        "email": "."
+      }
+    ],
+    "Georgetown University": [
+      {
+        "name": "Justin Thaler",
+        "link": "http://people.cs.georgetown.edu/jthaler",
+        "email": "."
+      },
+      {
+        "name": "Benjamin E. Ujcich",
+        "link": "https://personal.benujcich.georgetown.domains",
+        "email": "."
+      }
+    ],
+    "Stevens Institute of Technology": [
+      {
+        "name": "Jie Shen 0005",
+        "link": "https://sites.google.com/site/jieshensjtu",
+        "email": "."
+      }
+    ],
+    "Washington State University": [
+      {
+        "name": "Janardhan Rao Doppa",
+        "link": "http://eecs.wsu.edu/~jana",
+        "email": "."
+      }
+    ],
+    "Emory University": [
+      {
+        "name": "Shengpu Tang",
+        "link": "https://shengpu-tang.me",
+        "email": "."
+      }
+    ],
+    "Tulane University": [
+      {
+        "name": "Jiang Ming 0002",
+        "link": "https://cs.tulane.edu/~jming",
+        "email": "."
+      }
+    ],
+    "University of Georgia": [
+      {
+        "name": "Roberto Perdisci",
+        "link": "http://roberto.perdisci.com",
+        "email": "."
+      },
+      {
+        "name": "Zichen Gui",
+        "link": "https://zichen-gui.github.io",
+        "email": "."
+      }
+    ],
+    "CUNY": [
+      {
+        "name": "Sarah Ita Levitan",
+        "link": "http://www.cs.columbia.edu/~sarahita",
+        "email": "."
+      }
+    ],
+    "Colorado State University": [
+      {
+        "name": "Sarath Sreedharan",
+        "link": "http://sarathsreedharan.com",
+        "email": "."
+      }
+    ],
+    "Drexel University": [
+      {
+        "name": "Preetha Chatterjee",
+        "link": "https://sites.udel.edu/preethac",
+        "email": "."
+      }
+    ],
+    "University of South Florida": [
+      {
+        "name": "Yili Ren",
+        "link": "https://yiliren.github.io",
+        "email": "."
+      },
+      {
+        "name": "Anshuman Chhabra",
+        "link": "https://www.anshumanc.com",
+        "email": "."
+      }
+    ],
+    "University of Tennessee": [
+      {
+        "name": "Weizi Li",
+        "link": "https://weizi-li.github.io",
+        "email": "."
+      }
+    ],
+    "Augusta University": [
+      {
+        "name": "Nisha Panwar",
+        "link": "https://sites.google.com/view/panwar",
+        "email": "."
+      }
+    ],
+    "Case Western Reserve University": [
+      {
+        "name": "Yu Yin 0001",
+        "link": "https://yin-yu.github.io",
+        "email": "."
+      }
+    ],
+    "Florida International University": [
+      {
+        "name": "Dongsheng Luo",
+        "link": "https://users.cs.fiu.edu/~dluo",
+        "email": "."
+      },
+      {
+        "name": "Amin Kharraz",
+        "link": "https://kharraz.org",
+        "email": "."
+      }
+    ],
+    "Texas State University": [
+      {
+        "name": "Kecheng Yang 0001",
+        "link": "http://cs.txstate.edu/~k_y47",
+        "email": "."
+      }
+    ],
+    "Univ. of Maryland - Baltimore County": [
+      {
+        "name": "Francis Ferraro",
+        "link": "https://www.csee.umbc.edu/~ferraro",
+        "email": "."
+      }
+    ],
+    "University of Nebraska": [
+      {
+        "name": "Hau Chan",
+        "link": "https://cse.unl.edu/~hchan",
+        "email": "."
+      },
+      {
+        "name": "Brittany A. Duncan",
+        "link": "http://cse.unl.edu/~bduncan",
+        "email": "."
+      }
+    ],
+    "University of Texas at San Antonio": [
+      {
+        "name": "Turgay Korkmaz",
+        "link": "http://www.cs.utsa.edu/~korkmaz",
+        "email": "."
+      }
+    ],
+    "Boston College": [
+      {
+        "name": "Donglai Wei 0001",
+        "link": "https://donglaiw.github.io",
+        "email": "."
+      }
+    ],
+    "University of Kentucky": [
+      {
+        "name": "Shixiong Qi",
+        "link": "https://shixiongqi.uky.edu",
+        "email": "."
+      }
+    ],
+    "University of New Hampshire": [
+      {
+        "name": "Momotaz Begum",
+        "link": "http://www.cs.unh.edu/~mbegum",
+        "email": "."
+      }
+    ],
+    "DePaul University": [
+      {
+        "name": "Bamshad Mobasher",
+        "link": "http://facweb.cs.depaul.edu/mobasher",
+        "email": "."
+      }
+    ],
+    "University of Cincinnati": [
+      {
+        "name": "Nan Niu",
+        "link": "http://homepages.uc.edu/~niunn",
+        "email": "."
+      },
+      {
+        "name": "Gowtham Atluri",
+        "link": "http://homepages.uc.edu/~atlurigm",
+        "email": "."
+      }
+    ],
+    "University of Kansas": [
+      {
+        "name": "Fengjun Li",
+        "link": "http://www.ittc.ku.edu/~fli",
+        "email": "."
+      }
+    ],
+    "University of Louisiana - Lafayette": [
+      {
+        "name": "M. Hassan Najafi",
+        "link": "https://sites.google.com/view/mhassannajafi",
+        "email": "."
+      }
+    ],
+    "University of Nevada": [
+      {
+        "name": "Alireza Tavakkoli",
+        "link": "https://www.cse.unr.edu/~alit",
+        "email": "."
+      }
+    ],
+    "Texas Tech University": [
+      {
+        "name": "Yong Chen 0001",
+        "link": "http://www.myweb.ttu.edu/yonchen",
+        "email": "."
+      }
+    ],
+    "University of Rhode Island": [
+      {
+        "name": "Shaun Wallace",
+        "link": "https://shaunwallace.org",
+        "email": "."
+      }
+    ]
+  },
+  "China": {
+    "Tsinghua University": [
+      {
+        "name": "Xiaolin Hu 0001",
+        "link": "http://www.xlhu.cn",
+        "email": "."
+      },
+      {
+        "name": "Zheng Yang 0002",
+        "link": "http://tns.thss.tsinghua.edu.cn/~yangzheng",
+        "email": "."
+      },
+      {
+        "name": "Mingyu Gao 0001",
+        "link": "https://people.iiis.tsinghua.edu.cn/~gaomy",
+        "email": "."
+      },
+      {
+        "name": "Jianjun Chen 0005",
+        "link": "https://jianjunchen.com",
+        "email": "."
+      }
+    ],
+    "Peking University": [
+      {
+        "name": "Yuqing Kong",
+        "link": "https://cfcs.pku.edu.cn/yuqkong",
+        "email": "."
+      },
+      {
+        "name": "Libin Liu 0002",
+        "link": "http://libliu.info",
+        "email": "."
+      }
+    ],
+    "Shanghai Jiao Tong University": [
+      {
+        "name": "Weinan Zhang 0001",
+        "link": "http://wnzhang.net",
+        "email": "."
+      },
+      {
+        "name": "Quanshi Zhang",
+        "link": "http://qszhang.com",
+        "email": "."
+      },
+      {
+        "name": "Yong-Lu Li 0001",
+        "link": "https://dirtyharrylyl.github.io",
+        "email": "."
+      },
+      {
+        "name": "Quan Chen 0002",
+        "link": "http://www.cs.sjtu.edu.cn/~chen-quan",
+        "email": "."
+      },
+      {
+        "name": "Yi-Chao Chen 0001",
+        "link": "https://yichao0319.github.io",
+        "email": "."
+      },
+      {
+        "name": "Lu Chen 0002",
+        "link": "https://coai-sjtu.github.io",
+        "email": "."
+      },
+      {
+        "name": "Biaoshuai Tao",
+        "link": "https://jhc.sjtu.edu.cn/~bstao",
+        "email": "."
+      },
+      {
+        "name": "Xubo Yang",
+        "link": "http://dalab.se.sjtu.edu.cn/www/home/?page_id=143",
+        "email": "."
+      },
+      {
+        "name": "Qiang Yin 0002",
+        "link": "https://www.cs.sjtu.edu.cn/~qyin",
+        "email": "."
+      },
+      {
+        "name": "Yuhao Zhang 0001",
+        "link": "http://www.zyhwtc.com",
+        "email": "."
+      },
+      {
+        "name": "Liyao Xiang",
+        "link": "http://xiangliyao.cn",
+        "email": "."
+      },
+      {
+        "name": "Yongfu Li 0002",
+        "link": "https://bicasl-en.sjtu.edu.cn/info/1019/1058.htm",
+        "email": "."
+      }
+    ],
+    "Zhejiang University": [
+      {
+        "name": "Yingcai Wu",
+        "link": "http://www.ycwu.org",
+        "email": "."
+      },
+      {
+        "name": "Ying Wei 0001",
+        "link": "https://wei-ying.net",
+        "email": "."
+      },
+      {
+        "name": "Wei Chen 0001",
+        "link": "http://www.cad.zju.edu.cn/home/chenwei",
+        "email": "."
+      },
+      {
+        "name": "Xing Hu 0008",
+        "link": "http://xing-hu.github.io",
+        "email": "."
+      },
+      {
+        "name": "Shuibing He",
+        "link": "https://shuibing9420.github.io",
+        "email": "."
+      },
+      {
+        "name": "Yubo Tao",
+        "link": "http://www.cad.zju.edu.cn/home/ybtao",
+        "email": "."
+      }
+    ],
+    "Chinese Academy of Sciences": [
+      {
+        "name": "Xiang Ao 0001",
+        "link": "https://aoxaustin.github.io",
+        "email": "."
+      },
+      {
+        "name": "Xiaoming Deng 0001",
+        "link": "https://www.idengxm.com/index.html",
+        "email": "."
+      }
+    ],
+    "Nanjing University": [
+      {
+        "name": "Limin Wang 0002",
+        "link": "http://wanglimin.github.io",
+        "email": "."
+      },
+      {
+        "name": "Gangshan Wu",
+        "link": "http://mcg.nju.edu.cn/member/gswu/en/index.html",
+        "email": "."
+      },
+      {
+        "name": "Peng Zhao 0006",
+        "link": "https://www.lamda.nju.edu.cn/zhaop",
+        "email": "."
+      }
+    ],
+    "Fudan University": [
+      {
+        "name": "Henghui Ding",
+        "link": "https://henghuiding.github.io",
+        "email": "."
+      },
+      {
+        "name": "Yuan Zhang 0009",
+        "link": "https://yuanxzhang.github.io",
+        "email": "."
+      },
+      {
+        "name": "Siqi Sun",
+        "link": "https://intersun.github.io",
+        "email": "."
+      },
+      {
+        "name": "Siming Chen 0001",
+        "link": "http://simingchen.me",
+        "email": "."
+      },
+      {
+        "name": "Xiaohan Zhang 0001",
+        "link": "https://xhzhang.github.io",
+        "email": "."
+      },
+      {
+        "name": "Geng Hong",
+        "link": "https://ghong.site",
+        "email": "."
+      },
+      {
+        "name": "Zhe Zhou 0001",
+        "link": "https://faculty.fudan.edu.cn/zhouzhe/zh_CN/index.htm",
+        "email": "."
+      },
+      {
+        "name": "Hui Xu 0009",
+        "link": "https://hxuhack.github.io",
+        "email": "."
+      }
+    ],
+    "Renmin University of China": [
+      {
+        "name": "Yankai Lin",
+        "link": "https://linyankai.github.io",
+        "email": "."
+      },
+      {
+        "name": "Xiaoyong Du 0001",
+        "link": "http://iir.ruc.edu.cn/~duyong",
+        "email": "."
+      },
+      {
+        "name": "Di Hu 0001",
+        "link": "https://dtaoo.github.io",
+        "email": "."
+      },
+      {
+        "name": "Jun He 0008",
+        "link": "http://iir.ruc.edu.cn/~hejun",
+        "email": "."
+      },
+      {
+        "name": "Wei Lu 0015",
+        "link": "http://iir.ruc.edu.cn/~luwei",
+        "email": "."
+      },
+      {
+        "name": "Puwei Wang",
+        "link": "http://iir.ruc.edu.cn/~pwwang",
+        "email": "."
+      }
+    ],
+    "USTC": [
+      {
+        "name": "Xuehai Zhou",
+        "link": "http://staff.ustc.edu.cn/~xhzhou",
+        "email": "."
+      }
+    ],
+    "UESTC": [
+      {
+        "name": "Xing Xu 0001",
+        "link": "https://interxuxing.github.io",
+        "email": "."
+      }
+    ],
+    "Beihang University": [
+      {
+        "name": "Xiang Gao 0012",
+        "link": "https://gaoxiang9430.github.io",
+        "email": "."
+      }
+    ],
+    "CUHK (SZ)": [
+      {
+        "name": "Li Jiang 0009",
+        "link": "https://llijiang.github.io",
+        "email": "."
+      },
+      {
+        "name": "Guiliang Liu",
+        "link": "http://guiliang.me",
+        "email": "."
+      }
+    ],
+    "BUPT": [
+      {
+        "name": "Xiao Wang 0017",
+        "link": "https://wangxiaocs.github.io",
+        "email": "."
+      },
+      {
+        "name": "Yingxia Shao",
+        "link": "https://shaoyx.github.io",
+        "email": "."
+      }
+    ],
+    "HUST": [
+      {
+        "name": "Yuchong Hu",
+        "link": "http://yuchonghu.com",
+        "email": "."
+      }
+    ],
+    "SUSTech": [
+      {
+        "name": "Hongxin Wei",
+        "link": "https://hongxin001.github.io",
+        "email": "."
+      },
+      {
+        "name": "Yuxin Ma",
+        "link": "http://cse.sustech.edu.cn/faculty/~mayx",
+        "email": "."
+      }
+    ],
+    "Shenzhen University": [
+      {
+        "name": "Qihua Zhou",
+        "link": "https://qihuazhou.github.io",
+        "email": "."
+      },
+      {
+        "name": "Yu Zhou 0027",
+        "link": "https://yzhouszu.github.io",
+        "email": "."
+      },
+      {
+        "name": "Zhidan Liu 0001",
+        "link": "http://liuzhidan.github.io",
+        "email": "."
+      }
+    ],
+    "Sun Yat-sen University": [
+      {
+        "name": "Neng Zhang 0001",
+        "link": "https://nengz.github.io",
+        "email": "."
+      }
+    ],
+    "Wuhan University": [
+      {
+        "name": "Chenliang Li",
+        "link": "http://www.lichenliang.net/index.html",
+        "email": "."
+      }
+    ],
+    "Xiamen University": [
+      {
+        "name": "Xiaoshuai Sun",
+        "link": "https://sites.google.com/view/xssun",
+        "email": "."
+      },
+      {
+        "name": "Xuan Cheng",
+        "link": "https://chengxuan90.github.io",
+        "email": "."
+      }
+    ],
+    "Hunan University": [
+      {
+        "name": "Ruihui Li",
+        "link": "https://liruihui.github.io",
+        "email": "."
+      }
+    ],
+    "Shandong University": [
+      {
+        "name": "Wei Zhang 0173",
+        "link": "https://sduzhangwei.github.io",
+        "email": "."
+      },
+      {
+        "name": "Haisen Zhao",
+        "link": "https://haisenzhao.github.io",
+        "email": "."
+      }
+    ],
+    "SUFE": [
+      {
+        "name": "Yun Chen 0007",
+        "link": "https://yunc.me",
+        "email": "."
+      },
+      {
+        "name": "Renzhe Xu",
+        "link": "https://windxrz.github.io",
+        "email": "."
+      },
+      {
+        "name": "Yixin Tao",
+        "link": "http://simecv.sufe.edu.cn/page.aspx?id=74",
+        "email": "."
+      }
+    ],
+    "Central South University": [
+      {
+        "name": "Yixiong Liang",
+        "link": "https://faculty.csu.edu.cn/yxliang/zh_CN/index/28438/list/index.htm",
+        "email": "."
+      }
+    ],
+    "Sichuan University": [
+      {
+        "name": "Peng Hu 0002",
+        "link": "https://penghu-cs.github.io",
+        "email": "."
+      },
+      {
+        "name": "Cheng Huang 0003",
+        "link": "https://chenghuang.org",
+        "email": "."
+      }
+    ],
+    "Tianjin University": [
+      {
+        "name": "Di Lin 0002",
+        "link": "https://dilincv.github.io",
+        "email": "."
+      }
+    ]
+  },
+  "Canada": {
+    "University of Toronto": [
+      {
+        "name": "Karan Singh",
+        "link": "http://www.dgp.toronto.edu/~karan",
+        "email": "."
+      },
+      {
+        "name": "Tim D. Barfoot",
+        "link": "http://asrl.utias.utoronto.ca/~tdb",
+        "email": "."
+      },
+      {
+        "name": "Sheila A. McIlraith",
+        "link": "http://www.cs.toronto.edu/~sheila",
+        "email": "."
+      },
+      {
+        "name": "Akshayaram Srinivasan",
+        "link": "https://www.cs.toronto.edu/~akshayaram",
+        "email": "."
+      },
+      {
+        "name": "Suzanne Stevenson",
+        "link": "http://www.cs.toronto.edu/~suzanne",
+        "email": "."
+      }
+    ],
+    "University of Waterloo": [
+      {
+        "name": "Wenhu Chen",
+        "link": "https://wenhuchen.github.io",
+        "email": "."
+      },
+      {
+        "name": "Pascal Poupart",
+        "link": "https://cs.uwaterloo.ca/~ppoupart",
+        "email": "."
+      },
+      {
+        "name": "Trevor Brown 0001",
+        "link": "http://www.cs.toronto.edu/~tabrown",
+        "email": "."
+      },
+      {
+        "name": "Jochen K\u00f6nemann",
+        "link": "http://www.math.uwaterloo.ca/~jochen",
+        "email": "."
+      }
+    ],
+    "University of British Columbia": [
+      {
+        "name": "Prashant J. Nair",
+        "link": "https://prashantnair.bitbucket.io",
+        "email": "."
+      },
+      {
+        "name": "Reto Achermann",
+        "link": "https://retoachermann.ch",
+        "email": "."
+      },
+      {
+        "name": "Reid Holmes",
+        "link": "https://www.cs.ubc.ca/~rtholmes",
+        "email": "."
+      }
+    ],
+    "Simon Fraser University": [
+      {
+        "name": "Ke Li 0011",
+        "link": "https://www.math.ias.edu/~ke.li",
+        "email": "."
+      },
+      {
+        "name": "Zhenman Fang",
+        "link": "http://www.sfu.ca/~zhenman",
+        "email": "."
+      }
+    ],
+    "McGill University": [
+      {
+        "name": "Reihaneh Rabbany",
+        "link": "http://www.reirab.com",
+        "email": "."
+      }
+    ],
+    "University of Alberta": [
+      {
+        "name": "Paul Lu",
+        "link": "https://webdocs.cs.ualberta.ca/~paullu",
+        "email": "."
+      }
+    ],
+    "University of Montreal": [
+      {
+        "name": "Guillaume Rabusseau",
+        "link": "https://www.iro.umontreal.ca/~grabus",
+        "email": "."
+      }
+    ],
+    "University of Victoria": [
+      {
+        "name": "Yun Lu 0001",
+        "link": "https://yunlupage.wordpress.com",
+        "email": "."
+      }
+    ],
+    "Carleton University": [
+      {
+        "name": "Olga Baysal",
+        "link": "http://olgabaysal.com",
+        "email": "."
+      },
+      {
+        "name": "David Mould",
+        "link": "http://www.scs.carleton.ca/~mould",
+        "email": "."
+      }
+    ],
+    "York University": [
+      {
+        "name": "Maleknaz Nayebi",
+        "link": "http://www.maleknazn.com",
+        "email": "."
+      }
+    ],
+    "University of Ottawa": [
+      {
+        "name": "Yongyi Mao",
+        "link": "http://www.site.uottawa.ca/~yymao",
+        "email": "."
+      }
+    ],
+    "Dalhousie University": [
+      {
+        "name": "Bonnie MacKay",
+        "link": "https://web.cs.dal.ca/~bmackay",
+        "email": "."
+      }
+    ],
+    "Polytechnique Montreal": [
+      {
+        "name": "Sarath Chandar",
+        "link": "http://sarathchandar.in",
+        "email": "."
+      },
+      {
+        "name": "Jinghui Cheng",
+        "link": "https://jhcheng.me",
+        "email": "."
+      }
+    ],
+    "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al": [
+      {
+        "name": "Vladimir Reinharz",
+        "link": "https://cbe.uqam.ca",
+        "email": "."
+      }
+    ]
+  },
+  "South Korea": {
+    "KAIST": [
+      {
+        "name": "Jae-Gil Lee 0001",
+        "link": "http://dm.kaist.ac.kr/jaegil",
+        "email": "."
+      },
+      {
+        "name": "Song Min Kim",
+        "link": "https://sites.google.com/view/smilelab",
+        "email": "."
+      },
+      {
+        "name": "James Thorne",
+        "link": "https://jamesthorne.com",
+        "email": "."
+      },
+      {
+        "name": "Sukyoung Ryu",
+        "link": "http://plrg.kaist.ac.kr/ryu",
+        "email": "."
+      }
+    ],
+    "Seoul National University": [
+      {
+        "name": "Seung-won Hwang",
+        "link": "http://seungwonh.github.io",
+        "email": "."
+      },
+      {
+        "name": "Yunheung Paek",
+        "link": "http://sor.snu.ac.kr/document/professors",
+        "email": "."
+      },
+      {
+        "name": "Kyuseok Shim",
+        "link": "http://kdd.snu.ac.kr/~shim",
+        "email": "."
+      }
+    ],
+    "Yonsei University": [
+      {
+        "name": "Yo-Sub Han",
+        "link": "http://toc.yonsei.ac.kr/~emmous",
+        "email": "."
+      }
+    ],
+    "UNIST": [
+      {
+        "name": "Taehwan Kim",
+        "link": "https://sites.google.com/view/taehwankim",
+        "email": "."
+      }
+    ],
+    "Kyung Hee University": [
+      {
+        "name": "Jinwoo Choi 0001",
+        "link": "https://sites.google.com/site/jchoivision",
+        "email": "."
+      }
+    ]
+  },
+  "Singapore": {
+    "National University of Singapore": [
+      {
+        "name": "Tze-Yun Leong",
+        "link": "https://www.comp.nus.edu.sg/~leongty",
+        "email": "."
+      }
+    ],
+    "Nanyang Technological University": [
+      {
+        "name": "Xingang Pan",
+        "link": "https://xingangpan.github.io",
+        "email": "."
+      }
+    ],
+    "Singapore Management University": [
+      {
+        "name": "David Lo 0001",
+        "link": "http://www.mysmu.edu/faculty/davidlo",
+        "email": "."
+      },
+      {
+        "name": "Qianru Sun",
+        "link": "https://qianrusun.com",
+        "email": "."
+      }
+    ],
+    "SUTD": [
+      {
+        "name": "Wenchao Jiang",
+        "link": "https://sites.google.com/site/jiangwenchao88",
+        "email": "."
+      }
+    ]
+  },
+  "Hong Kong": {
+    "HKUST": [
+      {
+        "name": "Sai-Kit Yeung",
+        "link": "http://www.saikit.org",
+        "email": "."
+      },
+      {
+        "name": "Hao Chen 0011",
+        "link": "https://cse.hkust.edu.hk/~jhc",
+        "email": "."
+      },
+      {
+        "name": "Wei Wang 0030",
+        "link": "https://www.cse.ust.hk/~weiwa",
+        "email": "."
+      }
+    ],
+    "Chinese University of Hong Kong": [
+      {
+        "name": "Bei Yu 0001",
+        "link": "http://www.cse.cuhk.edu.hk/~byu",
+        "email": "."
+      },
+      {
+        "name": "Chi-Wing Fu",
+        "link": "http://www.cse.cuhk.edu.hk/~cwfu",
+        "email": "."
+      },
+      {
+        "name": "Xiaoou Tang",
+        "link": "https://www.ie.cuhk.edu.hk/people/xotang.shtml",
+        "email": "."
+      },
+      {
+        "name": "Xiangyu Yue 0001",
+        "link": "https://xyue.io",
+        "email": "."
+      },
+      {
+        "name": "Ming-Chang Yang",
+        "link": "http://www.cse.cuhk.edu.hk/~mcyang",
+        "email": "."
+      },
+      {
+        "name": "Hong Xu 0001",
+        "link": "https://henryhxu.github.io",
+        "email": "."
+      },
+      {
+        "name": "Xiao Liang 0014",
+        "link": "https://xiao-liang.com",
+        "email": "."
+      }
+    ],
+    "University of Hong Kong": [
+      {
+        "name": "Xiaojuan Qi 0001",
+        "link": "https://xjqi.github.io",
+        "email": "."
+      },
+      {
+        "name": "Hengshuang Zhao",
+        "link": "https://hszhao.github.io",
+        "email": "."
+      },
+      {
+        "name": "Jia Pan",
+        "link": "https://sites.google.com/site/panjia",
+        "email": "."
+      },
+      {
+        "name": "Tao Yu 0009",
+        "link": "https://taoyds.github.io",
+        "email": "."
+      },
+      {
+        "name": "Chenshu Wu",
+        "link": "https://cswu.me",
+        "email": "."
+      }
+    ],
+    "City University of Hong Kong": [
+      {
+        "name": "Minjing Dong",
+        "link": "https://www.cs.cityu.edu.hk/~minjdong",
+        "email": "."
+      },
+      {
+        "name": "Kede Ma",
+        "link": "https://kedema.org",
+        "email": "."
+      },
+      {
+        "name": "Wing Kwong Chan",
+        "link": "https://www.cs.cityu.edu.hk/~wkchan",
+        "email": "."
+      }
+    ],
+    "The Hong Kong Polytechnic University": [
+      {
+        "name": "Xiapu Luo",
+        "link": "https://www4.comp.polyu.edu.hk/~csxluo",
+        "email": "."
+      },
+      {
+        "name": "Jing Li 0049",
+        "link": "http://www4.comp.polyu.edu.hk/~jing1li",
+        "email": "."
+      },
+      {
+        "name": "Man Ho Au",
+        "link": "https://web.comp.polyu.edu.hk/mhaau",
+        "email": "."
+      }
+    ],
+    "Hong Kong Baptist University": [
+      {
+        "name": "Kaiyang Zhou",
+        "link": "https://kaiyangzhou.github.io",
+        "email": "."
+      }
+    ]
+  },
+  "Germany": {
+    "Max Planck Society": [
+      {
+        "name": "Manuel Gomez-Rodriguez",
+        "link": "https://www.mpi-sws.org/~manuelgr",
+        "email": "."
+      },
+      {
+        "name": "Mariya Toneva",
+        "link": "https://mtoneva.com",
+        "email": "."
+      }
+    ],
+    "TU Munich": [
+      {
+        "name": "Chunyang Chen",
+        "link": "https://chunyang-chen.github.io",
+        "email": "."
+      }
+    ],
+    "TU Darmstadt": [
+      {
+        "name": "Jean Paul Degabriele",
+        "link": "https://degabriele.info",
+        "email": "."
+      }
+    ],
+    "Saarland University": [
+      {
+        "name": "Martina Maggio",
+        "link": "http://www.martinamaggio.com/main",
+        "email": "."
+      }
+    ],
+    "CISPA Helmholtz Center": [
+      {
+        "name": "Christian Rossow",
+        "link": "https://christian-rossow.de",
+        "email": "."
+      },
+      {
+        "name": "Ben Stock",
+        "link": "https://people.cispa.io/ben.stock",
+        "email": "."
+      },
+      {
+        "name": "Tatjana Chavdarova",
+        "link": "https://chavdarova.github.io",
+        "email": "."
+      }
+    ],
+    "TU Berlin": [
+      {
+        "name": "Sebastian Schelter",
+        "link": "https://deem.berlin/#professor",
+        "email": "."
+      }
+    ],
+    "RWTH Aachen University": [
+      {
+        "name": "Erich Gr\u00e4del",
+        "link": "https://logic.rwth-aachen.de/People/Graedel/index.html.en",
+        "email": "."
+      },
+      {
+        "name": "Michael T. Schaub",
+        "link": "https://michaelschaub.github.io",
+        "email": "."
+      }
+    ],
+    "LMU Munich": [
+      {
+        "name": "Bernd Bischl",
+        "link": "https://www.slds.stat.uni-muenchen.de",
+        "email": "."
+      }
+    ],
+    "Ruhr-University Bochum": [
+      {
+        "name": "Yuval Yarom",
+        "link": "https://yuval.yarom.org",
+        "email": "."
+      }
+    ],
+    "University of T\u00fcbingen": [
+      {
+        "name": "Martin V. Butz",
+        "link": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-modeling/staff/martin-butz",
+        "email": "."
+      }
+    ],
+    "TU Kaiserslautern": [
+      {
+        "name": "Christoph Grimm 0001",
+        "link": "https://cps.cs.uni-kl.de/mitarbeiter/christoph-grimm-prof-dr",
+        "email": "."
+      }
+    ],
+    "University of Hamburg": [
+      {
+        "name": "Jianwei Zhang 0001",
+        "link": "https://tams.informatik.uni-hamburg.de/people/zhang",
+        "email": "."
+      }
+    ],
+    "University of Bremen": [
+      {
+        "name": "Sebastian Siebertz",
+        "link": "https://www.mimuw.edu.pl/~siebertz",
+        "email": "."
+      }
+    ],
+    "Heidelberg University": [
+      {
+        "name": "Stefan Riezler",
+        "link": "https://www.cl.uni-heidelberg.de/~riezler",
+        "email": "."
+      },
+      {
+        "name": "Artur Andrzejak 0001",
+        "link": "https://pvs.ifi.uni-heidelberg.de/team/aa",
+        "email": "."
+      }
+    ],
+    "University of Erlangen\u2013Nuremberg": [
+      {
+        "name": "Stefan Milius",
+        "link": "https://www8.cs.fau.de/doku.php?id=milius",
+        "email": "."
+      }
+    ],
+    "University of L\u00fcbeck": [
+      {
+        "name": "Hans-Christian Jetter",
+        "link": "https://www.imis.uni-luebeck.de/de/institut/team/hans-christian-jetter",
+        "email": "."
+      },
+      {
+        "name": "Martin Leucker",
+        "link": "https://www.isp.uni-luebeck.de/staff/martin",
+        "email": "."
+      }
+    ],
+    "Freie Universitaet Berlin": [
+      {
+        "name": "Frank No\u00e9",
+        "link": "https://www.mi.fu-berlin.de/en/math/groups/ai4s/staff/noe/index.html",
+        "email": "."
+      },
+      {
+        "name": "Knut Reinert",
+        "link": "https://www.mi.fu-berlin.de/en/inf/groups/abi/members/Professors/reinert.html",
+        "email": "."
+      },
+      {
+        "name": "Claudia M\u00fcller-Birn",
+        "link": "https://www.mi.fu-berlin.de/en/inf/groups/hcc/members/professor/mueller-birn.html",
+        "email": "."
+      }
+    ],
+    "University of G\u00f6ttingen": [
+      {
+        "name": "Jens Grabowski",
+        "link": "https://www.swe.informatik.uni-goettingen.de/staff/jens-grabowski",
+        "email": "."
+      }
+    ],
+    "Bauhaus University Weimar": [
+      {
+        "name": "Eva Hornecker",
+        "link": "https://www.uni-weimar.de/en/media/institutes/digital-bauhaus-lab/people/prof-dr-eva-hornecker",
+        "email": "."
+      }
+    ],
+    "University of Duisburg-Essen": [
+      {
+        "name": "Maic Masuch",
+        "link": "https://www.ecg.uni-due.de/team/maic-masuch.html",
+        "email": "."
+      },
+      {
+        "name": "J\u00fcrgen Ziegler 0001",
+        "link": "https://interactivesystems.info/team/juergen-ziegler",
+        "email": "."
+      }
+    ],
+    "THWS": [
+      {
+        "name": "Pascal Meissner",
+        "link": "https://fiw.thws.de/fakultaet/personen/dozentinnen-und-dozenten/person/prof-dr-ing-pascal-meissner",
+        "email": "."
+      },
+      {
+        "name": "Ivan P. Yamshchikov",
+        "link": "https://fiw.thws.de/fakultaet/personen/dozentinnen-und-dozenten/person/prof-dr-ivan-yamshchikov",
+        "email": "."
+      }
+    ],
+    "University of Kassel": [
+      {
+        "name": "Stefan G\u00f6ller",
+        "link": "https://www.uni-kassel.de/eecs/fachgebiete/tiks/team.html",
+        "email": "."
+      }
+    ],
+    "University of Trier": [
+      {
+        "name": "Benjamin Weyers",
+        "link": "https://www.uni-trier.de/index.php?id=68465",
+        "email": "."
+      }
+    ]
+  },
+  "United Kingdom": {
+    "University of Edinburgh": [
+      {
+        "name": "Paul Patras",
+        "link": "http://homepages.inf.ed.ac.uk/ppatras",
+        "email": "."
+      },
+      {
+        "name": "Jackson Woodruff",
+        "link": "http://jacksonwoodruff.com",
+        "email": "."
+      }
+    ],
+    "Imperial College London": [
+      {
+        "name": "Francesco Belardinelli",
+        "link": "https://www.doc.ic.ac.uk/~fbelard",
+        "email": "."
+      }
+    ],
+    "University of Cambridge": [
+      {
+        "name": "Rafal Mantiuk",
+        "link": "https://www.cl.cam.ac.uk/~rkm38",
+        "email": "."
+      },
+      {
+        "name": "Alice Hutchings",
+        "link": "https://www.cl.cam.ac.uk/~ah793",
+        "email": "."
+      },
+      {
+        "name": "Evangelia Kalyvianaki",
+        "link": "https://www.cl.cam.ac.uk/~ek264",
+        "email": "."
+      }
+    ],
+    "Royal Holloway University of London": [
+      {
+        "name": "Matteo Sammartino",
+        "link": "https://matteosammartino.com",
+        "email": "."
+      }
+    ],
+    "University of Bath": [
+      {
+        "name": "Christian Richardt",
+        "link": "http://richardt.name",
+        "email": "."
+      }
+    ],
+    "Birkbeck University of London": [
+      {
+        "name": "Panagiotis Charalampopoulos",
+        "link": "https://pcharalampo.github.io",
+        "email": "."
+      }
+    ]
+  },
+  "Switzerland": {
+    "EPFL": [
+      {
+        "name": "Sabine S\u00fcsstrunk",
+        "link": "http://ivrl.epfl.ch/people/susstrunk",
+        "email": "."
+      }
+    ]
+  },
+  "Israel": {
+    "Tel Aviv University": [
+      {
+        "name": "Eyal Ronen",
+        "link": "https://eyalro.net",
+        "email": "."
+      },
+      {
+        "name": "Iftach Haitner",
+        "link": "http://www.cs.tau.ac.il/~iftachh",
+        "email": "."
+      }
+    ],
+    "Bar-Ilan University": [
+      {
+        "name": "Eylon Yogev",
+        "link": "https://www.eylonyogev.com",
+        "email": "."
+      }
+    ],
+    "University of Haifa": [
+      {
+        "name": "Moran Feldman",
+        "link": "https://cs.haifa.ac.il/~moranfe",
+        "email": "."
+      },
+      {
+        "name": "Margarita Osadchy",
+        "link": "http://rita.osadchy.net",
+        "email": "."
+      }
+    ]
+  },
+  "Netherlands": {
+    "TU Delft": [
+      {
+        "name": "Xucong Zhang",
+        "link": "https://www.ccmitss.com/zhang",
+        "email": "."
+      },
+      {
+        "name": "Qing Wang 0007",
+        "link": "https://www.st.ewi.tudelft.nl/qing",
+        "email": "."
+      }
+    ],
+    "University of Amsterdam": [
+      {
+        "name": "Theo Gevers",
+        "link": "https://staff.fnwi.uva.nl/th.gevers",
+        "email": "."
+      }
+    ],
+    "VU Amsterdam": [
+      {
+        "name": "Yasamin Nazari",
+        "link": "https://www.cs.jhu.edu/~ynazari",
+        "email": "."
+      }
+    ],
+    "TU Eindhoven": [
+      {
+        "name": "Jarke J. van Wijk",
+        "link": "http://www.win.tue.nl/~vanwijk",
+        "email": "."
+      },
+      {
+        "name": "Bart M. P. Jansen",
+        "link": "https://www.win.tue.nl/~bjansen",
+        "email": "."
+      }
+    ],
+    "Leiden University": [
+      {
+        "name": "Tessa Verhoef",
+        "link": "https://sites.google.com/view/tessa-verhoef/home",
+        "email": "."
+      }
+    ],
+    "CWI": [
+      {
+        "name": "Sander M. Boht\u00e9",
+        "link": "http://homepages.cwi.nl/~sbohte",
+        "email": "."
+      }
+    ],
+    "University of Groningen": [
+      {
+        "name": "Arianna Bisazza",
+        "link": "http://www.cs.rug.nl/~bisazza",
+        "email": "."
+      }
+    ]
+  },
+  "Austria": {
+    "TU Wien": [
+      {
+        "name": "J\u00fcrgen Cito",
+        "link": "http://people.csail.mit.edu/jcito",
+        "email": "."
+      },
+      {
+        "name": "Katja Hose",
+        "link": "https://www.dbai.tuwien.ac.at/staff/khose/About_me.html",
+        "email": "."
+      },
+      {
+        "name": "Ivona Brandic",
+        "link": "http://www.ec.tuwien.ac.at/~ivona",
+        "email": "."
+      }
+    ],
+    "University of Klagenfurt": [
+      {
+        "name": "Stephan Weiss 0002",
+        "link": "https://www.aau.at/team/weiss-stephan-michael",
+        "email": "."
+      },
+      {
+        "name": "Michael Wiegand",
+        "link": "https://www.aau.at/team/wiegand-michael",
+        "email": "."
+      },
+      {
+        "name": "Hubert Zangl",
+        "link": "https://www.aau.at/team/zangl-hubert",
+        "email": "."
+      },
+      {
+        "name": "Konstantin Schekotihin",
+        "link": "https://www.aau.at/team/schekotihin-konstantin",
+        "email": "."
+      },
+      {
+        "name": "Elisabeth Oswald",
+        "link": "https://www.aau.at/team/oswald-elisabeth",
+        "email": "."
+      },
+      {
+        "name": "Dietmar Jannach",
+        "link": "https://www.aau.at/team/jannach-dietmar",
+        "email": "."
+      },
+      {
+        "name": "Martin Gebser",
+        "link": "https://www.aau.at/team/gebser-martin",
+        "email": "."
+      },
+      {
+        "name": "David Ahlstr\u00f6m",
+        "link": "https://www.aau.at/team/ahlstroem-david",
+        "email": "."
+      },
+      {
+        "name": "Friederike Wall",
+        "link": "https://www.aau.at/unternehmensfuehrung/controlling-und-strategische-unternehmensfuehrung/team/wall-friederike",
+        "email": "."
+      },
+      {
+        "name": "Hermann Hellwagner",
+        "link": "https://www.aau.at/team/hellwagner-hermann",
+        "email": "."
+      },
+      {
+        "name": "Christian Timmerer",
+        "link": "https://www.aau.at/team/timmerer-christian",
+        "email": "."
+      }
+    ],
+    "University of Innsbruck": [
+      {
+        "name": "G\u00fcnther Specht",
+        "link": "https://dbis-informatik.uibk.ac.at/specht",
+        "email": "."
+      }
+    ]
+  },
+  "Japan": {
+    "University of Tokyo": [
+      {
+        "name": "Masashi Sugiyama",
+        "link": "http://www.ms.k.u-tokyo.ac.jp/sugi",
+        "email": "."
+      },
+      {
+        "name": "Tatsuya Harada",
+        "link": "http://www.mi.t.u-tokyo.ac.jp/harada",
+        "email": "."
+      }
+    ],
+    "National Institute of Informatics": [
+      {
+        "name": "Ken-ichi Kawarabayashi",
+        "link": "https://kklab.nii.ac.jp/en",
+        "email": "."
+      },
+      {
+        "name": "Imari Sato",
+        "link": "http://research.nii.ac.jp/pbv",
+        "email": "."
+      }
+    ],
+    "Osaka University": [
+      {
+        "name": "Yasuyuki Matsushita",
+        "link": "http://www-infobiz.ist.osaka-u.ac.jp/en/member/matsushita",
+        "email": "."
+      },
+      {
+        "name": "Yuki Arase",
+        "link": "http://www-bigdata.ist.osaka-u.ac.jp/ja/home",
+        "email": "."
+      },
+      {
+        "name": "Chuan Xiao 0001",
+        "link": "https://sites.google.com/site/chuanxiao1983",
+        "email": "."
+      },
+      {
+        "name": "Hiroshi Ishiguro",
+        "link": "https://eng.irl.sys.es.osaka-u.ac.jp",
+        "email": "."
+      },
+      {
+        "name": "Fumio Okura",
+        "link": "http://www-infobiz.ist.osaka-u.ac.jp/user/okura",
+        "email": "."
+      },
+      {
+        "name": "Makoto Onizuka",
+        "link": "http://www-bigdata.ist.osaka-u.ac.jp/index_en.html",
+        "email": "."
+      },
+      {
+        "name": "Parinya Punpongsanon",
+        "link": "https://punpongsanon.info",
+        "email": "."
+      },
+      {
+        "name": "Yasuko Matsubara",
+        "link": "https://www.dm.sanken.osaka-u.ac.jp/~yasuko",
+        "email": "."
+      },
+      {
+        "name": "Yasushi Sakurai",
+        "link": "http://www.dm.sanken.osaka-u.ac.jp/~yasushi/index.html",
+        "email": "."
+      }
+    ],
+    "University of Tsukuba": [
+      {
+        "name": "Masataka Goto",
+        "link": "https://staff.aist.go.jp/m.goto/index-j.html",
+        "email": "."
+      },
+      {
+        "name": "Youhei Akimoto",
+        "link": "https://sites.google.com/site/youheiakimotospage",
+        "email": "."
+      },
+      {
+        "name": "Kazuto Fukuchi",
+        "link": "https://kfukuchi.me",
+        "email": "."
+      },
+      {
+        "name": "Ikkaku Kawaguchi",
+        "link": "https://sites.google.com/view/ikkakukawaguchi/e-home",
+        "email": "."
+      }
+    ],
+    "Tokyo Institute of Technology": [
+      {
+        "name": "Isao Ono",
+        "link": "http://www.ic.dis.titech.ac.jp/main/doku.php",
+        "email": "."
+      }
+    ],
+    "NAIST": [
+      {
+        "name": "Takamitsu Matsubara",
+        "link": "https://sites.google.com/view/naist-robot-learning-en?authuser=0",
+        "email": "."
+      },
+      {
+        "name": "Yasuhiro Mukaigawa",
+        "link": "http://omilab.naist.jp/~mukaigawa",
+        "email": "."
+      },
+      {
+        "name": "Eiji Aramaki",
+        "link": "http://luululu.com",
+        "email": "."
+      }
+    ],
+    "Waseda University": [
+      {
+        "name": "Hironori Washizaki",
+        "link": "http://www.washi.cs.waseda.ac.jp/washizaki",
+        "email": "."
+      }
+    ]
+  },
+  "India": {
+    "IISc Bangalore": [
+      {
+        "name": "Venkatesh Babu Radhakrishnan",
+        "link": "https://cds.iisc.ac.in/faculty/venky",
+        "email": "."
+      },
+      {
+        "name": "Chaya Ganesh",
+        "link": "https://www.csa.iisc.ac.in/~chaya",
+        "email": "."
+      },
+      {
+        "name": "Anirban Chakraborty 0001",
+        "link": "https://anirbanchakraborty.github.io",
+        "email": "."
+      },
+      {
+        "name": "Gugan Thoppe",
+        "link": "https://www.csa.iisc.ac.in/people/gugan-thoppe",
+        "email": "."
+      }
+    ],
+    "IIT Delhi": [
+      {
+        "name": "Parag Singla",
+        "link": "http://www.cse.iitd.ac.in/~parags",
+        "email": "."
+      }
+    ],
+    "IIT Bombay": [
+      {
+        "name": "Pushpak Bhattacharyya",
+        "link": "https://www.cse.iitb.ac.in/~pb",
+        "email": "."
+      },
+      {
+        "name": "Sunita Sarawagi",
+        "link": "https://www.cse.iitb.ac.in/~sunita",
+        "email": "."
+      },
+      {
+        "name": "S. Akshay 0001",
+        "link": "https://www.cse.iitb.ac.in/~akshayss",
+        "email": "."
+      },
+      {
+        "name": "Biswabandan Panda",
+        "link": "https://www.cse.iitb.ac.in/~biswa",
+        "email": "."
+      },
+      {
+        "name": "Devashish Gosain",
+        "link": "https://www.devashishgosain.com",
+        "email": "."
+      }
+    ],
+    "IIT Kanpur": [
+      {
+        "name": "Indranil Saha",
+        "link": "http://cse.iitk.ac.in/users/isaha",
+        "email": "."
+      },
+      {
+        "name": "Surender Baswana",
+        "link": "http://www.cse.iitk.ac.in/users/sbaswana",
+        "email": "."
+      },
+      {
+        "name": "Harish Karnick",
+        "link": "http://www.iitk.ac.in/new/dr-harish-karnick",
+        "email": "."
+      },
+      {
+        "name": "Nisheeth Srivastava",
+        "link": "http://www.iitk.ac.in/new/nisheeth-srivastava",
+        "email": "."
+      }
+    ],
+    "IIT Madras": [
+      {
+        "name": "Arun Rajkumar",
+        "link": "https://sites.google.com/view/arun-rajkumar",
+        "email": "."
+      },
+      {
+        "name": "Harish G. Ramaswamy",
+        "link": "https://sites.google.com/site/harishguruprasad",
+        "email": "."
+      },
+      {
+        "name": "Chester Rebeiro",
+        "link": "http://www.cse.iitm.ac.in/~chester",
+        "email": "."
+      },
+      {
+        "name": "V. Kamakoti 0001",
+        "link": "http://www.cse.iitm.ac.in/profile.php?arg=MTg=",
+        "email": "."
+      }
+    ],
+    "IIIT Hyderabad": [
+      {
+        "name": "K. Madhava Krishna",
+        "link": "https://www.iiit.ac.in/people/faculty/mkrishna",
+        "email": "."
+      },
+      {
+        "name": "Vineet Gandhi",
+        "link": "https://www.iiit.ac.in/people/faculty/vgandhi",
+        "email": "."
+      },
+      {
+        "name": "Praveen Paruchuri",
+        "link": "https://www.iiit.ac.in/people/faculty/praveen.p",
+        "email": "."
+      },
+      {
+        "name": "Manish Shrivastava 0001",
+        "link": "https://www.iiit.ac.in/people/faculty/m.shrivastava",
+        "email": "."
+      },
+      {
+        "name": "Sujit Gujar",
+        "link": "https://www.iiit.ac.in/people/faculty/sujit.g",
+        "email": "."
+      },
+      {
+        "name": "Ponnurangam Kumaraguru",
+        "link": "https://www.iiit.ac.in/people/faculty/PKguru",
+        "email": "."
+      },
+      {
+        "name": "Charu Sharma",
+        "link": "https://www.iiit.ac.in/people/faculty/Charusharma",
+        "email": "."
+      },
+      {
+        "name": "Spandan Roy",
+        "link": "https://www.iiit.ac.in/people/faculty/Spandan",
+        "email": "."
+      },
+      {
+        "name": "Girish Varma",
+        "link": "https://www.iiit.ac.in/people/faculty/girish.varma",
+        "email": "."
+      },
+      {
+        "name": "Vikram Pudi",
+        "link": "https://www.iiit.ac.in/people/faculty/vikram",
+        "email": "."
+      },
+      {
+        "name": "Dipti Misra Sharma",
+        "link": "https://www.iiit.ac.in/people/faculty/dipti",
+        "email": "."
+      },
+      {
+        "name": "Naresh Manwani",
+        "link": "https://www.iiit.ac.in/people/faculty/naresh.manwani",
+        "email": "."
+      },
+      {
+        "name": "Radhika Mamidi",
+        "link": "https://www.iiit.ac.in/people/faculty/radhikamamidi",
+        "email": "."
+      }
+    ],
+    "IIT Kharagpur": [
+      {
+        "name": "Aritra Hazra",
+        "link": "https://cse.iitkgp.ac.in/~aritrah",
+        "email": "."
+      },
+      {
+        "name": "Bivas Mitra",
+        "link": "http://cse.iitkgp.ac.in/~bivasm",
+        "email": "."
+      }
+    ],
+    "IIT Hyderabad": [
+      {
+        "name": "Manish Singh 0002",
+        "link": "https://www.iith.ac.in/~msingh",
+        "email": "."
+      },
+      {
+        "name": "C. Krishna Mohan",
+        "link": "http://www.iith.ac.in/~ckm",
+        "email": "."
+      }
+    ],
+    "IIT Jodhpur": [
+      {
+        "name": "Richa Singh 0001",
+        "link": "http://home.iitj.ac.in/~richa",
+        "email": "."
+      },
+      {
+        "name": "Mayank Vatsa",
+        "link": "http://home.iitj.ac.in/~mvatsa",
+        "email": "."
+      }
+    ],
+    "BITS Pilani-Goa": [
+      {
+        "name": "Surjya Ghosh",
+        "link": "https://surjya-ghosh.github.io",
+        "email": "."
+      }
+    ],
+    "IIT Guwahati": [
+      {
+        "name": "Ashish Anand",
+        "link": "http://www.iitg.ernet.in/anand.ashish",
+        "email": "."
+      },
+      {
+        "name": "Hemangee K. Kapoor",
+        "link": "http://www.iitg.ac.in/hemangee",
+        "email": "."
+      }
+    ],
+    "IIT Mandi": [
+      {
+        "name": "Tushar Jain",
+        "link": "http://faculty.iitmandi.ac.in/~tushar",
+        "email": "."
+      }
+    ],
+    "IIT Tirupati": [
+      {
+        "name": "Raghavendra Kanakagiri",
+        "link": "https://raghavendrak.github.io",
+        "email": "."
+      }
+    ]
+  },
+  "Portugal": {
+    "Universidade de Lisboa": [
+      {
+        "name": "Aleksandar Ilic",
+        "link": "http://sips.inesc-id.pt/~ilic",
+        "email": "."
+      }
+    ]
+  },
+  "Denmark": {
+    "University of Copenhagen": [
+      {
+        "name": "Irina Shklovski",
+        "link": "http://miswritings.org",
+        "email": "."
+      }
+    ],
+    "IT University of Copenhagen": [
+      {
+        "name": "Rasmus Ejlers M\u00f8gelberg",
+        "link": "http://www.itu.dk/people/mogel",
+        "email": "."
+      }
+    ],
+    "DTU": [
+      {
+        "name": "Luisa Siniscalchi",
+        "link": "https://www.luisasiniscalchi.com",
+        "email": "."
+      }
+    ],
+    "Aalborg University": [
+      {
+        "name": "Jilin Hu",
+        "link": "https://homes.cs.aau.dk/~hujilin",
+        "email": "."
+      }
+    ]
+  },
+  "Australia": {
+    "University of Melbourne": [
+      {
+        "name": "Feng Liu 0003",
+        "link": "https://fengliu90.github.io",
+        "email": "."
+      },
+      {
+        "name": "Xingliang Yuan",
+        "link": "https://xyuancs.github.io",
+        "email": "."
+      },
+      {
+        "name": "Adrian R. Pearce",
+        "link": "http://people.eng.unimelb.edu.au/adrianrp",
+        "email": "."
+      }
+    ],
+    "Monash University": [
+      {
+        "name": "Chakkrit Tantithamthavorn",
+        "link": "http://chakkrit.com",
+        "email": "."
+      }
+    ],
+    "Macquarie University": [
+      {
+        "name": "Quan Z. Sheng",
+        "link": "http://web.science.mq.edu.au/~qsheng",
+        "email": "."
+      },
+      {
+        "name": "Qiongkai Xu",
+        "link": "https://xuqiongkai.github.io",
+        "email": "."
+      },
+      {
+        "name": "Guanfeng Liu 0001",
+        "link": "http://web.science.mq.edu.au/~gliu",
+        "email": "."
+      }
+    ],
+    "Western Sydney University": [
+      {
+        "name": "Zhigang Lu 0001",
+        "link": "https://zhigang.lu",
+        "email": "."
+      }
+    ]
+  },
+  "Italy": {
+    "Sapienza University of Rome": [
+      {
+        "name": "Maurizio Lenzerini",
+        "link": "http://www.diag.uniroma1.it/lenzerini",
+        "email": "."
+      },
+      {
+        "name": "Roberto Capobianco",
+        "link": "http://robertocapobianco.com",
+        "email": "."
+      }
+    ],
+    "University of Trento": [
+      {
+        "name": "Alessandro Moschitti",
+        "link": "http://disi.unitn.it/moschitti",
+        "email": "."
+      },
+      {
+        "name": "Nicola Conci",
+        "link": "https://webapps.unitn.it/du/en/Persona/PER0003698/Curriculum",
+        "email": "."
+      },
+      {
+        "name": "Maurizio Marchese",
+        "link": "https://webapps.unitn.it/du/en/Persona/PER0000526/Didattica",
+        "email": "."
+      },
+      {
+        "name": "Paolo Giorgini",
+        "link": "http://disi.unitn.it/~pgiorgio",
+        "email": "."
+      }
+    ],
+    "University of Salerno": [
+      {
+        "name": "Fabio Palomba",
+        "link": "https://fpalomba.github.io",
+        "email": "."
+      }
+    ],
+    "GSSI": [
+      {
+        "name": "Patrizio Pelliccione",
+        "link": "http://www.patriziopelliccione.com",
+        "email": "."
+      }
+    ]
+  },
+  "Taiwan": {
+    "National Chiao Tung University": [
+      {
+        "name": "Walon Wei-Chen Chiu",
+        "link": "https://walonchiu.github.io",
+        "email": "."
+      },
+      {
+        "name": "Ping-Chun Hsieh",
+        "link": "https://pinghsieh.github.io",
+        "email": "."
+      }
+    ]
+  },
+  "Macao": {
+    "University of Macau": [
+      {
+        "name": "Cheng-Zhong Xu 0001",
+        "link": "https://www.fst.um.edu.mo/personal/czxu",
+        "email": "."
+      }
+    ],
+    "MUST": [
+      {
+        "name": "Tao Zhang 0001",
+        "link": "https://cszhangtao.github.io",
+        "email": "."
+      }
+    ]
+  },
+  "Poland": {
+    "University of Warsaw": [
+      {
+        "name": "Michal Pilipczuk",
+        "link": "http://www.mimuw.edu.pl/~mp248287",
+        "email": "."
+      },
+      {
+        "name": "Ewa Szczurek",
+        "link": "https://www.mimuw.edu.pl/~szczurek",
+        "email": "."
+      }
+    ],
+    "University of Wroclaw": [
+      {
+        "name": "Jaroslaw Byrka",
+        "link": "http://www.ii.uni.wroc.pl/~jby",
+        "email": "."
+      },
+      {
+        "name": "Emanuel Kieronski",
+        "link": "http://www.ii.uni.wroc.pl/~kiero",
+        "email": "."
+      },
+      {
+        "name": "Piotr Wieczorek",
+        "link": "http://www.ii.uni.wroc.pl/~piotrek",
+        "email": "."
+      }
+    ]
+  },
+  "Sweden": {
+    "KTH Royal Institute of Technology": [
+      {
+        "name": "Dilian Gurov",
+        "link": "http://www.csc.kth.se/~dilian",
+        "email": "."
+      }
+    ]
+  },
+  "Spain": {
+    "IMDEA Software Institute": [
+      {
+        "name": "Thaleia Dimitra Doudali",
+        "link": "https://thaleia-dimitradoudali.github.io",
+        "email": "."
+      }
+    ],
+    "Polytechnic University of Catalonia": [
+      {
+        "name": "Jes\u00fas Labarta",
+        "link": "https://www.bsc.es/labarta-mancho-jesus",
+        "email": "."
+      }
+    ],
+    "University of Murcia": [
+      {
+        "name": "Jos\u00e9 L. Abell\u00e1n",
+        "link": "https://sites.google.com/view/jlabellan",
+        "email": "."
+      }
+    ]
+  },
+  "Greece": {
+    "University of Athens": [
+      {
+        "name": "Sergios Theodoridis",
+        "link": "http://cgi.di.uoa.gr/~stheodor",
+        "email": "."
+      },
+      {
+        "name": "Panos Rondogiannis",
+        "link": "http://cgi.di.uoa.gr/~prondo",
+        "email": "."
+      },
+      {
+        "name": "Dimitrios Gunopulos",
+        "link": "http://kddlab.di.uoa.gr/dg.html",
+        "email": "."
+      }
+    ],
+    "University of Crete": [
+      {
+        "name": "Panos E. Trahanias",
+        "link": "http://users.ics.forth.gr/~trahania/home.html",
+        "email": "."
+      },
+      {
+        "name": "Athanasios Mouchtaris",
+        "link": "https://www.csd.uoc.gr/~mouchtar",
+        "email": "."
+      },
+      {
+        "name": "Haridimos Kondylakis",
+        "link": "https://users.ics.forth.gr/~kondylak",
+        "email": "."
+      }
+    ]
+  },
+  "Chile": {
+    "Pontificia Universidad Catolica de Chile": [
+      {
+        "name": "Juan L. Reutter",
+        "link": "https://jreutter.sitios.ing.uc.cl",
+        "email": "."
+      },
+      {
+        "name": "Denis Parra",
+        "link": "https://dparra.sitios.ing.uc.cl",
+        "email": "."
+      }
+    ]
+  },
+  "Finland": {
+    "Tampere University": [
+      {
+        "name": "Joni-Kristian K\u00e4m\u00e4r\u00e4inen",
+        "link": "https://www.tuni.fi/en/joni-kamarainen",
+        "email": "."
+      },
+      {
+        "name": "Esa Rahtu",
+        "link": "https://www.tuni.fi/en/esa-rahtu",
+        "email": "."
+      },
+      {
+        "name": "Juho Hamari",
+        "link": "https://www.tuni.fi/en/juho-hamari",
+        "email": "."
+      },
+      {
+        "name": "Jaakko Peltonen",
+        "link": "https://www.tuni.fi/en/jaakko-peltonen",
+        "email": "."
+      },
+      {
+        "name": "Tomi Janhunen",
+        "link": "https://www.tuni.fi/en/tomi-janhunen",
+        "email": "."
+      },
+      {
+        "name": "Markku Turunen",
+        "link": "https://www.tuni.fi/en/markku-turunen",
+        "email": "."
+      },
+      {
+        "name": "Alejandro Cabrera Aldaya",
+        "link": "https://www.tuni.fi/en/alejandro-cabreraaldaya",
+        "email": "."
+      },
+      {
+        "name": "Thomas Olsson 0002",
+        "link": "https://www.tuni.fi/en/thomas-olsson",
+        "email": "."
+      },
+      {
+        "name": "Moncef Gabbouj",
+        "link": "https://www.tuni.fi/en/moncef-gabbouj",
+        "email": "."
+      },
+      {
+        "name": "Karen O. Egiazarian",
+        "link": "https://www.tuni.fi/en/karen-eguiazarian",
+        "email": "."
+      },
+      {
+        "name": "Jyrki Nummenmaa",
+        "link": "https://www.tuni.fi/en/jyrki-nummenmaa",
+        "email": "."
+      },
+      {
+        "name": "Ari Visa",
+        "link": "https://www.tuni.fi/en/ari-visa",
+        "email": "."
+      },
+      {
+        "name": "Archontis Politis",
+        "link": "https://www.tuni.fi/en/archontis-politis",
+        "email": "."
+      },
+      {
+        "name": "Kostas Stefanidis",
+        "link": "https://www.tuni.fi/en/konstantinos-stefanidis",
+        "email": "."
+      },
+      {
+        "name": "Veikko Surakka",
+        "link": "https://www.tuni.fi/en/veikko-surakka",
+        "email": "."
+      },
+      {
+        "name": "Tuomas Virtanen",
+        "link": "https://www.tuni.fi/en/tuomas-virtanen",
+        "email": "."
+      }
+    ]
+  },
+  "Iran": {
+    "Sharif University of Technology": [
+      {
+        "name": "Hamid R. Rabiee",
+        "link": "http://sharif.edu/~rabiee",
+        "email": "."
+      },
+      {
+        "name": "Mohsen Ansari",
+        "link": "https://sharif.edu/~ansari",
+        "email": "."
+      }
+    ]
+  },
+  "France": {
+    "Universit\u00e9 Jean Monnet": [
+      {
+        "name": "Marc Sebban",
+        "link": "http://perso.univ-st-etienne.fr/sebbanma",
+        "email": "."
+      }
+    ]
+  },
+  "Belgium": {
+    "Universit\u00e9 libre de Bruxelles": [
+      {
+        "name": "Gilles Geeraerts",
+        "link": "http://www.ulb.ac.be/di/verif/ggeeraer",
+        "email": "."
+      }
+    ]
+  },
+  "Turkey": {
+    "Bilkent University": [
+      {
+        "name": "Hamdi Dibeklioglu",
+        "link": "http://www.cs.bilkent.edu.tr/~dibeklioglu",
+        "email": "."
+      }
+    ],
+    "Hacettepe University": [
+      {
+        "name": "Pinar Duygulu",
+        "link": "https://web.cs.hacettepe.edu.tr/~pinar",
+        "email": "."
+      }
+    ]
+  },
+  "Ireland": {
+    "Maynooth University": [
+      {
+        "name": "Peter Mooney",
+        "link": "https://www.cs.nuim.ie/~pmooney",
+        "email": "."
+      }
+    ]
+  },
+  "Brazil": {
+    "UFF": [
+      {
+        "name": "Daniel de Oliveira 0001",
+        "link": "http://www2.ic.uff.br/~danielcmo",
+        "email": "."
+      }
+    ]
+  },
+  "Argentina": {
+    "Universidad Nacional de C\u00f3rdoba": [
+      {
+        "name": "Pedro R. D'Argenio",
+        "link": "https://cs.famaf.unc.edu.ar/~dargenio",
+        "email": "."
+      }
+    ]
+  },
+  "Bangladesh": {
+    "University of Dhaka": [
+      {
+        "name": "Md. Mosaddek Khan",
+        "link": "http://mmkhansajeeb.com",
+        "email": "."
+      }
+    ]
+  }
+}
