@@ -1,0 +1,30 @@
+{
+  "United States": {
+    "Carnegie Mellon University": [
+      {
+        "name": "J. Zico Kolter",
+        "link": "http://www.zicokolter.com",
+        "email": "geezeeshan@gmail.com",
+        "IsEmailSend": true
+      }
+    ],
+    "Carnegie Mellon University 1": [
+      {
+        "name": "J. Zico Kolter 1",
+        "link": "http://www.zicokolter.com",
+        "email": "theleozeke@gmail.com",
+        "IsEmailSend": true
+      }
+    ]
+  },
+  "Canada": {
+    "Carnegie Mellon University": [
+      {
+        "name": "Muhammad Hamza",
+        "link": "http://www.zicokolter.com",
+        "email": "zeshan.ali@live.com",
+        "IsEmailSend": true
+      }
+    ]
+  }
+}

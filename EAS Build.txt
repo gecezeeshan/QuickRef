@@ -49,3 +49,17 @@ When to Use Each?
 Use npx expo start when actively developing, making changes, and testing in real-time.
 Use eas build --profile development --local when you need a test build for manual testing without relying on Metro.
 
+----------------
+Rebuild
+---------------------
+cd android
+gradlew.bat clean
+cd ..
+npm run android
+
+-----------------------
+
+gradlew.bat build	Just build the APK/AAB without running it
+expo run:android	Build + install + start JS dev server (Metro)
+gradlew.bat assembleRelease	Build a release AAB for Play Store
+eas build -p android	Let Expo's servers handle the full build pipeline

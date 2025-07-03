@@ -7,6 +7,7 @@
 
 ## Running the Project
 - **Start development server:** `npx expo start`
+- **Start Expo client on a connected device:** `npx expo start --dev-client`
 - **Run on Android emulator:** `npx expo run:android`
 - **Run on iOS simulator (Mac only):** `npx expo run:ios`
 - **Run in web mode:** `npx expo start --web`

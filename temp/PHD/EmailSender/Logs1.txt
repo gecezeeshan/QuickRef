@@ -1,0 +1,835 @@
+')}
+✅ Email sent to Jinyoung Yeo (yeo@yonsei) at Yonsei University, South Korea
+✅ Email sent to Jaehyung Kim (jaehyungk@yonsei.ac.kr) at Yonsei University, South Korea
+✅ Email sent to In-Kwon Lee (iklee@yonsei.ac.krgoogle) at Yonsei University, South Korea
+✅ Email sent to Seong Jae Hwang (universityseongjae@yonsei.ac.kr) at Yonsei University, South Korea
+✅ Email sent to Albert No (cyoonjun@yonsei.ac.kr) at Yonsei University, South Korea
+✅ Email sent to Kwanghyun Park (kwanghyun.park@yonsei.ac.kr) at Yonsei University, South Korea
+✅ Email sent to Jinkyu Jeong (etc.jinkyu@yonsei.ac.kr) at Yonsei University, South Korea
+✅ Email sent to Kyong-Ho Lee (khlee89@yonsei.ac.kr) at Yonsei University, South Korea
+✅ Email sent to Hong-Goo Kang (dsp_rep@dsp.yonsei.ac.kr) at Yonsei University, South Korea
+✅ Email sent to Yo-Sub Han (emmous@yonsei.ac) at Yonsei University, South Korea
+✅ Email sent to Tae-Hyun Oh (postech@postech.ac.kr) at POSTECH, South Korea
+✅ Email sent to Sungsoo Ahn (sungsoo.ahn@kaist.ac.krnewsmay) at POSTECH, South Korea
+✅ Email sent to Seung-Hwan Baek (shwbaek@postech.ac.krpersonal) at POSTECH, South Korea
+✅ Email sent to Eunhyeok Park (eh.park@postech.ac.kr) at POSTECH, South Korea
+✅ Email sent to Seungjin Choi (seungjin.choi.mlg@gmail.com) at POSTECH, South Korea
+✅ Email sent to Eunjin Oh (eunjin.oh@postech.ac.kr) at POSTECH, South Korea
+✅ Email sent to Hee-Kap Ahn (heekap@postech.ac.kr) at POSTECH, South Korea
+✅ Email sent to Jaemin Jo (jmjo@skku.edu) at Sungkyunkwan University, South Korea
+✅ Email sent to Sooyoung Cha (sooyoung.cha@skku.edugoogle) at Sungkyunkwan University, South Korea
+✅ Email sent to Jungrae Kim (dale40@gmail.com) at Sungkyunkwan University, South Korea
+✅ Email sent to Sungjae Hwang (sungjaeh@skku.edu) at Sungkyunkwan University, South Korea
+✅ Email sent to Yun-Gyung Cheong (aimecca@skku.edu) at Sungkyunkwan University, South Korea
+✅ Email sent to Won-Ki Jeong (wkjeong@korea.ac.kr) at Korea University, South Korea
+✅ Email sent to Seungryul Baek (srbaek@unist.ac.kr) at UNIST, South Korea
+✅ Email sent to Seungyul Han (syhan@unist.ac.kr) at UNIST, South Korea
+✅ Email sent to Yuseok Jeon (ys_jeon@korea.ac.kr) at UNIST, South Korea
+✅ Email sent to Woongki Baek (baek@unist) at UNIST, South Korea
+✅ Email sent to Sung Whan Yoon (shyoon8@unist.ac.krsearch) at UNIST, South Korea
+✅ Email sent to Taehwan Kim (taehwankim@unist.ac) at UNIST, South Korea
+✅ Email sent to Youngmoon Lee (youngmoonlee@hanyang.ac.kr) at Hanyang University, South Korea
+✅ Email sent to Yong Suk Choi (cys@hanyang.ac.kr) at Hanyang University, South Korea
+✅ Email sent to Woohwan Jung (whjung@hanyang.ac.kr) at Hanyang University, South Korea
+✅ Email sent to Eunok Paek (eunokpaek@hanyang.ac.kr) at Hanyang University, South Korea
+✅ Email sent to Inhwan Lee (beomheynkim@hanyang.ac.kr) at Hanyang University, South Korea
+✅ Email sent to Myungsuk Kim (ms.kim@knu.ac.kr.news) at Kyungpook National University, South Korea
+✅ Email sent to Dongkyun Kim (dongkyun@knu.ac.kr) at Kyungpook National University, South Korea
+✅ Email sent to Jaeil Kim (threeyears@gmail.com) at Kyungpook National University, South Korea
+✅ Email sent to Kyong Hoon Kim (kyong.kim@knu.ac.kr) at Kyungpook National University, South Korea
+✅ Email sent to Chaoning Zhang (chaoningzhang1990@gmail.com) at Kyung Hee University, South Korea
+✅ Email sent to Seong Tae Kim (st.kim@khu.ac.krphone) at Kyung Hee University, South Korea
+✅ Email sent to Jinwoo Choi (jinwoochoi@khu.ac) at Kyung Hee University, South Korea
+✅ Email sent to Keunsoo Ko (ksko@catholic.ac.kr) at The Catholic University of Korea, South Korea
+✅ Email sent to Youjin Shin (yj.shinn@catholic.ac.kr) at The Catholic University of Korea, South Korea
+📩 Done: Personalized emails sent to professors.
+
+D:\ZEESHAN\PHD\EmailSender>myEmailScript.py
+✅ Email sent to J. Zico Kolter (zkolter@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Deva Ramanan (deva@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Louis-Philippe Morency (morency@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Chris Harrison (harrisonchris.harrison@cs.cmu.eduschool) at Carnegie Mellon University, United States
+✅ Email sent to Martial Hebert (hebert@ri.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Tom M. Mitchell (tom.mitchell@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Richard Peng (yangp@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Mayank Goel (mayankgoel@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Andrej Risteski (math_web_help@mit.edu) at Carnegie Mellon University, United States
+✅ Email sent to Andrew Pavlo (pavlo@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Daniel Fried (dfried@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Nicolas Christin (nicolasc@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Lorrie Faith Cranor (afatla@andrew.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Benjamin Moseley (moseleyb@andrew.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Yuvraj Agarwal (yuvraj@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Jessica K. Hodgins (jkh@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Geoffrey J. Gordon (user_id@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Brad A. Myers (bam@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Alan W. Black (awb@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Zhihao Jia (zhihao@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Carolyn P. Rosé (cprose@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Aniket Kittur (nkittur@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Srinivasan Seshan (srini@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Phillip B. Gibbons (gibbons@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Gregory R. Ganger (ganger@ece.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Dimitrios Skarlatos (dskarlat@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Matthew T. Mason (jean@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Nathan Beckmann (name@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Justine Sherry (sherry@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Jan Hoffmann (jhoffmann@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Claire Le Goues (cooperj@andrew.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Sivaraman Balakrishnan (siva@stat.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to David G. Andersen (dga@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Umut A. Acar (mmcmonag@andrew.cmu.eduadditional) at Carnegie Mellon University, United States
+✅ Email sent to Mor Harchol-Balter (harchol@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Geoff Kaufman (gfk@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Riccardo Paccagnella (rpaccagn@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Weina Wang (weinaw@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Jodi Forlizzi (forlizzi@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Adam Perer (adamperer@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to André Platzer (laurence.boehnke@kit.edu) at Carnegie Mellon University, United States
+✅ Email sent to Amy Ogan (aeo@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Robert Harper (rwh@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Justin Chan (justinchan@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Nikolas Martelaro (nikmart@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Feras Saad (fsaad@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Kenneth R. Koedinger (koedinger@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Marijn Heule (marijn@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Rohan Padhye (rohanpadhyebots-gotta-get-smarter-than-this@its-really-not-that-hardcmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Jonathan Aldrich (jonathan.aldrich@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Ronald Rosenfeld (cmelucci@andrew.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Stephanie Balzer (balzers@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Justine Cassell (justine@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Levent Burak Kara (lkara@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Heather Miller (heather.miller@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Sara B. Kiesler (kiesler@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Daniel P. Siewiorek (dps@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Randal E. Bryant (sawako@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Virgil D. Gligor (gligor@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Mahadev Satyanarayanan (satya@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to John C. Stamper (jstamper@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Gary K. Fedder (fedder@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Christopher J. Langmead (cjl@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Priya Narasimhan (priya@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Dana S. Scott (dana.scott@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Vincent Aleven (aleven@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Abhinav Gupta (abhinavg@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Lei Li (fullname@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Zhiwei Steven Wu (zstevenwu@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Swarun Kumar (swarun@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to David Lindlbauer (davidlindlbauer@cmu.edu.download) at Carnegie Mellon University, United States
+✅ Email sent to Fernando Diaz (diazf@acm.org) at Carnegie Mellon University, United States
+✅ Email sent to K. V. Rashmi (rvinayak@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Nihar B. Shah (nihars@cs.cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Wenting Zheng (wenting@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Eunsuk Kang (eskang@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Theophilus Benson (theophilus@cmu.edu) at Carnegie Mellon University, United States
+✅ Email sent to Han Zhao (hanzhao@illinois) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Kris Hauser (kkhauser@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Lingming Zhang (lingming@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Deming Chen (265-4317nslack@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Karrie Karahalios (kkarahal@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Romit Roy Choudhury (croy@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Yunzhu Li (li@columbia) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Wenzhen Yuan (yuanwz@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Kevin Chen-Chuan Chang (kcchang@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Craig B. Zilles (zilles@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Deepak Vasisht (deepakv@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Ruta Mehta (rutameht@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Rakesh Kumar (265-4317nslack@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Sasa Misailovic (61801engineering@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Olgica Milenkovic (265-4317nslack@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Andrew Miller (soc1024@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Kirill Levchenko (klevchen@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to David Heath (daheath@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Ravishankar K. Iyer (265-4317nslack@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Ranjitha Kumar (ranjitha@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Carl A. Gunter (engrit-web@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Timothy Bretl (laboratory217-244-3126tbretl@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Lui Sha (lrs@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Brian P. Bailey (bpbailey@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Sariel Har-Peled (sariel@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Colleen M. Lewis (colleenl@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Sarita V. Adve (sadve@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Klara Nahrstedt (klara@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Yongjoo Park (yongjoo@g.illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Yun Huang (yunhuang@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Reyhaneh Jabbarvand Behrouz (reyhaneh@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Ramnatthan Alagappan (ramn@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Laxmikant V. Kalé (kale@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Nikita Borisov (265-4317nslack@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Roy H. Campbell (grad-admissions@siebelschool.illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Kathryn Cunningham (katcun@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Alex Kirlik (kirlik@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Yih-Chun Hu (265-4317nslack@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Geir E. Dullerud (dullerud@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Roxana Girju (linguistics@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Mani Golparvar Fard (300-2341amwhit@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Bertram Ludäscher (ludaesch@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Paris Smaragdis (my_first_name@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Thenkurussi Kesavadas (ise@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Leonard Pitt (pitt@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Victoria Stodden (ischool@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Jiawei Han (hanj@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to James M. Rehg (developmentcontactjrehg@illinois.eduhealth) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Christopher W. Fletcher (cwfletcher@berkeley.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Koustuv Saha (ksaha2@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Mohammed El-Kebir (melkebir@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Sharifa Sultana (sharifas@illinois.edu) at Univ. of Illinois at Urbana-Champaign, United States
+✅ Email sent to Ravi Ramamoorthi (ravir@cs.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Xinyu Zhang (xyzhang@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Taylor Berg-Kirkpatrick (tberg@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Farinaz Koushanfar (fkoushanfar@ucsd.eduphone) at Univ. of California - San Diego, United States
+✅ Email sent to Yufei Ding (yufeiding@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Pengtao Xie (p1xie@ucsd.edui) at Univ. of California - San Diego, United States
+✅ Email sent to Michael C. Yip (yip@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Tajana Rosing (lmrogers@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Loris D'Antoni (ldantoni@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Nikolay Atanasov (natanasov@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Jishen Zhao (jzhao@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Andrew B. Kahng (abk@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Alex C. Snoeren (snoeren@cs.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Deian Stefan (deian@cs.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Henrik I. Christensen (hichristensen@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Zhijian Liu (zhijian@ucsd) at Univ. of California - San Diego, United States
+✅ Email sent to Arya Mazumdar (arya@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Leo Porter (leporter@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Ranjit Jhala (jhala@cs.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Steven Swanson (swanson@cs.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Geoffrey M. Voelker (voelker@cs.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Aaron Schulman (schulman@cs.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Mikhail Belkin (usinfo@domain.com) at Univ. of California - San Diego, United States
+✅ Email sent to Sorin Lerner (lerner@cs.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Yi-An Ma (yianma@ucsd.edugoogle) at Univ. of California - San Diego, United States
+✅ Email sent to Albert Chern (webmaster@math.tu-berlin.de) at Univ. of California - San Diego, United States
+✅ Email sent to Nadia Polikarpova (npolikarpova@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Qipeng Liu (qipengliu@ucsd) at Univ. of California - San Diego, United States
+✅ Email sent to Steven Dow (spdow@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Tauhidur Rahman (trahman@ucsd.educv) at Univ. of California - San Diego, United States
+✅ Email sent to Deepak Kumar (kumarde@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Tara Javidi (tjavidi@ucsd.eduphone) at Univ. of California - San Diego, United States
+✅ Email sent to Babak Salimi (bsalimi@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Haojian Jin (haojian@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Gal Mishne (usinfo@domain.com) at Univ. of California - San Diego, United States
+✅ Email sent to Yiying Zhang (yiying@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Pat Pannuto (ppannuto@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Mia Minnes (minnes@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Nick Gravish (ngravish@eng.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Pavel A. Pevzner (ppevzner@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Parinaz Naghizadeh Ardabili (pnaghizadeh@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Alin Deutsch (abdeutsch@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Michael Thomas Tolley (tolley@ucsd.edubioinspired) at Univ. of California - San Diego, United States
+✅ Email sent to Leon Bergen (lbergen@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Amy Ousterhout (aousterhout@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Yuanyuan Shi (yyshi@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Lily Weng (usinfo@domain.com) at Univ. of California - San Diego, United States
+✅ Email sent to George Porter (gmporter@cs.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Yoav Freund (yfreund@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Soohyun Nam Liao (usinfo@domain.com) at Univ. of California - San Diego, United States
+✅ Email sent to Yang Zheng (zhengy@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Russell Impagliazzo (russell@cs.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to George Papen (92093emailgpapen@ucsd.eduvcarddownload) at Univ. of California - San Diego, United States
+✅ Email sent to Siavash Mirarab (smirarab@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Alex Orailoglu (alex@cs.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Ramamohan Paturi (rpaturi@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Daniel Grier (dgrier@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to James D. Hollan (hollan@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Sam Lau (lau@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Victor Vianu (vianu@cs.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Deepak Kumar (kumarde@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Behrouz Touri (x7zheng@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Zhuowen Tu (ztu@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Rose Yu (award@usc.she) at Univ. of California - San Diego, United States
+✅ Email sent to Arun Kumar (akk018@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Ndapandula Nakashole (nnakashole@eng.ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Jun-Kun Wang (jkw005@ucsd.edu) at Univ. of California - San Diego, United States
+✅ Email sent to Animesh Garg (techblogcvanimesh.garg@gatech.edugoogle) at Georgia Institute of Technology, United States
+✅ Email sent to Yingyan (Celine) Lin (celine.lin@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Chao Zhang (chaozhang@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Evangelos A. Theodorou (evangelos.theodorou@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to James Hays (hays@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Wei Xu (wei.xu@cc.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Munmun De Choudhury (mchoudhu@cc.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Sonia Chernova (chernova@cc.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Sehoon Ha (sehoonha@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Bo Zhu (bo.zhu@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Alan Ritter (alan.ritter@cc.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Thomas Plötz (thomas.ploetz@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Panagiotis Tsiotras (tsiotras@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Vladimir Kolesnikov (kolesnikov@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Thad Starner (ann.claycombe@cc.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Joy Arulraj (arulraj@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Manos Antonakakis (manos@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Matthew C. Gombolay (matthew.gombolay@cc.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Alberto Dainotti (dainotti@mastodon.online) at Georgia Institute of Technology, United States
+✅ Email sent to Paul Pearce (pearce@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Brendan Saltaformaggio (brendan@ece.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Qirun Zhang (qrzhang@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Mohit Singh (mohit.singh@isye.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Will Perkins (math@willperkins.org) at Georgia Institute of Technology, United States
+✅ Email sent to Haesun Park (hpark@cc.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Joseph Jaeger (josephjaeger@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Stephen Mussmann (mussmann@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Suguman Bansal (suguman@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Harish Ravichandar (harish.ravichandar@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Anand Padmanabha Iyer (anand.iyer@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Saman A. Zonouz (saman.zonouz@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Justin K. Romberg (jrom@ece.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Vivek Sarkar (vsarkar@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Enlu Zhou (firstname.lastname@isye.gatech.eduphone) at Georgia Institute of Technology, United States
+✅ Email sent to Amy S. Bruckman (asb@hci.social) at Georgia Institute of Technology, United States
+✅ Email sent to Guanghui Lan (george.lan@isye.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Mustaque Ahamad (mustaq@cc.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Alexander Travis Adams (labsaadams322@gatech.eduschool) at Georgia Institute of Technology, United States
+✅ Email sent to Wenjing Liao (wliao60@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Bruce N. Walker (bruce.walker@psych.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Peng Chen (pchen402@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Christopher J. MacLellan (cmaclell@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Annie I. Antón (aa16@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Daniel Genkin (genkin@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Jennifer G. Kim (jennifer.kim@cc.gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Alexey Tumanov (atumanov@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Vidya Muthukumar (vmuthukumar8@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Yunan Luo (yunan@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Ashwin Pananjady (ashwinpm@gatech.edu) at Georgia Institute of Technology, United States
+✅ Email sent to Daniela Rus (rus@csail.mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Wojciech Matusik (wojciech@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Regina Barzilay (regina@csail.mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Leslie Pack Kaelbling (lpk@csail.mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Mohammad Alizadeh (alizadeh@csail.mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Frédo Durand (fredo@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Dina Katabi (dk@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Kaiming He (kaiming@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Yoon Kim (yoonkim@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Patrick Jaillet (last-name@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Srini Devadas (devadas@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Ramesh Raskar (raskar@media.mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Michael Carbin (mcarbin@csail.mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Marzyeh Ghassemi (oreilly1@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Adam Chlipala (adamc@csail.mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Asuman E. Ozdaglar (asuman@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Martin J. Wainwright (wainwrigwork@gmail.com) at Massachusetts Institute of Technology, United States
+✅ Email sent to Christina Delimitrou (delimitrou@cornell.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to David R. Karger (karger@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to M. Frans Kaashoek (kaashoek@csail.mit.edu) at Massachusetts Institute of Technology, United States
+❌ Failed to send to s...@mit.edu: {'s...@mit.edu': (553, b'5.1.3 The recipient address <s...@mit.edu> is not a valid RFC 5321 address.\n5.1.3 For more information, 
+go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')}
+✅ Email sent to Sara Beery (aiforconservation@gmail.com) at Massachusetts Institute of Technology, United States
+✅ Email sent to Peter Szolovits (psz@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Erik D. Demaine (edemaine@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Polina Golland (polina@csail.mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Barbara Liskov (liskov@csail.mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Rob Miller (rcm@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Robert Morris (rtm@csail.mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Alexandre Megretski (pulkitag@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Pablo A. Parrilo (parrilo@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Randall Davis (davis@csail.mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Nancy A. Lynch (lynch@csail.mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to John N. Tsitsiklis (jnt@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Max M. Shulaker (medard@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Seth J. Teller (area2-chair@csail.mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Manolis Kellis (manoli@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Mengjia Yan (mengjiay@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Priya L. Donti (donti@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Collin M. Stultz (imes@mit.edu) at Massachusetts Institute of Technology, United States
+✅ Email sent to Kang G. Shin (kgshin@umich.edu) at University of Michigan, United States
+✅ Email sent to Z. Morley Mao (bighead@eecs.umich.edu) at University of Michigan, United States
+✅ Email sent to Ambuj Tewari (tewaria@umich.edu) at University of Michigan, United States
+✅ Email sent to Mosharaf Chowdhury (mosharaf@umich.edu) at University of Michigan, United States
+✅ Email sent to Jason J. Corso (reportphish@umich.edu) at University of Michigan, United States
+✅ Email sent to Scott A. Mahlke (mahlke@umich.edu) at University of Michigan, United States
+✅ Email sent to Barzan Mozafari (mozafari@umich.edu) at University of Michigan, United States
+✅ Email sent to Michael Nebeling (nebeling@umich.edu) at University of Michigan, United States
+✅ Email sent to Anhong Guo (anhong@umich.edu) at University of Michigan, United States
+✅ Email sent to Michael P. Wellman (wellman@umich.edu) at University of Michigan, United States
+✅ Email sent to Danai Koutra (dkoutra@umich.edu) at University of Michigan, United States
+✅ Email sent to Xinyu Wang (xwangsd@umich.edu) at University of Michigan, United States
+✅ Email sent to Valeria Bertacco (alicemel@umich.edu) at University of Michigan, United States
+✅ Email sent to Nikola Banovic (nbanovic@umich.edu) at University of Michigan, United States
+✅ Email sent to XuanLong Nguyen (xuanlong@umich.edu) at University of Michigan, United States
+✅ Email sent to Maggie Makar (mmakar@mastodon.social) at University of Michigan, United States
+✅ Email sent to John P. Hayes (jhayes@umich.edu) at University of Michigan, United States
+✅ Email sent to Benjamin Kuipers (kuipers@umich.edu) at University of Michigan, United States
+✅ Email sent to Cyrus Omar (comar@umich.edu) at University of Michigan, United States
+✅ Email sent to Karem A. Sakallah (karem@umich.edu) at University of Michigan, United States
+✅ Email sent to Dmitry Berenson (dmitryb@umich.edu) at University of Michigan, United States
+✅ Email sent to Chris Peikert (cpeikert@umich.edu) at University of Michigan, United States
+✅ Email sent to Dhruv Jain (profdj@umich.edu) at University of Michigan, United States
+✅ Email sent to Jean-Baptiste Jeannin (jeannin@umich.edu) at University of Michigan, United States
+✅ Email sent to Georgios Tzimpragos (tzimpragos@wisc.edu) at University of Michigan, United States
+✅ Email sent to Luke Zettlemoyer (lsz@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Noah A. Smith (nasmith@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Simon S. Du (ssdu@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Yin Tat Lee (yintat@ignoreme-uw.edu) at University of Washington, United States
+✅ Email sent to Arvind Krishnamurthy (centerarvind@cs.washington.eduarvind) at University of Washington, United States
+✅ Email sent to Franziska Roesner (franzi@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Tadayoshi Kohno (yoshi@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Jon Froehlich (642jonf@cs.uw.edu) at University of Washington, United States
+✅ Email sent to Shyamnath Gollakota (gshyam@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Baris Kasikci (baris@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Jeff A. Bilmes (bilmes@ece.uw.edu) at University of Washington, United States
+✅ Email sent to Kevin G. Jamieson (jamieson@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Anind K. Dey (anind@uw.edu) at University of Washington, United States
+✅ Email sent to Dan Suciu (suciu@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Alexis Hiniker (alexisr@uw.edu) at University of Washington, United States
+✅ Email sent to Katharina Reinecke (reinecke@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Pang Wei Koh (pangwei@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Brian Curless (curless@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Vikram Iyer (vsiyer@uw.edu) at University of Washington, United States
+✅ Email sent to Julie A. Kientz (jkientz@uw.edu) at University of Washington, United States
+✅ Email sent to Shayan Oveis Gharan (shayan@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Simon Peter (simpeter@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Luis Ceze (luisceze@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Magdalena Balazinska (magda@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Gary Hsieh (garyhs@uw.edu) at University of Washington, United States
+✅ Email sent to Richard J. Anderson (anderson@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Thomas E. Anderson (tom@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Anna R. Karlin (karlin@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Linda G. Shapiro (shapiro@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Nirvan Tyagi (tyagi@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Sheng Wang (wang@cs) at University of Washington, United States
+✅ Email sent to James R. Lee (rl@cs) at University of Washington, United States
+✅ Email sent to Dan Grossman (djg@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Aylin Caliskan (aylin@uw.edu) at University of Washington, United States
+✅ Email sent to Mark Oskin (oskin@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Paul Beame (beame@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Anup Rao (anuprao@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Alan Borning (borning@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Edward D. Lazowska (lazowska@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Sara Mostafavi (saramos@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Ranjay Krishna (team@ai2.his) at University of Washington, United States
+✅ Email sent to Adriana Schulz (adriana@cs.washington.edu) at University of Washington, United States
+✅ Email sent to James Fogarty (jfogarty@cs.washington) at University of Washington, United States
+✅ Email sent to David Kohlbrenner (dkohlbre@cs.washington.edu) at University of Washington, United States
+✅ Email sent to Michael I. Jordan (jordan@cs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Jitendra Malik (malik@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Dawn Song (dawnsong@cs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Dan Klein (klein@cs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Matei Zaharia (matei@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Stuart Russell (jp@humancompatible.ai) at Univ. of California - Berkeley, United States
+✅ Email sent to Sanjam Garg (sanjamg@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Yi Ma (yima@eecs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Björn Hartmann (bjoern@eecs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Peter L. Bartlett (peter@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Aditya G. Parameswaran (grad-admissions@siebelschool.illinois.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Scott Shenker (shenker@icsi.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Vern Paxson (vern@icir.org) at Univ. of California - Berkeley, United States
+✅ Email sent to Koushik Sen (ksen@cs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Nika Haghtalab (emailnika@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to John F. Canny (canny@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Joseph M. Hellerstein (hellerstein@cs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Jelani Nelson (minilek@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to David A. Wagner (daw@cs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Ren Ng (ren@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Eric Paulos (paulos@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Prabal Dutta (prabal@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Alane Suhr (suhr@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Marti A. Hearst (hearst@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Alberto L. Sangiovanni-Vincentelli (alberto@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Bin Yu (binyu@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Borivoje Nikolic (bora@eecs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Yakun Sophia Shao (shao@berkeley) at Univ. of California - Berkeley, United States
+✅ Email sent to John Wright (jswright@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Shafi Goldwasser (tmjackson@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Alexandre M. Bayen (bayen@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Costas J. Spanos (eva.leach@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Edward A. Lee (eal@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to James Demmel (demmel@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Katherine A. Yelick (vcr@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to John Kubiatowicz (kubitron@cs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Armando Fox (fox@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Umesh V. Vazirani (my_last_name@cs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Avideh Zakhor (avz@eecs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Jan M. Rabaey (jan_rabaey@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Jaijeet S. Roychowdhury (jr@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Anant Sahai (webteam@eecs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Murat Arcak (arcak@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Robert J. Full (rjfull@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Anthony D. Joseph (adj@cs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Kristofer S. J. Pister (ksjp@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Laura Waller (waller@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Elad Alon (elad@eecs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Sayeef S. Salahuddin (derekj@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Vladimir Stojanovic (vlada@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Eric A. Brewer (brewer@cs.berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Michael Lustig (mikilustig@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Jiantao Jiao (jiantao@cs.berkeley) at Univ. of California - Berkeley, United States
+✅ Email sent to James F. O'Brien (job@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Jennifer Listgarten (jennl@berkeley.edu) at Univ. of California - Berkeley, United States
+✅ Email sent to Noah Snavely (snavely@cs.cornell.edu) at Cornell University, United States
+✅ Email sent to Thomas Ristenpart (ristenpart@cornell.edu) at Cornell University, United States
+✅ Email sent to Nathan Kallus (kallus@cornell.edu) at Cornell University, United States
+✅ Email sent to Yoav Artzi (yoav@cs.cornell.edu) at Cornell University, United States
+✅ Email sent to Thorsten Joachims (tj@cs.cornell.edu) at Cornell University, United States
+✅ Email sent to Kavita Bala (kavitabala@cornell.edu) at Cornell University, United States
+✅ Email sent to Noah Stephens-Davidowitz (noahsd@gmail.com) at Cornell University, United States
+✅ Email sent to Sainyam Galhotra (sg@cs.cornell.edu.interestsdatabasesdata) at Cornell University, United States
+✅ Email sent to Austin R. Benson (arb@cs.cornell.edu) at Cornell University, United States
+✅ Email sent to Mor Naaman (web-accessibility@cornell.edu) at Cornell University, United States
+✅ Email sent to Cristian Danescu-Niculescu-Mizil (cristian@cs.cornell.edu) at Cornell University, United States
+✅ Email sent to David Bindel (bindel@cornell.edu) at Cornell University, United States
+✅ Email sent to Malte F. Jung (web-accessibility@cornell.edu) at Cornell University, United States
+✅ Email sent to Bart Selman (selman@cs.cornell.edu) at Cornell University, United States
+✅ Email sent to Hakim Weatherspoon (hweather@cs.cornell.edu) at Cornell University, United States
+✅ Email sent to Alexander Conway (contactme@ajhconway.compowered) at Cornell University, United States
+✅ Email sent to Nikhil Garg (ngarg@removethiscornell.removethisedu) at Cornell University, United States
+✅ Email sent to Owolabi Legunsen (legunsen@cornell.edu) at Cornell University, United States
+✅ Email sent to Robbert van Renesse (rvr@cs.cornell.edu) at Cornell University, United States
+✅ Email sent to Anil Damle (damle@cornell.edu) at Cornell University, United States
+✅ Email sent to J. Gregory Morrisett (greg.morrisett@cornell.edu) at Cornell University, United States
+✅ Email sent to Deborah Estrin (destrin@cs.cornell.edu) at Cornell University, United States
+✅ Email sent to Cheng Zhang (cz448@cornell.edu) at Cornell University, United States
+✅ Email sent to Angelique Taylor (amt298@cornell.edu) at Cornell University, United States
+✅ Email sent to Silvia Ferrari (lisc5305@gmail.com) at Cornell University, United States
+✅ Email sent to Nicholas Spooner (nspooner@cornell.edu) at Cornell University, United States
+✅ Email sent to Heng Huang (heng@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Jia-Bin Huang (jbhuang@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Abhinav Shrivastava (abhinav@cs.umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Jordan L. Boyd-Graber (jbg@umiacs.umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Dave Levin (dml@cs.umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Marine Carpuat (marine@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Eun Kyoung Choe (choe@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Gang Qu (gangqu@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Philip Resnik (resnik@umd) at University of Maryland - College Park, United States
+✅ Email sent to Neil Spring (nspring@cs.umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Nirupam Roy (niruroy@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Douglas W. Oard (oard@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to David M. Mount (mount@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Jonathan Lazar (jlazar@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Andrew M. Childs (amchilds@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Jeffrey K. Hollingsworth (hollings@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Ankur Srivastava (ankurs@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Adam A. Porter (aporter@cs.umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Alan Sussman (als@cs.umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Amanda Lazar (lazar@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Yizheng Chen (yzchen@umd.edu) at University of Maryland - College Park, United States
+✅ Email sent to Leonidas J. Guibas (guibas@cs.stanford.edu) at Stanford University, United States
+✅ Email sent to Li Fei-Fei (feifeili@stanford.edu) at Stanford University, United States
+✅ Email sent to Diyi Yang (diyiy@cs.stanford.edu) at Stanford University, United States
+✅ Email sent to Tengyu Ma (name@stanford.edu) at Stanford University, United States
+✅ Email sent to Christopher D. Manning (manning@cs.stanford.edu) at Stanford University, United States
+✅ Email sent to Daniel Jurafsky (jurafsky@stanford.edu) at Stanford University, United States
+✅ Email sent to C. Karen Liu (karenliu@cs.stanford.edu) at Stanford University, United States
+✅ Email sent to Aviad Rubinstein (aviad@cs.stanford.edu) at Stanford University, United States
+✅ Email sent to Dan Boneh (dabo@cs.stanford.edu) at Stanford University, United States
+✅ Email sent to Michael S. Bernstein (msb@cs.stanford.edu) at Stanford University, United States
+✅ Email sent to Alex Aiken (emailaaiken@stanford.edu) at Stanford University, United States
+✅ Email sent to James A. Landay (cturne55@stanford.edu) at Stanford University, United States
+✅ Email sent to Zakir Durumeric (zakir@cs.stanford.edu) at Stanford University, United States
+✅ Email sent to Clark W. Barrett (barrettc@stanford.edu) at Stanford University, United States
+✅ Email sent to Moses Charikar (charikar@stanford.edu) at Stanford University, United States
+✅ Email sent to Pat Hanrahan (hanrahan@cs.stanford.edu) at Stanford University, United States
+✅ Email sent to Doug L. James (djames@cs.stanford.edu) at Stanford University, United States
+✅ Email sent to Omer Reingold (reingold@stanford.edu) at Stanford University, United States
+❌ Failed to send to prof.davidmazieres@gmail.com: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5 
+ https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to kjolstad@stanford.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:
+//support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to subh@stanford.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to marykw@stanford.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://
+support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to akundaje@stanford.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:
+//support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to sahami@cs.stanford.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https
+://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to balaji@stanford.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://
+support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to engler@lcs.mit.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://s
+upport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to fedkiw@cs.stanford.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https
+://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to widom@stanford.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://s
+upport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to thashim@stanford.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to shuran@stanford.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://
+support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to yanz.wang@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  h
+ttps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to xue.lin@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  htt
+ps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to wichs@ccs.neu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to amislove@ccs.neu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to jullman@ccs.neu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://
+support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to s.behnezhad@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5 
+ https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to r.walters@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  h
+ttps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to abhi@neu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support
+.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to lsw@ccs.neu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://supp
+ort.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to l.lu@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:
+//support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to ek@ccs.neu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppo
+rt.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to we.shi@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  http
+s://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to c.nitarotaru@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5
+  https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to j.dy@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:
+//support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to m.hofmann@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  h
+ttps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to m.everett@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  h
+ttps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to a.oprea@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  htt
+ps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to w.robertson@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5 
+ https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to m.borkin@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  ht
+tps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to ho.zhang@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  ht
+tps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to a.lerner@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  ht
+tps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to l.lessard@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  h
+ttps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to g.noubir@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  ht
+tps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to a.guha@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  http
+s://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to a.to@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:
+//support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to s.holtzen@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  h
+ttps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to s.amir@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  http
+s://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to s.savage@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  ht
+tps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to o.vitek@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  htt
+ps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to khoury-dean@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5 
+ https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to h.saksono@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  h
+ttps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to j.vitek@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  htt
+ps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to j.aslam@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  htt
+ps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to 123-45679emailhello@yourwebsite.comprayer: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits 
+go to\n5.4.5  https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to se.cooper@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  h
+ttps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to ha.singh@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  ht
+tps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to j.gancher@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  h
+ttps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to c.brodley@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  h
+ttps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to ...@northeastern.edu: {'...@northeastern.edu': (553, b'5.1.3 The recipient address <...@northeastern.edu> is not a valid RFC 5321\n5.1.3 address
+. For more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')}
+❌ Failed to send to s.marsella@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  
+https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to matthias@ccs.neu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to k.creel@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  htt
+ps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to j.shin@northeastern.eduoffice: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5
+  https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to operations@lists.ccs.neu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5 
+ https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to f.ghoreishi@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5 
+ https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to t.eliassirad@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5
+  https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to a.barabasi@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  
+https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to eelhami@ccs.neu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://supp
+ort.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to l.padilla@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  h
+ttps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to das@northeastern.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to dxu@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppo
+rt.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to ribeirob@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://
+support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to bbenes@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to yexiang@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://s
+upport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to root@davejingtian.org: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:
+//support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to ninghui@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://s
+upport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to rayyeh@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to qureshi7@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://
+support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to sbagchi@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://s
+upport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to hmaji@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://sup
+port.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to bertino@cs.purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:
+//support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to hanneke@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://s
+upport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to csjgwang@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://
+support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to ruqiz@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://sup
+port.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to suresh@cs.purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to simina@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to firstname@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to popescu@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://s
+upport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to mshahbaz@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://
+support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to bbullins@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://
+support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to sciencehelp@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https
+://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to rajivak@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://s
+upport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to clg@cs.purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to vijay@ecn.purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to aref@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://supp
+ort.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to spa@cs.purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to qobi@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://supp
+ort.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to yunglu@ecn.purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:
+//support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to apothen@purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://s
+upport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to li@cs.purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://sup
+port.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to ab@cs.purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://sup
+port.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to mingyin@purdue.educurriculum: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5 
+ https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to sbasu@math.purdue.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:
+//support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to andrewgw@cims.nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:
+//support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to last_name@cs.nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to g@csail.mit.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://supp
+ort.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to firstname@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to david.fouhey@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to mengye@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppo
+rt.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to linzen@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppo
+rt.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to stoyanovich@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://
+support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to aaron.bernstein@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  http
+s://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to jt4767@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppo
+rt.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to brenden@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://supp
+ort.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to shasha@cs.nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to k.j.geras@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to grishman@cs.nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://
+support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to goldberg@cs.nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://
+support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to xc13@stern.nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://s
+upport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to liparischool@dmi.unici.it: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  ht
+tps://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to lastname@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://sup
+port.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to at2@stern.nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to stadler@cims.nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to ev2240@nyu.educv: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://sup
+port.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to cfeng@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppor
+t.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to saining.xie@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://
+support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to mccoy@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppor
+t.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to cmusco@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppo
+rt.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to sg175@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppor
+t.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to rkarri@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppo
+rt.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to chinmay.h@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to qisun@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppor
+t.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to martin.farach-colton@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5 
+ https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to bjr5@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support
+.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to juliana.freire@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https
+://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to dhuang@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppo
+rt.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to yanjunhan@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to bellini@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://supp
+ort.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to brendandg@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://su
+pport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to jcappos@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://supp
+ort.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to gerig@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppor
+t.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to boris.aronov@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to julian.togelius@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  http
+s://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to ewong@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppor
+t.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to jb2843@nyu.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://suppo
+rt.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to lqiang@cs.utexas.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to sciencegdurrett@cs.utexas.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5
+  https://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to isil@cs.utexas.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://s
+upport.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to mooney@cs.utexas.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to swarat@cs.utexas.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:/
+/support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to bwaters@cs.utexas.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:
+//support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to constantine@utexas.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https
+://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to ecprice@cs.utexas.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https:
+//support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+❌ Failed to send to joydeepb@cs.utexas.edu: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https
+://support.google.com/a/answer/166852 5b1f17b1804b1-450dcc18a80sm80618795e9.38 - gsmtp')
+Traceback (most recent call last):
+  File "D:\ZEESHAN\PHD\EmailSender\myEmailScript.py", line 62, in <module>
+    server.sendmail(your_email, email, msg.as_string())
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Syed Zeeshan\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 891, in sendmail
+    (code, resp) = self.data(msg)
+                   ~~~~~~~~~^^^^^
+  File "C:\Users\Syed Zeeshan\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 567, in data
+    (code, repl) = self.getreply()
+                   ~~~~~~~~~~~~~^^
+  File "C:\Users\Syed Zeeshan\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 398, in getreply
+    line = self.file.readline(_MAXLINE + 1)
+  File "C:\Users\Syed Zeeshan\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\Syed Zeeshan\AppData\Local\Programs\Python\Python313\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Syed Zeeshan\AppData\Local\Programs\Python\Python313\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyboardInterrupt
