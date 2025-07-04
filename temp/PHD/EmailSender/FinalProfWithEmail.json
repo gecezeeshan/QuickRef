@@ -20717,37 +20717,37 @@
         "name": "Bernhard Schölkopf",
         "link": "https://is.mpg.de/~bs",
         "email": "bernhard.schoelkopf@tuebingen.mpg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christian Theobalt",
         "link": "https://www.mpi-inf.mpg.de/~theobalt",
         "email": "theobalt@mpi-inf",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Michael J. Black",
         "link": "https://ps.is.tuebingen.mpg.de/person/black",
         "email": "black@tuebingen.mpg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Hans-Peter Seidel",
         "link": "https://www.mpi-inf.mpg.de/~hpseidel",
         "email": "hpseidel@mpi-inf.mpg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Gilles Barthe",
         "link": "https://gbarthe.github.io",
         "email": "firstname.lastname@mpi-sp.org",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Moritz Hardt",
         "link": "http://mrtz.org",
         "email": "sf-admin@is.mpg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Danupon Nanongkai",
@@ -20759,67 +20759,67 @@
         "name": "Metin Sitti",
         "link": "http://pi.is.mpg.de",
         "email": "pi-admin@is.mpg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Georg Zetzsche",
         "link": "http://zetzsche.xyz",
         "email": "gz@chaos.social",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Joël Ouaknine",
         "link": "https://people.mpi-sws.org/~joel",
         "email": "joel@mpi-sws.org",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Peter Schwabe",
         "link": "https://cryptojedi.org/peter",
         "email": "peter@cryptojedi.org",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Katherine J. Kuchenbecker",
         "link": "https://hi.is.mpg.de",
         "email": "info@is.mpg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Yixin Zou",
         "link": "https://yixinzou.github.io",
         "email": "firstname.lastname@mpi-sp.org",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Peter Dayan",
         "link": "https://www.kyb.tuebingen.mpg.de/computational-neuroscience",
         "email": "dayan@tue.mpg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Antoine Kaufmann",
         "link": "https://people.mpi-sws.org/~antoinek",
         "email": "antoinek@mpi-sws.org",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Eugene W. Myers",
         "link": "https://www.mpi-cbg.de/research-groups/current-groups/gene-myers/group-leader",
         "email": "myers@mpi-cbg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Manuel Gomez-Rodriguez",
         "link": "https://www.mpi-sws.org/~manuelgr",
         "email": "manuel@mpi-sws.org",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Mariya Toneva",
         "link": "https://mtoneva.com",
         "email": "mtoneva@mpi-sws.org",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "TU Munich": [
@@ -20827,97 +20827,97 @@
         "name": "Daniel Cremers",
         "link": "http://vision.in.tum.de/members/cremers",
         "email": "info@vision.in.tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Stefan Leutenegger",
         "link": "https://mlr.in.tum.de/members/leuteneg",
         "email": "info@srl.cit.tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Thomas Neumann",
         "link": "https://db.in.tum.de/~neumann",
         "email": "thomas.neumann@in.tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Viktor Leis",
         "link": "https://www.cs.cit.tum.de/dis/team/prof-dr-viktor-leis",
         "email": "sekretariat@dis.cit.tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Robert Wille",
         "link": "https://www.cda.cit.tum.de/team/wille",
         "email": "robert.wille@tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Alfons Kemper",
         "link": "https://db.in.tum.de/~kemper",
         "email": "alfons.kemper@in.tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jana Giceva",
         "link": "https://db.in.tum.de/~giceva",
         "email": "jana.giceva@in.tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Felix Brandt",
         "link": "http://dss.in.tum.de/staff/brandt",
         "email": "brandt@tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Matthias Grabmair",
         "link": "https://www.cs.cit.tum.de/lt/team/matthias-grabmair",
         "email": "matthias.grabmair@tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jörg Ott",
         "link": "https://www.netlab.tkk.fi/~jo",
         "email": "joergott@iptel.org",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Thomas A. Runkler",
         "link": "https://www7.in.tum.de/~runkler",
         "email": "636-633806thomas.runkler@siemens.comhttp",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Susanne Albers",
         "link": "http://www14.in.tum.de/personen/albers",
         "email": "albers@in.tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Michael Bader",
         "link": "http://www5.in.tum.de/wiki/index.php/Univ.-Prof._Dr._Michael_Bader",
         "email": "bader@in.tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Carsten Steger",
         "link": "http://iuks.informatik.tu-muenchen.de/members/steger",
         "email": "info@iuks.in.tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Cristina Piazza",
         "link": "http://campar.in.tum.de/Main/CristinaPiazza",
         "email": "cristina.piazza@tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Chunyang Chen",
         "link": "https://chunyang-chen.github.io",
         "email": "chun-yang.chen@tum.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "TU Darmstadt": [
@@ -20925,103 +20925,103 @@
         "name": "Iryna Gurevych",
         "link": "https://www.ukp.tu-darmstadt.de/people/group-heads/prof-dr-iryna-gurevych",
         "email": "habernalprofessorivan.habernal@rub.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jan Peters",
         "link": "https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters",
         "email": "peters@ias.tu-darmstadt.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Ahmad-Reza Sadeghi",
         "link": "https://www.trust.informatik.tu-darmstadt.de/people/ahmad-reza-sadeghi",
         "email": "ahmad.sadeghi@trust.tu",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Stefan Roth",
         "link": "http://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp",
         "email": "info@visinf.tu",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jan Gugenheimer",
         "link": "https://www.gugenheimer.com",
         "email": "firstname.lastname@telecom-paris.fr",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Georgia Chalvatzaki",
         "link": "https://pearl-lab.com/people/georgia-chalvatzaki",
         "email": "contact@pearl-lab.com",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Matthias Hollick",
         "link": "https://www.seemoo.tu-darmstadt.de/team/matthias-hollick",
         "email": "mhollick@seemoo.tu-darmstadt.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Marc Fischlin",
         "link": "https://www.cryptoplexity.informatik.tu-darmstadt.de/members/marcfischlin/marcfischlin.en.jsp",
         "email": "contact@cx.tu",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Constantin A. Rothkopf",
         "link": "https://www.pip.tu-darmstadt.de/members_pip/publications.en.jsp",
         "email": "rothkopf@psychologie.tu",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Mira Mezini",
         "link": "http://www.stg.tu-darmstadt.de/staff/mira_mezini",
         "email": "mezini@informatik.tu",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Guido Salvaneschi",
         "link": "http://www.guidosalvaneschi.com",
         "email": "guido.salvaneschi@unisg.ch",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Björn Scheuermann",
         "link": "https://www.kom.tu-darmstadt.de",
         "email": "steinmetz.office@kom.tu",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Andreas Koch",
         "link": "https://www.esa.informatik.tu-darmstadt.de/team/ahk",
         "email": "koch@esa.tu-darmstadt.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christian H. Bischof",
         "link": "https://www.informatik.tu-darmstadt.de/sc/fg/people/details/christian_bischof.en.jsp",
         "email": "secretary@sc.tu",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Alejandro P. Buchmann",
         "link": "http://www.dvs.tu-darmstadt.de/staff/buchmann",
         "email": "tiedem@dvs.tu",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Reiner Hähnle",
         "link": "https://www.informatik.tu-darmstadt.de/se/gruppenmitglieder/groupmembers_detailseite_30784.en.jsp",
         "email": "haehnle@informatik.tu",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jean Paul Degabriele",
         "link": "https://degabriele.info",
         "email": "jeanpaul.degabriele@tii.ae",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "Saarland University": [
@@ -21029,37 +21029,37 @@
         "name": "Josef van Genabith",
         "link": "https://www.dfki.de/web/ueber-uns/mitarbeiter/person/jova02",
         "email": "josef.van_genabith@dfki.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Isabel Valera",
         "link": "https://ivaleram.github.io",
         "email": "ivalera@cs.uni-saarland.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Philipp Slusallek",
         "link": "https://graphics.cg.uni-saarland.de/slusallek",
         "email": "slusallek@cg.uni-saarland.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Markus Bläser",
         "link": "http://www-cc.cs.uni-saarland.de/mblaeser",
         "email": "neumann@cs.uni-saarland.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Holger Hermanns",
         "link": "http://depend.cs.uni-saarland.de/index.php?hermanns&L=1",
         "email": "hermanns@cs.uni-saarland.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Martina Maggio",
         "link": "http://www.martinamaggio.com/main",
         "email": "maggio@cs.uni-saarland.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "CISPA Helmholtz Center": [
@@ -21067,79 +21067,79 @@
         "name": "Yang Zhang",
         "link": "https://yangzhangalmo.github.io",
         "email": "zhang@cispa.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sebastian U. Stich",
         "link": "https://www.sstich.ch",
         "email": "stich@cispa.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Julian Loss",
         "link": "https://www.julianloss.com",
         "email": "lossjulian@gmail.com",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jilles Vreeken",
         "link": "http://people.mmci.uni-saarland.de/~jilles",
         "email": "webmaster@example.com",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Andreas Zeller",
         "link": "https://andreas-zeller.info",
         "email": "andreas.zeller@cispa.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Maximilian Golla",
         "link": "https://maximiliangolla.com",
         "email": "golla@cispa.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Adam Dziedzic",
         "link": "https://adam-dziedzic.com",
         "email": "adam.dziedzic@sprintml.com",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Xiao Zhang",
         "link": "https://xiao-zhang.net",
         "email": "xiao.zhang@cispa.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Swen Jacobs",
         "link": "https://www.react.uni-saarland.de/people/jacobs.html",
         "email": "jacobs@cispa.saarland",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Priyanka Golia",
         "link": "https://priyanka-golia.github.io",
         "email": "pgolia@cse.iitd.ac.inbharti",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christian Rossow",
         "link": "https://christian-rossow.de",
         "email": "rossow@cispa.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Ben Stock",
         "link": "https://people.cispa.io/ben.stock",
         "email": "stock@cispa.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Tatjana Chavdarova",
         "link": "https://chavdarova.github.io",
         "email": "group@epfl.oct",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "TU Berlin": [
@@ -21147,91 +21147,91 @@
         "name": "Marc Toussaint",
         "link": "https://www.user.tu-berlin.de/mtoussai/index.html",
         "email": "toussaint@tu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Rolf Niedermeier",
         "link": "https://www.akt.tu-berlin.de/index.php?id=110570",
         "email": "christlinde.thielcke@tu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Marc Alexa",
         "link": "https://www.cg.tu-berlin.de/team/prof-dr-marc-alexa",
         "email": "6.038sekr@cg.tu-berlin.deoffice",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Matthias Boehm",
         "link": "https://mboehm7.github.io",
         "email": "matthias.boehm@tu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Ziawasch Abedjan",
         "link": "https://d2ip-tub.github.io/zabedjan",
         "email": "abedjan@tu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Konrad Rieck",
         "link": "https://www.mlsec.org/team/rieck",
         "email": "rieck@tu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Wojciech Samek",
         "link": "https://www.tu.berlin/vcard/wojciech.samek",
         "email": "samekwojciech.samek@tu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sebastian Möller",
         "link": "https://www.tu.berlin/en/qu/about-us/management",
         "email": "meetingspublikationse-mailsebastian.moeller@tu-berlin.deaddresse",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Henning Sprekeler",
         "link": "https://www.cognition.tu-berlin.de/menue/members/henning_sprekeler/parameter/de",
         "email": "cathrin.bunkelmann@tu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Olaf Hellwich",
         "link": "https://www.cv.tu-berlin.de/menue/mitarbeiter/olaf_hellwich",
         "email": "olaf.hellwich@tu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Florian Tschorsch",
         "link": "https://www.dsi.tu-berlin.de/menue/arbeitsgruppe/tschorsch",
         "email": "tschorschflorian.tschorsch@tu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Ceenu George",
         "link": "https://www.tu.berlin/vcard/ceenu.george",
         "email": "georgeceenu.george@tu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Marianne Maertens",
         "link": "https://www.psyco.tu-berlin.de/people.html",
         "email": "marianne.maertens@tu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Fatma Deniz",
         "link": "https://www.fatmanet.com",
         "email": "deniz@tu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sebastian Schelter",
         "link": "https://deem.berlin/#professor",
         "email": "workshop@neurips.we",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "RWTH Aachen University": [
@@ -21239,73 +21239,73 @@
         "name": "Martin Grohe",
         "link": "https://www.lics.rwth-aachen.de/cms/LICS/Der-Lehrstuhl/Team/Dozierende/~ocwf/Martin-Grohe",
         "email": "grohe@informatik.rwth-aachen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sebastian Trimpe",
         "link": "https://www.dsme.rwth-aachen.de/cms/DSME/das-institut/Team/~jlolt/Prof-Sebastian-Trimpe/?allou=1",
         "email": "office@dsme.rwth-aachen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Hector Geffner",
         "link": "https://www-i6.informatik.rwth-aachen.de/~hector.geffner",
         "email": "firstname.lastname@ml.rwth-aachen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Torsten W. Kuhlen",
         "link": "http://www.vr.rwth-aachen.de/person/1",
         "email": "kuhlen@vr.rwth-aachen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Klaus Wehrle",
         "link": "https://www.comsys.rwth-aachen.de/team/klaus",
         "email": "germany9011klaus.wehrle@comsys.rwth-aachen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Wil M. P. van der Aalst",
         "link": "http://www.vdaalst.com",
         "email": "wvdaalst@pads.rwth-aachen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Matthias Jarke",
         "link": "https://dbis.rwth-aachen.de/dbis/index.php/user/jarke",
         "email": "addresssekris+jarke@dbis.rwth-aachen.delinkedinhereresearch",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Matthias S. Müller",
         "link": "http://www.itc.rwth-aachen.de/cms/IT-Center/IT-Center/Team/~epvp/Mitarbeiter-CAMPUS-/?gguid=0xB8B55109186DA749BE27700404DA28D8",
         "email": "mueller@itc.rwth-aachen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sander J. J. Leemans",
         "link": "https://leemans.ch/Sander",
         "email": "s.leemans@bpm.rwth-aachen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Ulrike Meyer",
         "link": "https://www.itsec.rwth-aachen.de/cms/ITSEC/Das-Lehr-und-Forschungsgebiet/Team/~ehrwa/Ulrike-Meyer/?allou=1",
         "email": "meyer@itsec.rwth-aachen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Erich Grädel",
         "link": "https://logic.rwth-aachen.de/People/Graedel/index.html.en",
         "email": "graedel@logic.rwth-aachen.deresearch",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Michael T. Schaub",
         "link": "https://michaelschaub.github.io",
         "email": "published@icassp.check",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Stuttgart": [
@@ -21313,19 +21313,19 @@
         "name": "Michael Pradel",
         "link": "http://software-lab.org/people/Michael_Pradel.html",
         "email": "michael@binaervarianz.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Frank Allgöwer",
         "link": "https://www.ist.uni-stuttgart.de/de/institut/team/Allgoewer-00002",
         "email": "yaryna.svyryda@ist.uni-stuttgart.dejasmin",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Hans-Joachim Wunderlich",
         "link": "http://www.iti.uni-stuttgart.de/en/chairs/computer-architecture/people/hans-joachim-wunderlich.html",
         "email": "wu@informatik.uni-stuttgart.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "LMU Munich": [
@@ -21333,79 +21333,79 @@
         "name": "Hinrich Schütze",
         "link": "https://www.cis.uni-muenchen.de/schuetze",
         "email": "hinrich@hotmail.com",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Dirk Beyer",
         "link": "https://www.sosy-lab.org/people/beyer",
         "email": "e-mailfirstname.lastname@lmu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Andreas Butz",
         "link": "http://www.medien.ifi.lmu.de/team/andreas.butz",
         "email": "andreas.butz@ifi.lmu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Gitta Kutyniok",
         "link": "https://www.math.lmu.de/~kutyniok",
         "email": "gitta.kutyniok@mathematik.uni-muenchen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Claudia Linnhoff-Popien",
         "link": "http://www.mobile.ifi.lmu.de/team/claudia-linnhoff-popien",
         "email": "linnhoff@ifi.lmu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Matthias Schubert",
         "link": "http://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html",
         "email": "schubert@dbs.ifi.lmu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Thomas Seidl",
         "link": "http://www.dbs.ifi.lmu.de/cms/personen/professoren/seidl/index.html",
         "email": "seidl@dbs.ifi.lmu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Gidon Ernst",
         "link": "https://www.sosy-lab.org/people/ernst",
         "email": "e-mailfirstname.lastname@lmu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Alexander Wiethoff",
         "link": "http://www.mmi.ifi.lmu.de/team/alexander.wiethoff",
         "email": "alexander.wiethoff@ifi.lmu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Helmut Schmid",
         "link": "https://www.cis.lmu.de/personen/privatdozenten/schmid/index.html",
         "email": "schmid@cis.lmu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Marie-Christine Jakobs",
         "link": "https://www.sosy-lab.org/people/jakobs",
         "email": "e-maillastname@sosy.ifi.lmu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Marcus Paradies",
         "link": "https://www.dbs.ifi.lmu.de/cms/personen/professoren/paradies/index.html",
         "email": "paradies@dbs.ifi.lmu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Bernd Bischl",
         "link": "https://www.slds.stat.uni-muenchen.de",
         "email": "slds@stat.uni-muenchen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "Ruhr-University Bochum": [
@@ -21413,43 +21413,43 @@
         "name": "Akash Kumar",
         "link": "https://etit.ruhr-uni-bochum.de/fakultaet/professorinnen/prof-dr-akash-kumar",
         "email": "sekretariat-es@rub.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Asja Fischer",
         "link": "https://www.ruhr-uni-bochum.de/lmi/fischer",
         "email": "asja.fischer@rub.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Thomas Zeume",
         "link": "https://informatik.rub.de/zeume",
         "email": "thomas.zeume@rub.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Maribel Acosta",
         "link": "https://www.ini.rub.de/the_institute/people/maribel-acosta",
         "email": "maribel.acosta@ini.rub.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Maike Buchin",
         "link": "https://www.ruhr-uni-bochum.de/lmi/buchin",
         "email": "maike.buchin@rub.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Timo Hönig",
         "link": "https://www4.cs.fau.de/~thoenig",
         "email": "thoenig@cs.fau.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Yuval Yarom",
         "link": "https://yuval.yarom.org",
         "email": "yuval.yarom@rub.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Tübingen": [
@@ -21457,61 +21457,61 @@
         "name": "Andreas Geiger",
         "link": "http://www.cvlibs.net",
         "email": "a.geiger@uni-tuebingen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Gerard Pons-Moll",
         "link": "https://virtualhumans.mpi-inf.mpg.de",
         "email": "70803jessica.endress@uni-tuebingen.denewsworkshop",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Georg Martius",
         "link": "https://is.mpg.de/person/gmartius",
         "email": "georg.martius@tuebingen.mpg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Andreas Zell",
         "link": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/prof-dr-andreas-zell",
         "email": "andreas.zell@uni-tuebingen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jakob H. Macke",
         "link": "https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/machine-learning-in-science",
         "email": "prevention@uni-tuebingen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Enkelejda Kasneci",
         "link": "https://www.hci.uni-tuebingen.de/chair/team/enkelejda-kasneci",
         "email": "enkelejda.kasneci@uni-tuebingen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Robert C. Williamson",
         "link": "https://uni-tuebingen.de/en/197812",
         "email": "prevention@uni-tuebingen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Martin A. Giese",
         "link": "http://www.compsens.uni-tuebingen.de/compsens/index.php/people?view=member&task=show&id=1",
         "email": "compsens@medizin.uni-tuebingen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Bob Williamson",
         "link": "https://uni-tuebingen.de/en/197812",
         "email": "prevention@uni-tuebingen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Martin V. Butz",
         "link": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-modeling/staff/martin-butz",
         "email": "martin.butz@uni-tuebingen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "TU Dresden": [
@@ -21519,31 +21519,31 @@
         "name": "Bjoern Andres",
         "link": "https://mlcv.inf.tu-dresden.de",
         "email": "mlcv@tu-dresden.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Raimund Dachselt",
         "link": "https://mt.inf.tu-dresden.de/~dachselt",
         "email": "raimund.dachselt@tu-dresden.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christel Baier",
         "link": "https://wwwtcs.inf.tu-dresden.de/~baier",
         "email": "christel.baier@tu-dresden.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sebastian Rudolph",
         "link": "https://iccl.inf.tu-dresden.de/web/Sebastian_Rudolph/en",
         "email": "sebastian.rudolph@tu-dresden.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Simon Razniewski",
         "link": "http://simonrazniewski.com",
         "email": "simon.razniewski@tu-dresden.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "Hasso Plattner Institute": [
@@ -21551,67 +21551,67 @@
         "name": "Patrick Baudisch",
         "link": "https://hpi.de/en/research/research-groups/human-computer-interaction",
         "email": "patrick.baudisch@hpi.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Felix Naumann",
         "link": "https://hpi.de/en/research/research-groups/information-systems",
         "email": "felix.naumann@hpi.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Niclas Boehmer",
         "link": "https://hpi.de/en/research/research-groups/algorithmic-decision-making-and-society",
         "email": "niclas.boehmer@hpi.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Tobias Friedrich",
         "link": "https://hpi.de/en/research/research-groups/algorithm-engineering",
         "email": "office-friedrich@hpi.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christian Doerr",
         "link": "https://hpi.de/en/research/research-groups/cybersecurity-enterprise-security",
         "email": "christian.doerr@hpi.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christoph Lippert",
         "link": "https://hpi.de/en/research/research-groups/digital-health-machine-learning",
         "email": "christoph.lippert@hpi.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Ralf Herbrich",
         "link": "https://hpi.de/en/research/research-groups/artificial-intelligence-and-sustainability",
         "email": "office-herbrich@hpi.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Bernhard Y. Renard",
         "link": "https://hpi.de/en/research/research-groups/data-analytics-and-computational-statistics",
         "email": "bernhard.renard@hpi.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Robert Hirschfeld",
         "link": "https://hpi.de/en/research/research-groups/software-architecture",
         "email": "robert.hirschfeld@hpi.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jürgen Döllner",
         "link": "https://hpi.de/en/research/research-groups/computer-graphics-systems",
         "email": "juergen.doellner@hpi.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Bert Arnrich",
         "link": "https://hpi.de/en/research/research-groups/digital-health-connected-healthcare",
         "email": "bert.arnrich@hpi.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Bonn": [
@@ -21619,19 +21619,19 @@
         "name": "Juergen Gall",
         "link": "https://pages.iai.uni-bonn.de/gall_juergen",
         "email": "gall@iai.uni-bonn.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Heiko Röglin",
         "link": "http://www.roeglin.org",
         "email": "roeglin@cs.uni-bonn.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Volker Steinhage",
         "link": "https://net.cs.uni-bonn.de/wg/intelligent-vision-systems/staff/head-of-work-group/volker-steinhage",
         "email": "steinhage@removethispart.cs.uni-bonn.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "TU Dortmund": [
@@ -21639,19 +21639,19 @@
         "name": "Amin Coja-Oghlan",
         "link": "https://www.cs.tu-dortmund.de/nps/en/Home/Personen/C/Coja-Oghlan__Amin.html",
         "email": "dekanat@cs.tu-dortmund.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Frank Weichert",
         "link": "https://ls7-www.cs.tu-dortmund.de/cms/de/weichert",
         "email": "frank.weicmt1fxherlnt@gar3tu-dorcbstmund2w.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Heinrich Müller",
         "link": "https://ls7-www.cs.tu-dortmund.de/cms/en/node/676",
         "email": "frankib.weicheh+hurt@27zitu-dort31mund.dookue",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Freiburg": [
@@ -21659,25 +21659,25 @@
         "name": "Fabian Kuhn",
         "link": "http://ac.informatik.uni-freiburg.de/kuhn",
         "email": "kuhn@cs.uni-freiburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Andreas Podelski",
         "link": "https://swt.informatik.uni-freiburg.de/podelski",
         "email": "podelski@informatik.uni-freiburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Armin Biere",
         "link": "https://cca.informatik.uni-freiburg.de/biere",
         "email": "biere@cs.uni-freiburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Hannah Bast",
         "link": "https://ad.informatik.uni-freiburg.de/staff/bast",
         "email": "bast@informatik.uni-freiburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Würzburg": [
@@ -21685,49 +21685,49 @@
         "name": "Radu Timofte",
         "link": "https://www.informatik.uni-wuerzburg.de/computervision",
         "email": "radu.timofte@uni-wuerzburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Goran Glavas",
         "link": "https://wueaddress.uni-wuerzburg.de/person/134596",
         "email": "goran.glavas@uni-wuerzburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Carlo D'Eramo",
         "link": "https://www.informatik.uni-wuerzburg.de/rlcdm/team/carlo-deramo",
         "email": "carlo.deramo@uni-wuerzburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Damien Garreau",
         "link": "https://www.caidas.uni-wuerzburg.de/research-groups/theory-of-machine-learning",
         "email": "damien.garreau@uni-wuerzburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Alexandra Dmitrienko",
         "link": "https://se.informatik.uni-wuerzburg.de/secure-software-systems-group/staff0/alexandra-dmitrienko",
         "email": "alexandra.dmitrienko@uni-wuerzburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Andreas Hotho",
         "link": "http://www.dmir.uni-wuerzburg.de/staff/hotho",
         "email": "sekretariat.lsx@uni-wuerzburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Ingo Scholtes",
         "link": "https://www.informatik.uni-wuerzburg.de/ml4nets/team/prof-dr-ingo-scholtes",
         "email": "ingo.scholtes@uni-wuerzburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Leon Bungert",
         "link": "https://www.uni-wuerzburg.de/caidas/people",
         "email": "hotho@informatik.uni-wuerzburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "TU Kaiserslautern": [
@@ -21735,49 +21735,49 @@
         "name": "Didier Stricker",
         "link": "https://av.dfki.de/members/stricker",
         "email": "didier.stricker@dfki.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christoph Garth",
         "link": "https://vis.uni-kl.de/people/garth",
         "email": "garth@rptu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Paul Lukowicz",
         "link": "http://ei.informatik.uni-kl.de",
         "email": "wwwinf@informatik.uni-kl.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Andreas Dengel",
         "link": "https://www.dfki.uni-kl.de/~dengel",
         "email": "andreas.dengel@dfki.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Hans Hagen",
         "link": "https://hci.uni-kl.de/people/hans-hagen",
         "email": "hagen@informatik.uni-kl.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sebastian Michel",
         "link": "https://dbis.informatik.uni-kl.de/index.php/en/people/michel",
         "email": "sebastian.michel@cs.rptu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Annette Bieniusa",
         "link": "https://softech.informatik.uni-kl.de/team/annettebieniusa",
         "email": "3341annette.bieniusa@cs.rptu.desprechstunde",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christoph Grimm",
         "link": "https://cps.cs.uni-kl.de/mitarbeiter/christoph-grimm-prof-dr",
         "email": "grimm@cs.uni-kl.delink",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Hamburg": [
@@ -21785,7 +21785,7 @@
         "name": "Anne Lauscher",
         "link": "https://anne-lauscher.de",
         "email": "anne-lauscher@web.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Norbert Ritter",
@@ -21797,7 +21797,7 @@
         "name": "Jianwei Zhang",
         "link": "https://tams.informatik.uni-hamburg.de/people/zhang",
         "email": "jianwei.zhang@uni-hamburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Bremen": [
@@ -21805,19 +21805,19 @@
         "name": "Michael Beetz",
         "link": "https://ai.uni-bremen.de/team/michael_beetz",
         "email": "ai-office@cs.uni-bremen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sebastian Maneth",
         "link": "http://user.informatik.uni-bremen.de/smaneth",
         "email": "maneth@uni-bremen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sebastian Siebertz",
         "link": "https://www.mimuw.edu.pl/~siebertz",
         "email": "siebertz@uni-bremen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Hannover": [
@@ -21825,13 +21825,13 @@
         "name": "Marius Lindauer",
         "link": "https://www.tnt.uni-hannover.de/staff/lindauer",
         "email": "m.lindauer@ai.uni-hannover.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Daniel Lohmann",
         "link": "https://www.sra.uni-hannover.de/People/lohmann",
         "email": "19725e-maillohmann@sra.uni-hannover.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "Goethe University Frankfurt": [
@@ -21839,19 +21839,19 @@
         "name": "Hilde Kuehne",
         "link": "https://hildekuehne.github.io",
         "email": "h.kuehne@uni-tuebingen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Gemma Roig",
         "link": "http://www.cvai.cs.uni-frankfurt.de/team.html",
         "email": "roignoguera@em.uni-frankfurt.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Ulrich Meyer",
         "link": "https://ae.cs.uni-frankfurt.de/staff/ulrich_meyer.html",
         "email": "mailumeyer@ae.cs.uni-frankfurt.dephone",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "Heidelberg University": [
@@ -21859,19 +21859,19 @@
         "name": "Filip Sadlo",
         "link": "https://vcg.iwr.uni-heidelberg.de/people/sadlo",
         "email": "sadlo@uni-heidelberg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Stefan Riezler",
         "link": "https://www.cl.uni-heidelberg.de/~riezler",
         "email": "riezler@cl.uni-heidelberg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Artur Andrzejak",
         "link": "https://pvs.ifi.uni-heidelberg.de/team/aa",
         "email": "artur.andrzejak@uni-heidelberg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "TU Braunschweig": [
@@ -21879,7 +21879,7 @@
         "name": "Sándor P. Fekete",
         "link": "https://www.ibr.cs.tu-bs.de/users/fekete",
         "email": "s.fekete@tu-bs.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "Friedrich Schiller University Jena": [
@@ -21887,19 +21887,19 @@
         "name": "Matthias Hagen",
         "link": "https://www.fmi.uni-jena.de/en/databases-and-information-systems",
         "email": "matthias.hagen@uni-jena.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sina Zarrieß",
         "link": "https://sinazarriess.github.io",
         "email": "sina.zarriess@uni-jena.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christian Komusiewicz",
         "link": "https://www.fmi.uni-jena.de/en/algo-en",
         "email": "c.komusiewicz@uni-jena.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "Paderborn University": [
@@ -21907,49 +21907,49 @@
         "name": "Juraj Somorovsky",
         "link": "https://www.uni-paderborn.de/person/83504",
         "email": "juraj.somorovsky@uni-paderborn.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Eric Bodden",
         "link": "https://www.hni.uni-paderborn.de/swt/mitarbeiter/bodden",
         "email": "webmaster@uni-paderborn.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Patricia Arias Cabarcos",
         "link": "https://www.uni-paderborn.de/en/person/92804",
         "email": "pac@mail.uni-paderborn.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Marco Platzner",
         "link": "https://cs.uni-paderborn.de/ceg/team/group/people/platzner",
         "email": "webmaster@uni-paderborn.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Johannes Blömer",
         "link": "http://cs.uni-paderborn.de/cuk/personal/johannes-bloemer",
         "email": "webmaster@uni-paderborn.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Gregor Engels",
         "link": "http://www.upb.de/cs/engels.html",
         "email": "engels@upb.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christian Plessl",
         "link": "https://cs.uni-paderborn.de/hit/team/plessl",
         "email": "mkemper@upb.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Carsten Schulte",
         "link": "http://cs.upb.de/ddi/person/carsten-schulte",
         "email": "webmaster@uni-paderborn.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Erlangen–Nuremberg": [
@@ -21957,61 +21957,61 @@
         "name": "Marc Stamminger",
         "link": "https://www.lgdv.tf.fau.de/person/marc-stamminger",
         "email": "marc.stamminger@fau.dewebsite",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Björn M. Eskofier",
         "link": "https://www.mad.tf.fau.de/person/bjoern-eskofier",
         "email": "bjoern.eskofier@fau.dewebsite",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Wolfgang Schröder-Preikschat",
         "link": "https://www4.cs.fau.de/~wosch",
         "email": "wosch@cs.fau.dewebseite",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Michael Philippsen",
         "link": "https://www.cs2.tf.fau.de/person/philippsen",
         "email": "michael.philippsen@fau.dewebseite",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Dirk Riehle",
         "link": "https://oss.cs.fau.de/person/riehle-dirk",
         "email": "dirk.riehle@fau.dewebsite",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Gerhard Wellein",
         "link": "https://hpc.fau.de/person/gerhard-wellein",
         "email": "gerhard.wellein@fau.dewebsite",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Harald Köstler",
         "link": "https://www.cs10.tf.fau.de/person/harald-koestler",
         "email": "harald.koestler@fau.dewebsite",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Ulrich Rüde",
         "link": "https://www.cs10.tf.fau.de/person/ulrich-ruede",
         "email": "ulrich.ruede@fau.dewebsite",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Felix C. Freiling",
         "link": "https://www.cs1.tf.fau.de/person/felix-freiling",
         "email": "felix.freiling@fau.dewebsite",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Stefan Milius",
         "link": "https://www8.cs.fau.de/doku.php?id=milius",
         "email": "milius@fau.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Konstanz": [
@@ -22019,13 +22019,13 @@
         "name": "Christian Borgelt",
         "link": "http://www.borgelt.net",
         "email": "christian@borgelt.net",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Dietmar Saupe",
         "link": "https://www.mmsp.uni-konstanz.de/people/overview/prof-dr-dietmar-saupe",
         "email": "dietmar.saupe@uni-konstanz.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Leipzig": [
@@ -22033,25 +22033,25 @@
         "name": "Martin Potthast",
         "link": "https://temir.org/people.html",
         "email": "martin.potthast@uni-kassel.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Carsten Lutz",
         "link": "https://home.uni-leipzig.de/clu",
         "email": "clu@informatik.uni-leipzig.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Norbert Siegmund",
         "link": "https://sws.informatik.uni-leipzig.de/team",
         "email": "norbert.siegmund@uni-leipzig.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Andreas Maletti",
         "link": "http://www.informatik.uni-leipzig.de/alg",
         "email": "maletti@informatik.uni-leipzig.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Lübeck": [
@@ -22059,25 +22059,25 @@
         "name": "Maciej Liskiewicz",
         "link": "http://www.tcs.uni-luebeck.de/de/mitarbeiter/liskiewi/index.html",
         "email": "maciej.liskiewicz@uni-luebeck.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Rüdiger Reischuk",
         "link": "http://www.tcs.uni-luebeck.de/mitarbeiter/reischuk",
         "email": "ruediger.reischuk@uni-luebeck.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Hans-Christian Jetter",
         "link": "https://www.imis.uni-luebeck.de/de/institut/team/hans-christian-jetter",
         "email": "hanschristian.jetter@uni-luebeck.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Martin Leucker",
         "link": "https://www.isp.uni-luebeck.de/staff/martin",
         "email": "leucker@isp.uni-luebeck.deaddress",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "Freie Universitaet Berlin": [
@@ -22085,73 +22085,73 @@
         "name": "László Kozma",
         "link": "https://www.mi.fu-berlin.de/inf/groups/ag-ti/members/professoren/Kozma_Laszlo.html",
         "email": "466213e-maillkozma@inf.fu-berlin.dehomepagepage.mi.fu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Daniel Göhring",
         "link": "https://www.mi.fu-berlin.de/inf/groups/ag-ki/members/Professoren/Daniel_G__hring1.html",
         "email": "465301e-maildaniel.goehring@fu-berlin.dehomepagehomepage",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Tim Landgraf",
         "link": "https://www.mi.fu-berlin.de/inf/groups/ag-ki/members/Professoren/Tim_Landgraf.html",
         "email": "465301e-mailtim.landgraf@fu-berlin.dehomepagedahlem",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Günter Rote",
         "link": "http://page.mi.fu-berlin.de/rote",
         "email": "rote@inf.fu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Wolfgang Mulzer",
         "link": "https://www.mi.fu-berlin.de/inf/groups/ag-ti/members/professoren/Mulzer_Wolfgang.html",
         "email": "475165e-mailmulzer@inf.fu-berlin.dehomepagepage.mi.fu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Lutz Prechelt",
         "link": "https://www.mi.fu-berlin.de/w/Main/LutzPrechelt",
         "email": "prechelt@inf.fu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Gerhard Wunder",
         "link": "https://www.mi.fu-berlin.de/en/inf/groups/ag-comm/team-members/wunder.html",
         "email": "g.wunder@fu-berlin.decontactpersonal",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Ralf Romeike",
         "link": "https://www.mi.fu-berlin.de/en/inf/groups/ag-ddi/team/prof/index.html",
         "email": "65994ralf.romeike@fu-berlin.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jochen H. Schiller",
         "link": "http://www.mi.fu-berlin.de/inf/groups/ag-tech/staff/0Current/schiller.html",
         "email": "475212e-mailjochen.schiller@fu-berlin.dehomepagecourse",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Frank Noé",
         "link": "https://www.mi.fu-berlin.de/en/math/groups/ai4s/staff/noe/index.html",
         "email": "75354emailfrank.noe@fu-berlin.deoffice",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Knut Reinert",
         "link": "https://www.mi.fu-berlin.de/en/inf/groups/abi/members/Professors/reinert.html",
         "email": "75222emailknut.reinert@fu-berlin.dehomepagehttp",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Claudia Müller-Birn",
         "link": "https://www.mi.fu-berlin.de/en/inf/groups/hcc/members/professor/mueller-birn.html",
         "email": "75220emailclmb@inf.fu-berlin.dehomepagenews",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Bayreuth": [
@@ -22159,25 +22159,25 @@
         "name": "Daniel Buschek",
         "link": "https://daniel-buschek.de/intro",
         "email": "daniel.buschek@uni-bayreuth.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jörg Müller",
         "link": "https://www.ai8.uni-bayreuth.de/de/team/Joerg-Mueller/index.php",
         "email": "joerg.mueller@uni-bayreuth.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Wim Martens",
         "link": "https://www.theoinf.uni-bayreuth.de/en/team/martens_wim/index.php",
         "email": "firstname.surname@uni-bayreuth.deinternational",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Dominik Henrich",
         "link": "https://www.ai3.uni-bayreuth.de/de/team/dominik-henrich",
         "email": "dominik.henrich@uni-bayreuth.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Göttingen": [
@@ -22185,25 +22185,25 @@
         "name": "Florentin Wörgötter",
         "link": "http://www.uni-goettingen.de/en/58059.html",
         "email": "florentin.woergoetter@phys.uni-goettingen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Xiaoming Fu",
         "link": "http://www.net.informatik.uni-goettingen.de/?q=people/prof-dr-xiaoming-fu",
         "email": "fu@informatik.uni-goettingen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Constantin Pape",
         "link": "https://user.informatik.uni-goettingen.de/~pape41",
         "email": "constantin.pape@informatik.uni-goettingen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jens Grabowski",
         "link": "https://www.swe.informatik.uni-goettingen.de/staff/jens-grabowski",
         "email": "grabowski@informatik.uni-goettingen.dephone",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Mainz": [
@@ -22211,31 +22211,31 @@
         "name": "André Brinkmann",
         "link": "https://research.zdv.uni-mainz.de/people/andre-brinkmann",
         "email": "brinkman@uni-mainz.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Panagiotis Bouros",
         "link": "https://datamanagement.cs.uni-mainz.de/panagiotis-bouros",
         "email": "bouros@uni-mainz.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Stefan Kramer",
         "link": "https://www.datamining.informatik.uni-mainz.de/stefan-kramer",
         "email": "datamining@uni-mainz.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Bertil Schmidt",
         "link": "https://www.staff.uni-mainz.de/schmi033",
         "email": "bertil.schmidt@uni-mainz.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Ernst Althaus",
         "link": "https://www.algorithmics.informatik.uni-mainz.de/people/ernst-althaus",
         "email": "ernst.althaus@uni-mainz.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Mannheim": [
@@ -22243,7 +22243,7 @@
         "name": "Heiner Stuckenschmidt",
         "link": "https://www.uni-mannheim.de/dws/people/professors/prof-dr-heiner-stuckenschmidt",
         "email": "rehbein@uni-mannheim.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "Bauhaus University Weimar": [
@@ -22251,13 +22251,13 @@
         "name": "Benno Stein",
         "link": "https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/people/stein",
         "email": "benno.stein@uni-weimar.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Eva Hornecker",
         "link": "https://www.uni-weimar.de/en/media/institutes/digital-bauhaus-lab/people/prof-dr-eva-hornecker",
         "email": "eva.hornecker@uni-weimar.deweb",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "Bielefeld University": [
@@ -22265,13 +22265,13 @@
         "name": "Philipp Cimiano",
         "link": "http://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=15020699",
         "email": "cimiano@techfak.uni-bielefeld.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jens Stoye",
         "link": "https://www.techfak.uni-bielefeld.de/~stoye",
         "email": "jens.stoye@uni-bielefeld.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "Bundeswehr University Munich": [
@@ -22279,25 +22279,25 @@
         "name": "Florian Alt",
         "link": "https://www.unibw.de/usable-security-and-privacy/team/univ-prof-dr-florian-alt",
         "email": "florian.alt@unibw.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Helmut Mayer",
         "link": "https://www.unibw.de/inf4/mitarbeiter/univ-prof-dr-ing-helmut-mayer",
         "email": "helmut.mayer@unibw.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Michael Koch",
         "link": "http://www.unibw.de/michael.koch",
         "email": "michael.koch@unibw.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Stefan Brunthaler",
         "link": "https://www.unibw.de/systemsicherheit/univ-prof-dr-stefan-brunthaler",
         "email": "brunthaler@unibw.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "Hamburg University of Technology": [
@@ -22305,25 +22305,25 @@
         "name": "Matthias Mnich",
         "link": "https://www.tuhh.de/algo/homepage.html",
         "email": "algo@tuhh.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Görschwin Fey",
         "link": "https://www.tuhh.de/es/ce/people/gfey",
         "email": "sekr-es@tuhh.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Rolf-Rainer Grigat",
         "link": "https://www.tuhh.de/bvs/institut/home.html",
         "email": "grigat@tuhh.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Heiko Falk",
         "link": "https://www.tuhh.de/es/esd/people/hfalk",
         "email": "sekr-es@tuhh.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "TU Chemnitz": [
@@ -22331,13 +22331,13 @@
         "name": "Martin Gaedke",
         "link": "https://vsr.informatik.tu-chemnitz.de/about/people/gaedke",
         "email": "workgaedke@informatik.tu-chemnitz.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Maximilian Eibl",
         "link": "https://www.tu-chemnitz.de/informatik/Medieninformatik",
         "email": "mi@informatik.tu-chemnitz.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "TU Clausthal": [
@@ -22345,7 +22345,7 @@
         "name": "Rüdiger Ehlers",
         "link": "https://www.isse.tu-clausthal.de/ueber-uns/team-neu/institutsverwaltung/prof-dr-ruediger-ehlers",
         "email": "ruediger.ehlers@tu-clausthal.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "TU Ilmenau": [
@@ -22353,25 +22353,25 @@
         "name": "Kai-Uwe Sattler",
         "link": "https://www.tu-ilmenau.de/dbis/staff/kai-uwe-sattler",
         "email": "69-4579kus@tu-ilmenau.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Patrick Mäder",
         "link": "https://www.tu-ilmenau.de/secsy/team",
         "email": "69-4839patrick.maeder@tu-ilmenau.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Alexander Raake",
         "link": "https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/audiovisual-technology-group/team",
         "email": "praesident@tu-ilmenau.detel",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Günter Schäfer",
         "link": "https://www.tu-ilmenau.de/telematik/mitarbeiter/prof-guenter-schaefer",
         "email": "69-4574guenter.schaefer@tu-ilmenau.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Duisburg-Essen": [
@@ -22379,25 +22379,25 @@
         "name": "Nicole C. Krämer",
         "link": "https://www.uni-due.de/sozialpsychologie/kraemer.shtml",
         "email": "nicole.kraemer@uni-due.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Gregor Schiele",
         "link": "https://www.uni-due.de/es/en/en_gregor_schiele.php",
         "email": "gabriele.neumann@uni-due.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Maic Masuch",
         "link": "https://www.ecg.uni-due.de/team/maic-masuch.html",
         "email": "maic.masuch@uni-due.deroom",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jürgen Ziegler",
         "link": "https://interactivesystems.info/team/juergen-ziegler",
         "email": "ziegler@uni-due.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Düsseldorf": [
@@ -22405,13 +22405,13 @@
         "name": "Jörg Rothe",
         "link": "https://ccc.cs.uni-duesseldorf.de/~rothe",
         "email": "rothe@hhu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Stefan Dietze",
         "link": "http://stefandietze.net",
         "email": "stefan.dietze@hhu.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Münster": [
@@ -22419,49 +22419,49 @@
         "name": "Christian Kray",
         "link": "https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/118/Christian_Kray",
         "email": "c.kray@uni-muenster.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Lars Linsen",
         "link": "https://www.uni-muenster.de/VISIX/linsen.shtml",
         "email": "83-32714linsen@uni-muenster.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jan Vahrenhold",
         "link": "https://www.uni-muenster.de/Informatik.AGVahrenhold/personen/prof.dr.janvahrenhold/index.html",
         "email": "83-33755jan.vahrenhold@uni-muenster.desprechzeitenakademisches",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Markus Müller-Olm",
         "link": "https://www.uni-muenster.de/Informatik.AGMueller-Olm/people/mmo",
         "email": "83-33755markus.mueller-olm@uni-muenster.desprechstunde",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sergei Gorlatch",
         "link": "https://www.uni-muenster.de/PVS/personen/gorlatch.html",
         "email": "-32742pvs.sekretariat@uni-muenster.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Fabian Gieseke",
         "link": "https://www.wi.uni-muenster.de/department/dasc/people/fabian-gieseke",
         "email": "83-38151fabian.gieseke@wi.uni-muenster.dewww.wi.uni-muenster.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christian Scheffer",
         "link": "https://www.uni-muenster.de/Informatik.AGVahrenhold/personen/christianscheffer.shtml",
         "email": "83-38412christian.scheffer@uni-muenster.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Thomas Hupperich",
         "link": "https://www.wi.uni-muenster.de/de/institut/it-security/personen/thomas-hupperich",
         "email": "thupperi@uni-muenster.desprechzeiten",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Oldenburg": [
@@ -22469,31 +22469,31 @@
         "name": "Martin Fränzle",
         "link": "https://uol.de//hs/mitarbeiterinnen-und-mitarbeiter/prof-dr-martin-fraenzle",
         "email": "martin.fraenzle@informatik.uni-oldenburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Wolfram Wingerath",
         "link": "https://uol.de/wolle",
         "email": "wolle@uol.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sergej Fatikow",
         "link": "https://uol.de/informatik/amir/personen/prof-dr-ing-habil-sergej-fatikow",
         "email": "fatikow@uol.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Andreas Peter",
         "link": "https://uol.de/informatik/ssi/team/prof-dr-andreas-peter",
         "email": "andreas.peter@uol.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Axel Hahn",
         "link": "https://uol.de/sao/personen/prof-dr-ing-axel-hahn",
         "email": "hahn@offis.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Passau": [
@@ -22501,13 +22501,13 @@
         "name": "Harald Kosch",
         "link": "http://www.fim.uni-passau.de/en/distributed-information-systems",
         "email": "stefanie.riederer@uni-passau.deresponse",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Michael Granitzer",
         "link": "http://www.fim.uni-passau.de/medieninformatik",
         "email": "stephanie.pauli@uni-passau.desprechzeiten",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Potsdam": [
@@ -22515,13 +22515,13 @@
         "name": "Torsten Schaub",
         "link": "https://www.cs.uni-potsdam.de/wv/people/torsten",
         "email": "torsten@cs.uni-potsdam.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christian Hammer",
         "link": "https://www.uni-potsdam.de/en/cs-se/team/prof-dr-ing-christian-hammer",
         "email": "zim-service@uni-potsdam.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Regensburg": [
@@ -22529,25 +22529,25 @@
         "name": "Juliane Krämer",
         "link": "https://www.uni-regensburg.de/informatics-data-science/qpc/team/prof-dr-juliane-kraemer/index.html",
         "email": "juliane.kraemer@ur.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Raphael Wimmer",
         "link": "https://hci.ur.de/people/raphael_wimmer",
         "email": "raphael.wimmer@ur.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christian Wolff",
         "link": "https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/christian-wolff/index.html",
         "email": "christian.wolff@ur.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Bernd Heinrich",
         "link": "https://www.uni-regensburg.de/informatik-data-science/wi-heinrich/team/prof-bernd-heinrich/index.html",
         "email": "bernd.heinrich@informatik.uni-regensburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Siegen": [
@@ -22555,13 +22555,13 @@
         "name": "Markus Lohrey",
         "link": "https://www.eti.uni-siegen.de/ti/mitarbeiter/lohrey",
         "email": "lohrey@eti.uni-siegen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Volker Blanz",
         "link": "http://www.grk1564.uni-siegen.de/de/blanz-volker",
         "email": "blanz@informatik.uni-siegen.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Augsburg": [
@@ -22569,19 +22569,19 @@
         "name": "Sebastian Altmeyer",
         "link": "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/embsys/team/prof-dr-sebastian-altmeyer",
         "email": "altmeyer@es-augsburges-augsburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Elisabeth André",
         "link": "https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/hcm/team/andre",
         "email": "andre@informatik.uni-augsburginformatik.uni-augsburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Wolfgang Reif",
         "link": "https://www.uni-augsburg.de/de/fakultaet/fai/isse/prof/swtse/team/reif",
         "email": "reif@informatik.uni-augsburginformatik.uni-augsburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Kiel": [
@@ -22589,37 +22589,37 @@
         "name": "Olaf Landsiedel",
         "link": "https://www.ds.informatik.uni-kiel.de/en/people/olaf",
         "email": "hailmohamed.hail@informatik.uni-kiel.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Klaus Jansen",
         "link": "https://www.algo.informatik.uni-kiel.de/de/team/klaus-jansen",
         "email": "jansenkj@informatik.uni-kiel.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Dirk Nowotka",
         "link": "https://www.zs.informatik.uni-kiel.de/en/team/nowotka",
         "email": "nowotkadirk.nowotka@informatik.uni-kiel.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Reinhard Koch",
         "link": "https://www.mip.informatik.uni-kiel.de/en/team/prof.-dr.-ing.-reinhard-koch",
         "email": "kochrk@informatik.uni-kiel.deneufeldtstr",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Matthias Renz",
         "link": "https://www.ai.informatik.uni-kiel.de/ai/team/prof-dr-matthias-renz",
         "email": "renzmatthias.renz@informatik.uni-kiel.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Reinhard von Hanxleden",
         "link": "https://www.rtsys.informatik.uni-kiel.de/en/team/rvh",
         "email": "hanxledenrvh@informatik.uni-kiel.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Koblenz-Landau": [
@@ -22627,7 +22627,7 @@
         "name": "Matthias Thimm",
         "link": "https://west.uni-koblenz.de/de/about-us/team/dr-matthias-thimm",
         "email": "service@uni-koblenz.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Osnabrück": [
@@ -22635,13 +22635,13 @@
         "name": "Marcel Campen",
         "link": "http://graphics.cs.uos.de",
         "email": "518campen@uos.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Olaf Spinczyk",
         "link": "https://translate.google.de/translate?hl=de&sl=en&u=https://ess.cs.uni-osnabrueck.de/~os/&prev=search",
         "email": "olaf@uos.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Trier": [
@@ -22649,13 +22649,13 @@
         "name": "Jacqueline Staub",
         "link": "https://ddi.uni-trier.de",
         "email": "laros@uni-trier.deb",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Benjamin Weyers",
         "link": "https://www.uni-trier.de/index.php?id=68465",
         "email": "weyers@uni-trier.dekurzbiografie",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Marburg": [
@@ -22663,19 +22663,19 @@
         "name": "Bernhard Seeger",
         "link": "https://www.uni-marburg.de/de/fb12/arbeitsgruppen/dbs/team/personenseiten/bernhard-seeger",
         "email": "musterfr@staff.uni-marburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Elmar Tischhauser",
         "link": "https://www.uni-marburg.de/de/fb12/arbeitsgruppen/itsicherheit",
         "email": "feiselk@informatik.uni-marburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Gabriele Taentzer",
         "link": "https://www.uni-marburg.de/fb12/arbeitsgruppen/swt/gabi-taentzer",
         "email": "heinbaca@mathematik.uni-marburg.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Rostock": [
@@ -22683,13 +22683,13 @@
         "name": "Bodo Urban",
         "link": "https://www.igd.fraunhofer.de/institut/ueber-uns/alumni/bodo-urban",
         "email": "daniela.welling@igd.fraunhofer.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Thomas Kirste",
         "link": "http://cpr.uni-rostock.de/resolve/id/cpr_person_00001930",
         "email": "universitaetsarchiv@uni-rostock.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "THWS": [
@@ -22697,13 +22697,13 @@
         "name": "Pascal Meissner",
         "link": "https://fiw.thws.de/fakultaet/personen/dozentinnen-und-dozenten/person/prof-dr-ing-pascal-meissner",
         "email": "pascal.meissner@thws.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Ivan P. Yamshchikov",
         "link": "https://fiw.thws.de/fakultaet/personen/dozentinnen-und-dozenten/person/prof-dr-ivan-yamshchikov",
         "email": "ivan.yamshchikov@thws.de",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Kassel": [
@@ -22711,7 +22711,7 @@
         "name": "Stefan Göller",
         "link": "https://www.uni-kassel.de/eecs/fachgebiete/tiks/team.html",
         "email": "stefan.goeller@uni-kassel.deweitere",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ]
   },
@@ -30775,19 +30775,19 @@
         "name": "Bart Preneel",
         "link": "https://homes.esat.kuleuven.be/~preneel",
         "email": "bpreneel@infosec.exchange",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Katrien Verbert",
         "link": "https://people.cs.kuleuven.be/~katrien.verbert/KatrienVerbert/Katrien_Verbert.html",
         "email": "emailkatrien.verbert@cs.kuleuven.be",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Philip Dutré",
         "link": "https://sites.google.com/site/philipdutre",
         "email": "philipdutre@mastodon.online",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "Université libre de Bruxelles": [
@@ -30795,31 +30795,31 @@
         "name": "Gwenaël Joret",
         "link": "http://www.ulb.ac.be/di/algo/gjoret",
         "email": "gwenael.joret@ulb.be",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "John Iacono",
         "link": "http://johniacono.com",
         "email": "postdoc@johniacono.com",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Stefan Langerman",
         "link": "http://www.ulb.ac.be//di/algo/sl",
         "email": "stefan.langerman@ulb.ac.be",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jean Cardinal",
         "link": "http://www.ulb.ac.be/di/algo/jcardin",
         "email": "jcardin@ulb.ac.be",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Gilles Geeraerts",
         "link": "http://www.ulb.ac.be/di/verif/ggeeraer",
         "email": "gilles.geeraerts@ulb.be",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ]
   },

@@ -11,10 +11,9 @@ your_password = "iwuhqidohtnatnjr"  # App password
 subject = "Prospective PhD Student Inquiry – Syed Zeeshan Ali"
 json_file = "FinalProfWithEmail.json"
 attachments = ["MasterTranscript.pdf", "Senior_Software_Consultant_Resume.pdf"]
-target_countries = {"Canada", "United States","South Korea","Austria","Germany","Switzerland","United Kingdom","France","Italy","Spain","Netherlands","Belgium","Sweden",
-                    "Norway","Finland","Denmark","Ireland","Poland","Czech Republic","Hungary","Portugal","Greece","Turkey","Russia","Ukraine"}
+target_countries = {"Canada", "United States","South Korea","Austria","Germany","Switzerland","United Kingdom","France","Italy","Spain","Netherlands","Belgium","Sweden", "Norway","Finland","Denmark","Ireland","Poland","Czech Republic","Hungary","Portugal","Greece","Turkey","Russia","Ukraine"}
 
-#target_countries = {"Germany"}
+target_countries = {"Germany"}
 
 # Load email template (with "Dear Professor," to be replaced)
 with open("email.txt", "r", encoding="utf-8") as f:
