@@ -30569,55 +30569,55 @@
         "name": "Russell W. F. Lai",
         "link": "https://www.aalto.fi/en/people/russell-w-f-lai",
         "email": "russell.lai@aalto.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Robin Welsch",
         "link": "https://www.aalto.fi/en/people/robin-welsch",
         "email": "robin.welsch@aalto.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sándor Kisfaludi-Bak",
         "link": "https://www.aalto.fi/en/people/sandor-kisfaludi-bak",
         "email": "sandor.kisfaludi-bak@aalto.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Verena Distler",
         "link": "https://www.aalto.fi/en/people/verena-distler",
         "email": "verena.distler@aalto.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Christian Guckelsberger",
         "link": "https://www.aalto.fi/en/people/christian-guckelsberger",
         "email": "christian.guckelsberger@aalto.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jukka Suomela",
         "link": "https://jukkasuomela.fi",
         "email": "jukka.suomela@aalto.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Bo Zhao",
         "link": "https://www.aalto.fi/en/people/bo-zhao",
         "email": "bo.zhao@aalto.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Marko Nieminen",
         "link": "https://users.aalto.fi/~mhtn/home",
         "email": "firstname.lastname@aalto.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Johanna Viitanen",
         "link": "https://www.aalto.fi/en/people/johanna-viitanen",
         "email": "johanna.viitanen@aalto.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ],
     "University of Helsinki": [
@@ -30625,43 +30625,157 @@
         "name": "Antti Honkela",
         "link": "https://www.cs.helsinki.fi/u/ahonkela",
         "email": "antti.honkela@helsinki.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Alexandru I. Tomescu",
         "link": "https://www.cs.helsinki.fi/u/tomescu",
         "email": "alexandru.tomescu@helsinki.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Sasu Tarkoma",
         "link": "https://www.cs.helsinki.fi/u/starkoma",
         "email": "sasu.tarkoma@cs.helsinki.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Arto Klami",
         "link": "https://www.cs.helsinki.fi/u/aklami",
         "email": "arto.klami@helsinki.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Simon J. Puglisi",
         "link": "https://www.cs.helsinki.fi/u/puglisi",
         "email": "puglisi@helsinki",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Mika Mäntylä",
         "link": "https://mmantyla.github.io",
         "email": "firstname.lastname@helsinki.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Teemu Roos",
         "link": "https://www.cs.helsinki.fi/u/ttonteri",
         "email": "teemu.roos@helsinki.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
+      },
+      {
+        "name": "Jussi Kangasharju",
+        "link": "https://www.cs.helsinki.fi/u/ttonteri",
+        "email": "jussi.kangasharju@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Keijo Tapio Heljanko",
+        "link": "",
+        "email": "keijo.heljanko@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Pan Hui",
+        "link": "",
+        "email": "pan.hui@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Aapo Hyvärinen",
+        "link": "",
+        "email": "aapo.hyvarinen@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Giulio Jacucci",
+        "link": "",
+        "email": "giulio.jacucci@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Matti Järvisalo",
+        "link": "",
+        "email": "matti.jarvisalo@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Mikko Koivisto",
+        "link": "",
+        "email": "mikko.koivisto@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Jiaheng Lu",
+        "link": "",
+        "email": "jiaheng.lu@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Veli Mäkinen",
+        "link": "",
+        "email": "veli.makinen@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Tomi Männistö",
+        "link": "",
+        "email": "tomi.mannisto@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Valtteri Niemi",
+        "link": "",
+        "email": "valtteri.niemi@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Petteri Nurmi",
+        "link": "",
+        "email": "petteri.nurmi@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Jukka Nurminen",
+        "link": "",
+        "email": "jukka.k.nurminen@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Simon Puglisi",
+        "link": "",
+        "email": "simon.puglisi@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Kai Puolamäki",
+        "link": "",
+        "email": "kai.puolamaki@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Laura Ruotsalainen",
+        "link": "",
+        "email": "laura.ruotsalainen@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Nikolaj Tatti",
+        "link": "",
+        "email": "nikolaj.tatti@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Hannu Toivonen",
+        "link": "",
+        "email": "hannu.toivonen@helsinki.fi",
+        "IsEmailSend": true
+      },
+      {
+        "name": "Indre Zliobaite",
+        "link": "",
+        "email": "indre.zliobaite@helsinki.fi",
+        "IsEmailSend": true
       }
     ],
     "Tampere University": [
@@ -30669,103 +30783,103 @@
         "name": "Oguz Turan Buruk",
         "link": "https://webpages.tuni.fi/gamification/members/oguz-turan-buruk",
         "email": "oguz.buruk@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Joni-Kristian Kämäräinen",
         "link": "https://www.tuni.fi/en/joni-kamarainen",
         "email": "universityjoni.kamarainen@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Esa Rahtu",
         "link": "https://www.tuni.fi/en/esa-rahtu",
         "email": "universityesa.rahtu@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Juho Hamari",
         "link": "https://www.tuni.fi/en/juho-hamari",
         "email": "universityjuho.hamari@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jaakko Peltonen",
         "link": "https://www.tuni.fi/en/jaakko-peltonen",
         "email": "universityjaakko.peltonen@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Tomi Janhunen",
         "link": "https://www.tuni.fi/en/tomi-janhunen",
         "email": "universitytomi.janhunen@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Markku Turunen",
         "link": "https://www.tuni.fi/en/markku-turunen",
         "email": "universitymarkku.turunen@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Alejandro Cabrera Aldaya",
         "link": "https://www.tuni.fi/en/alejandro-cabreraaldaya",
         "email": "universityalejandro.cabreraaldaya@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Thomas Olsson",
         "link": "https://www.tuni.fi/en/thomas-olsson",
         "email": "universitythomas.olsson@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Moncef Gabbouj",
         "link": "https://www.tuni.fi/en/moncef-gabbouj",
         "email": "universitymoncef.gabbouj@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Karen O. Egiazarian",
         "link": "https://www.tuni.fi/en/karen-eguiazarian",
         "email": "universitykaren.eguiazarian@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Jyrki Nummenmaa",
         "link": "https://www.tuni.fi/en/jyrki-nummenmaa",
         "email": "universityjyrki.nummenmaa@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Ari Visa",
         "link": "https://www.tuni.fi/en/ari-visa",
         "email": "universityari.visa@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Archontis Politis",
         "link": "https://www.tuni.fi/en/archontis-politis",
         "email": "universityarchontis.politis@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Kostas Stefanidis",
         "link": "https://www.tuni.fi/en/konstantinos-stefanidis",
         "email": "universitykonstantinos.stefanidis@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Veikko Surakka",
         "link": "https://www.tuni.fi/en/veikko-surakka",
         "email": "universityveikko.surakka@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       },
       {
         "name": "Tuomas Virtanen",
         "link": "https://www.tuni.fi/en/tuomas-virtanen",
         "email": "universitytuomas.virtanen@tuni.fi",
-        "IsEmailSend": false
+        "IsEmailSend": true
       }
     ]
   },
@@ -32960,6 +33074,16 @@
         "link": "http://www.just.edu.jo/eportfolio/Pages/Default.aspx?email=oaalzoubi",
         "email": "oaalzoubi@just.edu.jo",
         "IsEmailSend": false
+      }
+    ]
+  },
+  "TestCountry": {
+    "JUST": [
+      {
+        "name": "Zeeshan Ali",
+        "link": "http://www.just.edu.jo/eportfolio/Pages/Default.aspx?email=rmobeidat",
+        "email": "gecezeeshan@gmail.com",
+        "IsEmailSend": true
       }
     ]
   }

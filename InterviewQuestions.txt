@@ -1,0 +1,15 @@
+interviewer asked some indepth questions, give me the answers of it.
+you use collections hash, list, dictionary which is fast and why?
+you heard word like func, predicate, why we use it?
+you know about iqueryable and ienumerable what is the difference? 
+you know about async/await, if user press submit button multiple time, will it trigger event multiple time? it could lead to multiple saving. 
+will it lead to blocking or dead lock?
+you know dependency injection, how before .net core it was implemented?
+what is durable function?
+what is thred safe and non-thread safe?  how to achieve it ? 
+how to access private method outside class? what is reflection and why it is used? if(obj is IEmailHandler) is it correct? what we do before is keyword?
+what is static constructor? why it is used?
+if you have 2 web app, 3 web apis? suggest deployment steps on azure? how do you configure pipeline, how many server? docker, kubernetes will you use? what will you do with testing and sonarqube within pipelines.
+how do you improve sql sp performance which has 50 joins?
+you have to delete the table having millions of record and you have to maintain the logs? which method truncate, delete or drop will you use and why? where delete maintain logs, how rollback will be done?
+
