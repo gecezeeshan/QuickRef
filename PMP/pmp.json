@@ -1,0 +1,1474 @@
+[
+  {
+    "Version": "1.0",
+    "KnowledgeAreas": [
+      {
+        "Name": "Integration Management",
+        "Description": "Project charter, project plan, change control"
+      },
+      {
+        "Name": "Scope Management",
+        "Description": "Requirements, WBS, scope baseline"
+      },
+      {
+        "Name": "Schedule Management",
+        "Description": "Activities, milestones, Gantt charts"
+      },
+      {
+        "Name": "Cost Management",
+        "Description": "Estimating, budgeting, earned value"
+      },
+      {
+        "Name": "Risk Management",
+        "Description": "Risk identification, analysis, response"
+      },
+      {
+        "Name": "Quality Management",
+        "Description": "Quality standards, audits"
+      },
+      {
+        "Name": "Communication Management",
+        "Description": "Stakeholder reports, communication plans"
+      },
+      {
+        "Name": "Stakeholder Management",
+        "Description": "Stakeholder engagement and analysis"
+      },
+      {
+        "Name": "Resource Management",
+        "Description": "Team building, roles, responsibilities"
+      },
+      {
+        "Name": "Procureument Management",
+        "Description": "Contracts, RFPs, vendor selection"
+      }
+    ],
+    "ProcessGroups": [
+      {
+        "Name": "Initialization",
+        "Description": "Define and authorize the project",
+        "NoOfProcess": 2
+      },
+      {
+        "Name": "Planning",
+        "Description": "Define scope, schedule, cost, quality, etc.",
+        "NoOfProcess": 2
+      },
+      {
+        "Name": "Executing",
+        "Description": "Perform the work",
+        "NoOfProcess": 2
+      },
+      {
+        "Name": "Monitoring and Controlling",
+        "Description": "Track, review, and regulate progress",
+        "NoOfProcess": 2
+      },
+      {
+        "Name": "Closing",
+        "Description": "Finalize everything and close the project",
+        "NoOfProcess": 1
+      }
+    ],
+    "Process": [
+      {
+        "Name": "Develop Project Charter",
+        "ProcessGroup": "Initialization",
+        "KnowledgeArea": "Integration Management",
+        "Input": [
+          "Business Documents",
+          "Agreements",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques & Expert Judgment": [
+          "Expert Judgment",
+          "Data Gathering",
+          "Interpersonal and Team Skills",
+          "Meetings"
+        ],
+        "Output": [
+          "Project Charter",
+          "Assumption Log"
+        ]
+      },
+      {
+        "Name": "Identify Stakeholders",
+        "ProcessGroup": "Initialization",
+        "KnowledgeArea": "Stakeholder Management",
+        "Input": [
+          "Project Charter",
+          "Business Documents",
+          "Project Documents",
+          "Project Management Plan",
+          "Agreements",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques & Expert Judgment": [
+          "Expert Judgment",
+          "Data Gathering",
+          "Data Analysis",
+          "Data Representation",
+          "Meetings"
+        ],
+        "Output": [
+          "Stakeholder Register",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Develop Project Management Plan",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Integration Management",
+        "Input": [
+          "Project Charter",
+          "Outputs from other Processes",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Gathering",
+          "Interpersonal and Team Skills",
+          "Meetings"
+        ],
+        "Output": [
+          "Project Management Plan"
+        ]
+      },
+      {
+        "Name": "Develop Project Management Plan",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Integration Management",
+        "Input": [
+          "Project Charter",
+          "Outputs from other Processes",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Gathering",
+          "Interpersonal and Team Skills",
+          "Meetings"
+        ],
+        "Output": [
+          "Project Management Plan"
+        ]
+      },
+      {
+        "Name": "Plan Scope Management",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Scope Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Meetings"
+        ],
+        "Output": [
+          "Scope Management Plan",
+          "Requirements Management Plan"
+        ]
+      },
+      {
+        "Name": "Collect Requirements",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Scope Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Business Documents",
+          "Agreements",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Gathering",
+          "Data Analysis",
+          "Decision Making",
+          "Data Representation",
+          "Interpersonal and Team Skills",
+          "Context DiagramPrototypes"
+        ],
+        "Output": [
+          "Requirements Documentation",
+          "Requirements Traceability Matrix"
+        ]
+      },
+      {
+        "Name": "Define Scope",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Scope Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Product Analysis"
+        ],
+        "Output": [
+          "Project Scope Statement",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Create WBS",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Scope Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Decomposition"
+        ],
+        "Output": [
+          "Scope Baseline",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Plan Schedule Management",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Schedule Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Meetings"
+        ],
+        "Output": [
+          "Schedule Management Plan"
+        ]
+      },
+      {
+        "Name": "Define Activities",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Schedule Management",
+        "Input": [
+          "Project Management Plan",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Decomposition",
+          "Rolling Wave Planning",
+          "Meetings"
+        ],
+        "Output": [
+          "Activity List",
+          "Activity Attributes",
+          "Milestone List",
+          "Change Requests",
+          "Project Management Plan Updates"
+        ]
+      },
+      {
+        "Name": "Sequence Activities",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Schedule Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Precedence Diagramming Method (PDM)",
+          "Dependency Determination and Integration",
+          "Leads and Lags",
+          "Project Management Information System (PMIS)"
+        ],
+        "Output": [
+          "Project Schedule Network Diagrams",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Estimate Durations",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Schedule Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Analogous Estimating",
+          "Parametric Estimating",
+          "Three-Point Estimating",
+          "Bottom-Up Estimating",
+          "Data Analysis",
+          "Decision Making",
+          "Meetings"
+        ],
+        "Output": [
+          "Activity Duration Estimates",
+          "Basis of Estimates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Develop Schedule",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Schedule Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Schedule Network Analysis",
+          "Critical Path Method",
+          "Resource Optimization Techniques",
+          "Data Analysis",
+          "Schedule Compression",
+          "Agile Release Planning",
+          "Leads and Lags",
+          "Project Management Information System (PMIS)"
+        ],
+        "Output": [
+          "Project Schedule",
+          "Schedule Baseline",
+          "Schedule Data",
+          "Project Calendars",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Validate Scope",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Scope Management",
+        "Input": [
+          "$$ TBD$$ Project Charter$$ Project Management Plan$$ Project Documents$$ Enterprise Environmental Factors$$ Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "$$ Expert Judgment$$ Data Analysis$$ Decision Making$$ Interpersonal and Team Skills$$ Product Analysis"
+        ],
+        "Output": [
+          "$$ Project Scope Statement$$ Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Control Scope",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Scope Management",
+        "Input": [
+          "$$ TBD$$ Project Charter$$ Project Management Plan$$ Project Documents$$ Enterprise Environmental Factors$$ Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "$$ Expert Judgment$$ Data Analysis$$ Decision Making$$ Interpersonal and Team Skills$$ Product Analysis"
+        ],
+        "Output": [
+          "$$ Project Scope Statement$$ Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Plan Schedule Management",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Schedule Management",
+        "Input": [
+          "TBD",
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Product Analysis"
+        ],
+        "Output": [
+          "Project Scope Statement",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Plan Schedule Management",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Schedule Management",
+        "Input": [
+          "TBD",
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Product Analysis"
+        ],
+        "Output": [
+          "Project Scope Statement",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Define Activities",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Schedule Management",
+        "Input": [
+          "TBD",
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Product Analysis"
+        ],
+        "Output": [
+          "Project Scope Statement",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Sequence Activities",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Schedule Management",
+        "Input": [
+          "TBD",
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Product Analysis"
+        ],
+        "Output": [
+          "Project Scope Statement",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Estimate Durations",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Schedule  Management",
+        "Input": [
+          "TBD",
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Product Analysis"
+        ],
+        "Output": [
+          "Project Scope Statement",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Plan Cost Management",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Cost Management",
+        "Input": [
+          "TBD",
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Product Analysis"
+        ],
+        "Output": [
+          "Project Scope Statement",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Estimate Costs",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Cost Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Analogous Estimating",
+          "Parametric Estimating",
+          "Bottom-Up Estimating",
+          "Three-Point Estimating",
+          "Data Analysis",
+          "Decision Making",
+          "Meetings",
+          "Project Management Information System (PMIS)"
+        ],
+        "Output": [
+          "Cost Estimates",
+          "Basis of Estimates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Determine Budget",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Cost Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Cost Aggregation",
+          "Data Analysis",
+          "Historical Information Review",
+          "Funding Limit Reconciliation",
+          "Financing"
+        ],
+        "Output": [
+          "Cost Baseline",
+          "Project Funding Requirements",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Plan Quality Management",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Quality Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Gathering",
+          "Data Analysis",
+          "Decision Making",
+          "Data Representation",
+          "Interpersonal and Team Skills"
+        ],
+        "Output": [
+          "Quality Management Plan",
+          "Process Improvement Plan",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Plan Resource Management",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Resource Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Representation",
+          "Organizational Theory",
+          "Meetings"
+        ],
+        "Output": [
+          "Resource Management Plan",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Estimate Activity Resources",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Resource Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Bottom-Up Estimating",
+          "Analogous Estimating",
+          "Parametric Estimating",
+          "Data Analysis",
+          "Decision Making"
+        ],
+        "Output": [
+          "Resource Requirements",
+          "Basis of Estimates",
+          "Resource Breakdown Structure",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Plan Communications Management",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Communication Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Product Analysis"
+        ],
+        "Output": [
+          "Communications Management Plan",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Plan Risk Management",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Risk Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Product Analysis"
+        ],
+        "Output": [
+          "Risk Management Plan",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Identify Risks",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Risk Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Agreements",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Gathering",
+          "Data Analysis",
+          "Interpersonal and Team Skills",
+          "Prompt Lists",
+          "Meetings"
+        ],
+        "Output": [
+          "Risk Register",
+          "Risk Report",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Perform Qualitative Risk Analysis",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Risk Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Gathering",
+          "Data Analysis",
+          "Interpersonal and Team Skills",
+          "Risk Categorization",
+          "Probability and Impact Matrix"
+        ],
+        "Output": [
+          "Project Documents Updates",
+          "Risk Register"
+        ]
+      },
+      {
+        "Name": "Perform Quantitative Risk Analysis",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Risk Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Gathering",
+          "Data Analysis",
+          "Interpersonal and Team Skills",
+          "Representation of Uncertainty",
+          "Quantitative Risk Analysis and Modeling Techniques"
+        ],
+        "Output": [
+          "Project Documents Updates",
+          "Risk Register"
+        ]
+      },
+      {
+        "Name": "Plan Risk Responses",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Risk Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Gathering",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Strategies for Threats and Opportunities"
+        ],
+        "Output": [
+          "Risk Register",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Plan Procurement Management",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Procurement Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Gathering",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Market Research"
+        ],
+        "Output": [
+          "Procurement Management Plan",
+          "Procurement Strategy",
+          "Bid Documents",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Plan Stakeholder Engagement",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Stakeholder Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Gathering",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Meetings"
+        ],
+        "Output": [
+          "Stakeholder Engagement Plan",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Direct and Manage Project Work",
+        "ProcessGroup": "Executing",
+        "KnowledgeArea": "Integration Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Approved Change Requests",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Project Management Information System (PMIS)",
+          "Meetings"
+        ],
+        "Output": [
+          "Deliverables",
+          "Work Performance Data",
+          "Issue Log",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Manage Project Knowledge",
+        "ProcessGroup": "Executing",
+        "KnowledgeArea": "Integration Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Deliverables",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Knowledge Management",
+          "Information Management"
+        ],
+        "Output": [
+          "Lessons Learned Register",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Manage Quality",
+        "ProcessGroup": "Executing",
+        "KnowledgeArea": "Quality Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Data Gathering",
+          "Data Analysis",
+          "Decision Making",
+          "Data Representation",
+          "Interpersonal and Team Skills"
+        ],
+        "Output": [
+          "Quality Reports",
+          "Test and Evaluation Documents",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Acquire Resources",
+        "ProcessGroup": "Executing",
+        "KnowledgeArea": "Resource Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Pre-Assignments",
+          "Virtual Teams"
+        ],
+        "Output": [
+          "Physical Resource Assignments",
+          "Project Team Assignments",
+          "Resource Calendars",
+          "Change Requests",
+          "Project Management Plan Updates"
+        ]
+      },
+      {
+        "Name": "Develop Team",
+        "ProcessGroup": "Executing",
+        "KnowledgeArea": "Resource Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Colocation",
+          "Virtual Teams",
+          "Communication Technologies",
+          "Recognition and Rewards",
+          "Interpersonal and Team Skills",
+          "Individual and Team Assessments",
+          "Training",
+          "Team Building Activities"
+        ],
+        "Output": [
+          "Team Performance Assessments",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Manage Team",
+        "ProcessGroup": "Executing",
+        "KnowledgeArea": "Resource Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Work Performance Reports"
+        ],
+        "Tool Techniques": [
+          "Interpersonal and Team Skills"
+        ],
+        "Output": [
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Manage Communications",
+        "ProcessGroup": "Executing",
+        "KnowledgeArea": "Communication Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Work Performance Reports"
+        ],
+        "Tool Techniques": [
+          "Communication Technology",
+          "Communication Methods",
+          "Interpersonal and Team Skills"
+        ],
+        "Output": [
+          "Project Communications",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Implement Risk Responses",
+        "ProcessGroup": "Executing",
+        "KnowledgeArea": "Risk Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment"
+        ],
+        "Output": [
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Conduct Procurements",
+        "ProcessGroup": "Executing",
+        "KnowledgeArea": "Procurement Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Advertising",
+          "Bidder Conferences"
+        ],
+        "Output": [
+          "Procurement Documents",
+          "Selected Sellers",
+          "Agreements",
+          "Resource Calendars",
+          "Change Requests",
+          "Project Management Plan Updates"
+        ]
+      },
+      {
+        "Name": "Manage Stackholder Engagement",
+        "ProcessGroup": "Executing",
+        "KnowledgeArea": "Stackholder Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Interpersonal and Team Skills",
+          "Communication Skills"
+        ],
+        "Output": [
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Monitor and Control Project Work",
+        "ProcessGroup": "Monitoring and Controlling",
+        "KnowledgeArea": "Integration Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Work Performance Data"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis"
+        ],
+        "Output": [
+          "Work Performance Reports",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Perform Integrated Change Control",
+        "ProcessGroup": "Monitoring and Controlling",
+        "KnowledgeArea": "Integration Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Work Performance Reports"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Change Control Tools"
+        ],
+        "Output": [
+          "Approved Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Validate Scope",
+        "ProcessGroup": "Monitoring and Controlling",
+        "KnowledgeArea": "Scope Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Verified Deliverables"
+        ],
+        "Tool Techniques": [
+          "Inspection"
+        ],
+        "Output": [
+          "Accepted Deliverables",
+          "Work Performance Information",
+          "Change Requests",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Control Scope",
+        "ProcessGroup": "Monitoring and Controlling",
+        "KnowledgeArea": "Scope Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Work Performance Data"
+        ],
+        "Tool Techniques": [
+          "Data Analysis"
+        ],
+        "Output": [
+          "Work Performance Information",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Control Schedule",
+        "ProcessGroup": "Monitoring and Controlling",
+        "KnowledgeArea": "Schedule Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Work Performance Data"
+        ],
+        "Tool Techniques": [
+          "Data Analysis"
+        ],
+        "Output": [
+          "Work Performance Information",
+          "Schedule Forecasts",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Control Costs",
+        "ProcessGroup": "Monitoring and Controlling",
+        "KnowledgeArea": "Cost Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Work Performance Data"
+        ],
+        "Tool Techniques": [
+          "Data Analysis",
+          "To-Complete Performance Index",
+          "Project Management Information System (PMIS)",
+          "Expert Judgment"
+        ],
+        "Output": [
+          "Work Performance Information",
+          "Cost Forecasts",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Control Quality",
+        "ProcessGroup": "Monitoring and Controlling",
+        "KnowledgeArea": "Quality Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Quality Metrics"
+        ],
+        "Tool Techniques": [
+          "Data Gathering",
+          "Data Analysis",
+          "Decision Making",
+          "Data Representation"
+        ],
+        "Output": [
+          "Quality Control Measurements",
+          "Verified Deliverables",
+          "Work Performance Information",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Control Resources",
+        "ProcessGroup": "Monitoring and Controlling",
+        "KnowledgeArea": "Resource Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Work Performance Data"
+        ],
+        "Tool Techniques": [
+          "Data Analysis",
+          "Problem Solving",
+          "Interpersonal and Team Skills"
+        ],
+        "Output": [
+          "Work Performance Information",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Monitor Communications",
+        "ProcessGroup": "Monitoring and Controlling",
+        "KnowledgeArea": "Communication Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Work Performance Data"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis"
+        ],
+        "Output": [
+          "Work Performance Information",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Monitor Risks",
+        "ProcessGroup": "Monitoring and Controlling",
+        "KnowledgeArea": "Risk Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Work Performance Data"
+        ],
+        "Tool Techniques": [
+          "Data Analysis",
+          "Audits",
+          "Meetings"
+        ],
+        "Output": [
+          "Work Performance Information",
+          "Risk Register Updates",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Control Procurements",
+        "ProcessGroup": "Monitoring and Controlling",
+        "KnowledgeArea": "Procurement Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Agreements",
+          "Procurement Documentation"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Claims Administration",
+          "Data Analysis",
+          "Procurement Performance Reviews"
+        ],
+        "Output": [
+          "Closed Procurements",
+          "Work Performance Information",
+          "Procurement Documentation Updates",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Monitor Stakeholder Engagement",
+        "ProcessGroup": "Monitoring and Controlling",
+        "KnowledgeArea": "Stakeholder Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Work Performance Data"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills"
+        ],
+        "Output": [
+          "Work Performance Information",
+          "Change Requests",
+          "Project Management Plan Updates",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Close Project or Phase",
+        "ProcessGroup": "Closing",
+        "KnowledgeArea": "Integration Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Accepted Deliverables",
+          "Business Documents"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Meetings"
+        ],
+        "Output": [
+          "Project Documents Updates",
+          "Final Product, Service, or Result Transition",
+          "Final Report",
+          "Organizational Process Assets Updates"
+        ]
+      }
+    ],
+    "Glossary": [
+      {
+        "Name": "Project Charter",
+        "Description": ""
+      },
+      {
+        "Name": "Business Documents",
+        "Description": ""
+      },
+      {
+        "Name": "Project Documents",
+        "Description": ""
+      },
+      {
+        "Name": "Agreements",
+        "Description": ""
+      },
+      {
+        "Name": "Enterprise Environmental Factors",
+        "Description": ""
+      },
+      {
+        "Name": "Organizational Process Assets",
+        "Description": ""
+      },
+      {
+        "Name": "Expert Judgment",
+        "Description": ""
+      },
+      {
+        "Name": "Data Gathering",
+        "Description": "Benchmarking"
+      },
+      {
+        "Name": "Context Diagrams",
+        "Description": "Used to visually show how a business process, other systems, and people interact"
+      },
+      {
+        "Name": "Prototype",
+        "Description": "A working model of a product that stakeholders can interact with and provide feedback how they might want to change it to better meet their requirements. This gives the stakeholders a great view and feel of what the final product will be when the project is finished. "
+      },
+      {
+        "Name": "Interpersonal and Team Skills",
+        "Description": "Observations/Conversations-Job shadowing, viewing personalities in their environment and work place. Recording how jobs, chores and tasks are executed."
+      },
+      {
+        "Name": "Data Analysis",
+        "Description": "Analyzing documents, agreements, policies, proposals, or business plans"
+      },
+      {
+        "Name": "Data Representation",
+        "Description": " Idea / Mind Mapping - Ideas gather through brainstorming are map together to discover new considerations and  conception variations  Affinity Diagram - Large ideas that are grouped and sorted together for further review and analysis."
+      },
+      {
+        "Name": "Meetings",
+        "Description": ""
+      },
+      {
+        "Name": "Stakeholder Register",
+        "Description": [
+          "Contact informationRole on the project, such as, sponsor or functional manager",
+          "Communication requirementsExpectations of the project",
+          "How are they affected by the projectPower influence level on the project"
+        ]
+      },
+      {
+        "Name": "Change Requests",
+        "Description": ""
+      },
+      {
+        "Name": "Project Management Plan Updates",
+        "Description": " Requirements Management Plan, Communications Management Plan, Risk Management Plan, Stakeholder Engagement Plan"
+      },
+      {
+        "Name": "Project Documents Updates",
+        "Description": " Assumption Log, Issue Log, Risk Register, Requirements Documentation"
+      },
+      {
+        "Name": "Project Management Plan",
+        "Description": " Outlines how the project is executed, monitored and controlled, and closed. 4 Baselines  Scope,Schedule, Cost, Performance Measurement  14 Subsidiary plans  Approved by either the Project Manager, Sponsor, Functional Manager, Program Manager, or in rare instances Senior Management  Provides Guidance on project execution Formal Written piece of communication Only changed when a change request is generated and approved by the change control board"
+      },
+      {
+        "Name": "Plan Scope Management",
+        "Description": " Process of creating a scope management plan that documents how the project and product scope will be defined, validated,and controlled. Guidance and direction on how scope will be managed throughout the project"
+      },
+      {
+        "Name": "Collect Requirements",
+        "Description": " Process of determining, documenting, and managing stakeholder needs and requirements to meet objectives.  Process plays a significant role in the success of the overall project since project schedule, budget, risk factors, quality specifications, and resource planning are closely linked to the requirements"
+      },
+      {
+        "Name": "Requirement Documentation",
+        "Description": "How individual requirements are to be performed and why each requirement is important to the project.  Components may include: Stakeholder and business requirements Acceptance criteriaQuality requirementsProject objectives Organizational impactsLegal or ethical complianceRequirements assumptions and constraints"
+      },
+      {
+        "Name": "Requirement Traceability Matrix",
+        "Description": "Once a requirement is created, a table is created that will link the requirement back to it source. This is used to help manage changes to the project scope.  The table is created to track, but not limited to:  Who is the original stakeholder that provided the requirement Why was the requirement added Description of the requirement Current status of the requirement, completed, in progress, delayed, cancelled, etc…"
+      },
+      {
+        "Name": "Define Scope",
+        "Description": " Developing a detailed description of the project and product.  A detailed project scope statement is critical to project success and builds upon the major deliverables, assumptions, and constraints that are documented during project initiation."
+      },
+      {
+        "Name": "Product Analysis",
+        "Description": " Detailed understanding of the project’s product, service, or result, with the commitment to improve the team’s focus, it’s knowledge base, the correct interpretation of requirements,  Some tools used areProduct breakdownSystem analysis System requirements"
+      },
+      {
+        "Name": "Scope Baseline",
+        "Description": "Scope Baseline (3 Components)  Project Scope Statement WBS  WBS Dictionary"
+      },
+      {
+        "Name": "WBS Dictionary",
+        "Description": "A document that details the contents of the WBS It provides detailed information on each node of the WBS It captures additional qualities about each Work Package in a separate document  It should include team member assigned to it, time estimate, cost estimate, account information, work package ID, quality requirements, contract information, Scheduled Milestone, plus detail overall of the task at hand"
+      }
+    ]
+  }
+]

@@ -13,3 +13,86 @@ if you have 2 web app, 3 web apis? suggest deployment steps on azure? how do you
 how do you improve sql sp performance which has 50 joins?
 you have to delete the table having millions of record and you have to maintain the logs? which method truncate, delete or drop will you use and why? where delete maintain logs, how rollback will be done?
 
+.NET Core / C# Real-World Scenario Questions
+What happens if multiple await calls are made in a loop that modifies shared state? How do you avoid race conditions?
+
+If a user clicks a button multiple times quickly, how can you prevent multiple event handler executions?
+
+What are the thread-safety concerns in ASP.NET Core middleware or static/shared services?
+
+Explain how IHostedService is different from a background task with Task.Run. When would you use one over the other?
+
+How do you cache data in-memory in ASP.NET Core and invalidate it after a specific condition or time?
+
+What are the risks of injecting a DbContext as a Singleton service?
+
+How does dependency injection scope affect a web application’s behavior under load?
+
+What are pitfalls of using async void? When is it acceptable?
+
+How can you prevent memory leaks in a long-running .NET Core application or worker service?
+
+How would you implement retry logic for a transient failure in an external API call?
+
+✅ SQL Server Real-World Scenario Questions
+You have a query with multiple joins and subqueries that is running slow—how do you diagnose and optimize it?
+
+How would you safely delete millions of records from a table without locking the table or affecting live users?
+
+What’s the difference between WITH (NOLOCK) and READ COMMITTED SNAPSHOT? When should each be used?
+
+What is a SQL deadlock? How do you detect and prevent it?
+
+How would you partition a large SQL table and what are the trade-offs?
+
+When should you create an indexed view, and what are its limitations?
+
+How do you identify missing or unused indexes in SQL Server?
+
+What is parameter sniffing, and how can it be mitigated?
+
+How would you handle long-running transactions that cause blocking?
+
+You need to store audit logs of every user action. What approach would you take that scales well?
+
+✅ Deployment & Architecture Questions
+You have an Azure Function App, an ASP.NET Core backend, and a React frontend. How many Azure services do you need and how would you set them up?
+
+What’s the best way to automate CI/CD for a .NET Core app hosted on Azure?
+
+When should you choose Azure App Service vs Azure Kubernetes Service (AKS)?
+
+How would you configure blue-green or canary deployment for minimal downtime?
+
+What strategies would you use to ensure app scalability under peak load?
+
+You need to run background jobs (e.g., sending emails). What Azure service or design pattern would you use?
+
+How do you secure secrets (like DB strings, API keys) in a cloud environment?
+
+What authentication method would you use for a secure admin-only web application (e.g., Azure AD, OAuth2, certificate-based)?
+
+How would you secure data at rest and in transit in your web application?
+
+How do you isolate internal APIs that should not be exposed to the internet?
+
+✅ Performance & User Experience
+How would you prevent users from submitting the same form multiple times (UX and server-side)?
+
+What are common causes of poor front-end performance even if the backend is fast?
+
+How can you lazy-load or defer non-critical resources in your React frontend?
+
+What is a "perceived performance" in UI/UX and how would you improve it?
+
+What tools would you use to monitor and detect client-side and backend bottlenecks?
+
+How would you implement pagination for large datasets in a performant way (frontend + SQL)?
+
+How would you handle large file uploads securely and efficiently in .NET Core?
+
+What are some common anti-patterns in UX that can cause backend overload?
+
+How would you detect and prevent browser caching issues for updated files?
+
+How do you ensure accessibility (A11y) in your .NET or React applications?
