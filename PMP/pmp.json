@@ -81,7 +81,7 @@
           "Enterprise Environmental Factors",
           "Organizational Process Assets"
         ],
-        "Tool Techniques & Expert Judgment": [
+        "Tool Techniques": [
           "Expert Judgment",
           "Data Gathering",
           "Interpersonal and Team Skills",
@@ -105,7 +105,7 @@
           "Enterprise Environmental Factors",
           "Organizational Process Assets"
         ],
-        "Tool Techniques & Expert Judgment": [
+        "Tool Techniques": [
           "Expert Judgment",
           "Data Gathering",
           "Data Analysis",
@@ -1355,119 +1355,1028 @@
           "Organizational Process Assets Updates"
         ]
       }
-    ],
-    "Glossary": [
+    ],   
+    "Content": [
       {
-        "Name": "Project Charter",
-        "Description": ""
+        "Name": "Accepted deliverables",
+        "Description": "Deliverables that have been formally accepted by the customer or sponsor."
       },
       {
-        "Name": "Business Documents",
-        "Description": ""
+        "Name": "Acquire Resources",
+        "Description": "The process of obtaining team members, facilities, equipment, materials, supplies, and other resources necessary to complete the project."
       },
       {
-        "Name": "Project Documents",
-        "Description": ""
+        "Name": "Active listening",
+        "Description": " A communication technique that involves fully concentrating, understanding, responding, and remembering what is being said."
+      },
+      {
+        "Name": "Activity attributes",
+        "Description": " Detailed information about each activity, including its description, predecessor and successor activities, resource requirements, and constraints."
+      },
+      {
+        "Name": "Activity duration estimates",
+        "Description": " Estimates of the time required to complete each activity in the project schedule."
+      },
+      {
+        "Name": "Activity flow",
+        "Description": "The sequence and interdependencies of activities in a project, often represented in a flowchart or network diagram."
+      },
+      {
+        "Name": "Activity list",
+        "Description": "A comprehensive list of all activities required to complete the project, including their descriptions and identifiers."
+      },
+      {
+        "Name": "Advertising",
+        "Description": "The process of promoting the project or its deliverables to potential stakeholders, often used in procurement to attract bidders."
+      },
+      {
+        "Name": "Affinity diagrams",
+        "Description": "A tool used to organize ideas and information into groups based on their natural relationships, often used in brainstorming sessions."
+      },
+      {
+        "Name": "Agile release planning",
+        "Description": "A process in Agile project management that involves planning the delivery of features or functionalities in increments, typically over several iterations or sprints."
       },
       {
         "Name": "Agreements",
-        "Description": ""
+        "Description": "Formal contracts or understandings between parties involved in the project, outlining the terms and conditions of their relationship."
       },
       {
-        "Name": "Enterprise Environmental Factors",
-        "Description": ""
+        "Name": "Alternative analysis",
+        "Description": "A technique used to evaluate different options or approaches to achieve project objectives, often used in decision-making processes."
       },
       {
-        "Name": "Organizational Process Assets",
-        "Description": ""
+        "Name": "Analogous estimating",
+        "Description": "A technique for estimating project costs or durations based on historical data from similar projects."
       },
       {
-        "Name": "Expert Judgment",
-        "Description": ""
+        "Name": "Assumption analysis",
+        "Description": "The process of identifying and evaluating assumptions made during project planning to determine their validity and impact on the project."
       },
       {
-        "Name": "Data Gathering",
-        "Description": "Benchmarking"
+        "Name": "Assumptions log",
+        "Description": "A document that records all assumptions made during project planning, including their rationale and potential impact on the project."
       },
       {
-        "Name": "Context Diagrams",
-        "Description": "Used to visually show how a business process, other systems, and people interact"
+        "Name": "Authority",
+        "Description": "The power or right to make decisions, enforce rules, or command resources within the project."
       },
       {
-        "Name": "Prototype",
-        "Description": "A working model of a product that stakeholders can interact with and provide feedback how they might want to change it to better meet their requirements. This gives the stakeholders a great view and feel of what the final product will be when the project is finished. "
+        "Name": "Authority levels",
+        "Description": "The different levels of decision-making power and responsibility assigned to individuals or groups within the project."
       },
       {
-        "Name": "Interpersonal and Team Skills",
-        "Description": "Observations/Conversations-Job shadowing, viewing personalities in their environment and work place. Recording how jobs, chores and tasks are executed."
+        "Name": "Autocratic decision making",
+        "Description": "A decision-making style where one person makes decisions unilaterally, without input from others."
       },
       {
-        "Name": "Data Analysis",
-        "Description": "Analyzing documents, agreements, policies, proposals, or business plans"
+        "Name": "Baseline",
+        "Description": "A fixed reference point used to measure project performance, including scope, schedule, and cost baselines."
       },
       {
-        "Name": "Data Representation",
-        "Description": " Idea / Mind Mapping - Ideas gather through brainstorming are map together to discover new considerations and  conception variations  Affinity Diagram - Large ideas that are grouped and sorted together for further review and analysis."
+        "Name": "Basis of estimates",
+        "Description": "Documentation that explains how cost or duration estimates were derived, including the assumptions and methodologies used."
       },
       {
-        "Name": "Meetings",
-        "Description": ""
+        "Name": "Benchmarking",
+        "Description": "The process of comparing project performance metrics against industry standards or best practices to identify areas for improvement."
       },
       {
-        "Name": "Stakeholder Register",
-        "Description": [
-          "Contact informationRole on the project, such as, sponsor or functional manager",
-          "Communication requirementsExpectations of the project",
-          "How are they affected by the projectPower influence level on the project"
-        ]
+        "Name": "Bid documents",
+        "Description": "Documents prepared to solicit proposals from potential sellers or contractors for project work."
       },
       {
-        "Name": "Change Requests",
-        "Description": ""
+        "Name": "Bottom-up estimating",
+        "Description": "A technique for estimating project costs or durations by aggregating estimates from individual activities or work packages."
       },
       {
-        "Name": "Project Management Plan Updates",
-        "Description": " Requirements Management Plan, Communications Management Plan, Risk Management Plan, Stakeholder Engagement Plan"
+        "Name": "Brainstorming",
+        "Description": "A creative technique used to generate a large number of ideas or solutions in a short period of time, often used in risk identification and problem-solving."
       },
       {
-        "Name": "Project Documents Updates",
-        "Description": " Assumption Log, Issue Log, Risk Register, Requirements Documentation"
+        "Name": "Budget at completion (BAC)",
+        "Description": "The total budget allocated for the project, representing the planned cost at completion."
       },
       {
-        "Name": "Project Management Plan",
-        "Description": " Outlines how the project is executed, monitored and controlled, and closed. 4 Baselines  Scope,Schedule, Cost, Performance Measurement  14 Subsidiary plans  Approved by either the Project Manager, Sponsor, Functional Manager, Program Manager, or in rare instances Senior Management  Provides Guidance on project execution Formal Written piece of communication Only changed when a change request is generated and approved by the change control board"
+        "Name": "Business case",
+        "Description": "A document that justifies the need for the project, outlining its benefits, costs, risks, and alignment with organizational goals."
       },
       {
-        "Name": "Plan Scope Management",
-        "Description": " Process of creating a scope management plan that documents how the project and product scope will be defined, validated,and controlled. Guidance and direction on how scope will be managed throughout the project"
+        "Name": "Change control board (CCB)",
+        "Description": "A group of stakeholders responsible for reviewing and approving changes to the project scope, schedule, or budget."
       },
       {
-        "Name": "Collect Requirements",
-        "Description": " Process of determining, documenting, and managing stakeholder needs and requirements to meet objectives.  Process plays a significant role in the success of the overall project since project schedule, budget, risk factors, quality specifications, and resource planning are closely linked to the requirements"
+        "Name": "Change control system",
+        "Description": "A set of procedures and tools used to manage changes to the project baseline and ensure that all changes are documented and approved."
       },
       {
-        "Name": "Requirement Documentation",
-        "Description": "How individual requirements are to be performed and why each requirement is important to the project.  Components may include: Stakeholder and business requirements Acceptance criteriaQuality requirementsProject objectives Organizational impactsLegal or ethical complianceRequirements assumptions and constraints"
+        "Name": "Change request",
+        "Description": "A formal proposal to modify any aspect of the project, including scope, schedule, cost, or quality."
       },
       {
-        "Name": "Requirement Traceability Matrix",
-        "Description": "Once a requirement is created, a table is created that will link the requirement back to it source. This is used to help manage changes to the project scope.  The table is created to track, but not limited to:  Who is the original stakeholder that provided the requirement Why was the requirement added Description of the requirement Current status of the requirement, completed, in progress, delayed, cancelled, etc…"
+        "Name": "Charter",
+        "Description": "A document that formally authorizes the project and provides the project manager with the authority to apply organizational resources to project activities."
       },
       {
-        "Name": "Define Scope",
-        "Description": " Developing a detailed description of the project and product.  A detailed project scope statement is critical to project success and builds upon the major deliverables, assumptions, and constraints that are documented during project initiation."
+        "Name": "Claim administration",
+        "Description": "The process of managing and resolving claims made by or against the project, often related to contractual disputes."
       },
       {
-        "Name": "Product Analysis",
-        "Description": " Detailed understanding of the project’s product, service, or result, with the commitment to improve the team’s focus, it’s knowledge base, the correct interpretation of requirements,  Some tools used areProduct breakdownSystem analysis System requirements"
+        "Name": "Collect requirements",
+        "Description": "The process of determining, documenting, and managing stakeholder needs and requirements to meet project objectives."
       },
       {
-        "Name": "Scope Baseline",
-        "Description": "Scope Baseline (3 Components)  Project Scope Statement WBS  WBS Dictionary"
+        "Name": "Communication management plan",
+        "Description": "A component of the project management plan that describes how project communications will be planned, structured, monitored, and controlled."
       },
       {
-        "Name": "WBS Dictionary",
-        "Description": "A document that details the contents of the WBS It provides detailed information on each node of the WBS It captures additional qualities about each Work Package in a separate document  It should include team member assigned to it, time estimate, cost estimate, account information, work package ID, quality requirements, contract information, Scheduled Milestone, plus detail overall of the task at hand"
+        "Name": "Communications methods",
+        "Description": "The various ways in which project information is shared among stakeholders, including meetings, reports, emails, and collaboration tools."
+      },
+      {
+        "Name": "Communications technology",
+        "Description": "Tools and systems used to facilitate communication among project stakeholders, such as email, instant messaging, video conferencing, and project management software."
+      },
+      {
+        "Name": "Configuration management system",
+        "Description": "A system that defines the processes for managing changes to project deliverables and ensuring that all changes are documented and approved."
+      },
+      {
+        "Name": "Constraint",
+        "Description": "A limiting factor that affects the execution of a project, such as time, cost, scope, or quality constraints."
+      },
+      {
+        "Name": "Contingency reserve",
+        "Description": "An amount of money or time set aside to address potential risks or uncertainties in the project."
+      },
+      {
+        "Name": "Contract",
+        "Description": "A legally binding agreement between two or more parties that outlines the terms and conditions for delivering goods or services."
+      },
+      {
+        "Name": "Contract change control system",
+        "Description": "A system used to manage changes to contracts throughout the project lifecycle."
+      },
+      {
+        "Name": "Control account",
+        "Description": "A management control point where scope, budget, actual cost, and schedule are integrated and compared to earned value for performance measurement."
+      },
+      {
+        "Name": "Control chart",
+        "Description": "A graphical tool used to monitor process performance over time and identify variations from established standards."
+      },
+      {
+        "Name": "Cost baseline",
+        "Description": "The approved version of the project budget that includes all planned costs for the project activities."
+      },
+      {
+        "Name": "Cost management plan",
+        "Description": "A component of the project management plan that describes how project costs will be planned, structured, and controlled."
+      },
+      {
+        "Name": "Cost performance index (CPI)",
+        "Description": "A measure of cost efficiency in a project, calculated as the ratio of earned value to actual cost."
+      },
+      {
+        "Name": "Cost variance (CV)",
+        "Description": "The difference between earned value and actual cost, indicating whether the project is under or over budget."
+      },
+      {
+        "Name": "Crashing",
+        "Description": "A schedule compression technique that involves adding resources to critical path activities to shorten their duration."
+      },
+      {
+        "Name": "Critical chain method",
+        "Description": "A scheduling technique that focuses on managing uncertainties and resource constraints to optimize project completion time."
+      },
+      {
+        "Name": "Critical path method (CPM)",
+        "Description": "A project management technique used to determine the longest sequence of dependent activities and their earliest start and finish times."
+      },
+      {
+        "Name": "Data analysis",
+        "Description": "The process of examining project data to identify trends, patterns, and insights that can inform decision-making."
+      },
+      {
+        "Name": "Data gathering",
+        "Description": "The process of collecting information from various sources to support project planning and execution."
+      },
+      {
+        "Name": "Decision making",
+        "Description": "The process of selecting the best course of action among alternatives based on available information and criteria."
+      },
+      {
+        "Name": "Deliverable",
+        "Description": "A tangible or intangible output produced as a result of project activities, such as a product, service, or result."
+      },
+      {
+        "Name": "Dependency determination",
+        "Description": "The process of identifying relationships between project activities, such as finish-to-start, start-to-start, finish-to-finish, or start-to-finish dependencies."
+      },
+      {
+        "Name": "Develop project charter",
+        "Description": "The process of creating a document that formally authorizes the project and provides the project manager with the authority to apply organizational resources to project activities."
+      },
+      {
+        "Name": "Develop project management plan",
+        "Description": "The process of defining, preparing, and coordinating all subsidiary plans and integrating them into a comprehensive project management plan."
+      },
+      {
+        "Name": "Develop project team",
+        "Description": "The process of improving competencies, team member interaction, and overall team environment to enhance project performance."
+      },
+      {
+        "Name": "Direct and manage project work",
+        "Description": "The process of leading and performing the work defined in the project management plan and implementing approved changes to achieve project objectives."
+      },
+      {
+        "Name": "Discretionary dependency",
+        "Description": "A relationship between project activities that is based on preference or best practices rather than a mandatory requirement."
+      },
+      {
+        "Name": "Earned value (EV)",
+        "Description": "The value of work actually performed up to a specific point in time, used to assess project performance."
+      },
+      {
+        "Name": "Earned value management (EVM)",
+        "Description": "A project management technique that integrates scope, schedule, and cost to assess project performance and progress."
+      },
+      {
+        "Name": "Enterprise environmental factors",
+        "Description": "Conditions that are not under the control of the project team that influence, constrain, or direct the project, such as organizational culture, market conditions, and regulatory requirements."
+      },
+      {
+        "Name": "Escalation",
+        "Description": "The process of raising an issue or decision to a higher level of authority for resolution or approval."
+      },
+      {
+        "Name": "Expert judgment",
+        "Description": "The use of specialized knowledge or expertise to inform decision-making in project management processes."
+      },
+      {
+        "Name": "Fast tracking",
+        "Description": "A schedule compression technique that involves performing activities in parallel that were originally planned to be done sequentially."
+      },
+      {
+        "Name": "Feasibility study",
+        "Description": "An analysis conducted to determine the viability of a proposed project or solution, assessing its technical, economic, legal, operational, and scheduling feasibility."
+      },
+      {
+        "Name": "Financial analysis",
+        "Description": "The evaluation of the financial aspects of a project, including cost-benefit analysis, return on investment (ROI), and payback period."
+      },
+      {
+        "Name": "Fixed-price contract",
+        "Description": "A type of contract where the seller agrees to deliver a product or service for a fixed price, regardless of the actual costs incurred."
+      },
+      {
+        "Name": "Flowchart",
+        "Description": "A graphical representation of a process or workflow, showing the sequence of steps and decisions involved."
+      },
+      {
+        "Name": "Focus groups",
+        "Description": "A qualitative research technique that involves gathering feedback from a group of stakeholders through guided discussions."
+      },
+      {
+        "Name": "Forecasting",
+        "Description": "The process of predicting future project performance based on historical data and trends."
+      },
+      {
+        "Name": "Functional requirements",
+        "Description": "Specifications that define what a system or product must do, including its features and functionalities."
+      },
+      {
+        "Name": "Gantt chart",
+        "Description": "A visual representation of a project schedule, showing activities, durations, and dependencies over time."
+      },
+      {
+        "Name": "Governance framework",
+        "Description": "A structure that defines the roles, responsibilities, and processes for decision-making and oversight in project management."
+      },
+      {
+        "Name": "Historical information",
+        "Description": "Data from past projects that can be used to inform current project planning and decision-making."
+      },
+      {
+        "Name": "Human resource management plan",
+        "Description": "A component of the project management plan that describes how project team members will be acquired, developed, managed, and released."
+      },
+      {
+        "Name": "Identify stakeholders",
+        "Description": "The process of identifying all individuals, groups, or organizations that may affect or be affected by the project and documenting relevant information regarding their interests, involvement, and impact on project success."
+      },
+      {
+        "Name": "Independent estimates",
+        "Description": "Cost or duration estimates provided by an external party or expert, used to validate internal estimates."
+      },
+      {
+        "Name": "Information management system",
+        "Description": "A system used to collect, store, manage, and disseminate project information and documentation."
+      },
+      {
+        "Name": "Initiating process group",
+        "Description": "The process group that includes the processes performed to define a new project or a new phase of an existing project by obtaining authorization to start the project or phase."
+      },
+      {
+        "Name": "Interpersonal and team skills",
+        "Description": "Skills used to effectively communicate, collaborate, and build relationships with team members and stakeholders."
+      },
+      {
+        "Name": "Issue log",
+        "Description": "A document used to track issues that arise during the project, including their status, priority, and resolution."
+      },
+      {
+        "Name": "Lessons learned register",
+        "Description": "A document that captures knowledge gained from the project, including successes and failures, to inform future projects."
+      },
+      {
+        "Name": "Make-or-buy analysis",
+        "Description": "A decision-making process used to determine whether to produce a product or service in-house or purchase it from an external supplier."
+      },
+      {
+        "Name": "Management reserve",
+        "Description": "A portion of the project budget set aside to address unforeseen risks or changes that may arise during project execution."
+      },
+      {
+        "Name": "Mandatory dependency",
+        "Description": "A relationship between project activities that is legally or contractually required and cannot be changed."
+      },
+      {
+        "Name": "Market research",
+        "Description": "The process of gathering, analyzing, and interpreting information about a market, including information about the target audience, competitors, and industry trends."
+      },
+      {
+        "Name": "Matrix organization",
+        "Description": "An organizational structure in which employees report to multiple managers, typically both functional and project managers."
+      },
+      {
+        "Name": "Milestone",
+        "Description": "A significant point or event in a project, often used to mark the completion of a major deliverable or phase."
+      },
+      {
+        "Name": "Monte Carlo simulation",
+        "Description": "A quantitative risk analysis technique that uses statistical modeling to predict the impact of risks on project outcomes."
+      },
+      {
+        "Name": "Multi-criteria decision analysis (MCDA)",
+        "Description": "A decision-making process that evaluates multiple conflicting criteria in decision-making environments, often used in project selection and prioritization."
+      },
+      {
+        "Name": "Negotiation",
+        "Description": "The process of discussing and reaching an agreement between parties on project-related issues, such as contracts, scope changes, or resource allocation."
+      },
+      {
+        "Name": "Network diagram",
+        "Description": "A graphical representation of the logical relationships among the project schedule activities, showing their dependencies and sequence."
+      },
+      {
+        "Name": "Organizational process assets",
+        "Description": "The plans, processes, policies, procedures, and knowledge bases specific to and used by the performing organization."
+      },
+      {
+        "Name": "Organizational structure",
+        "Description": "The way in which an organization arranges its lines of authority and communications, including roles, responsibilities, and reporting relationships."
+      },
+      {
+        "Name": "Pareto chart",
+        "Description": "A bar chart that displays the frequency or impact of problems or defects in descending order, helping to identify the most significant issues to address."
+      },
+      {
+        "Name": "Performance measurement baseline",
+        "Description": "An approved version of the project management plan that includes scope, schedule, and cost baselines, used to measure project performance."
+      },
+      {
+        "Name": "Perform integrated change control",
+        "Description": "The process of reviewing all change requests, approving changes, and managing changes to the project management plan and project documents."
+      },
+      {
+        "Name": "Perform qualitative risk analysis",
+        "Description": "The process of prioritizing risks for further analysis or action by assessing their probability of occurrence and impact on project objectives."
+      },
+      {
+        "Name": "Perform quantitative risk analysis",
+        "Description": "The process of numerically analyzing the effect of identified risks on overall project objectives."
+      },
+      {
+        "Name": "Performance reporting",
+        "Description": "The process of collecting and distributing performance information, including status reports, progress measurements, and forecasts."
+      },
+      {
+        "Name": "Plan communications management",
+        "Description": "The process of developing an appropriate approach and plan for project communications based on stakeholder needs and requirements."
+      },
+      {
+        "Name": "Plan cost management",
+        "Description": "The process of defining how project costs will be estimated, budgeted, managed, monitored, and controlled."
+      },
+      {
+        "Name": "Plan procurement management",
+        "Description": "The process of documenting project procurement decisions, specifying the approach, and identifying potential sellers."
+      },
+      {
+        "Name": "Plan quality management",
+        "Description": "The process of identifying quality requirements and standards for the project and its deliverables and documenting how the project will demonstrate compliance."
+      },
+      {
+        "Name": "Plan resource management",
+        "Description": "The process of defining how to estimate, acquire, manage, and utilize physical and team resources."
+      },
+      {
+        "Name": "Plan risk management",
+        "Description": "The process of defining how to conduct risk management activities for a project."
+      },
+      {
+        "Name": "Plan schedule management",
+        "Description": "The process of establishing the policies, procedures, and documentation for planning, developing, managing, executing, and controlling the project schedule."
+      },
+      {
+        "Name": "Plan scope management",
+        "Description": "The process of creating a scope management plan that documents how the project scope will be defined, validated, and controlled."
+      },
+      {
+        "Name": "Plan stakeholder engagement",
+        "Description": "The process of developing strategies to effectively engage stakeholders throughout the project lifecycle."
+      },
+      {
+        "Name": "Planning process group",
+        "Description": "The process group that includes the processes required to establish the scope of the project, refine the objectives, and define the course of action required to attain those objectives."
+      },
+      {
+        "Name": "Portfolio management",
+        "Description": "The centralized management of one or more portfolios to achieve strategic objectives and maximize value."
+      },
+      {
+        "Name": "Precedence diagramming method (PDM)",
+        "Description": "A technique used to construct a project schedule network diagram by showing the relationships between activities using nodes and arrows."
+      },
+      {
+        "Name": "Preliminary risk analysis",
+        "Description": "An initial assessment of risks to identify potential threats and opportunities that could impact the project."
+      },
+      {
+        "Name": "Preventive action",
+        "Description": "An action taken to eliminate the cause of a potential nonconformance or other undesirable situation to prevent its occurrence."
+      },
+      {
+        "Name": "Probability and impact matrix",
+        "Description": "A tool used to prioritize risks by assessing their probability of occurrence and impact on project objectives."
+      },
+      {
+        "Name": "Procurement management plan",
+        "Description": "A component of the project management plan that describes how procurement processes will be managed throughout the project."
+      },
+      {
+        "Name": "Procurement statement of work (SOW)",
+        "Description": "A detailed description of the products, services, or results to be provided by a seller as part of a procurement contract."
+      },
+      {
+        "Name": "Product analysis",
+        "Description": "The process of analyzing the product or service to be delivered by the project to ensure it meets stakeholder needs and requirements."
+      },
+      {
+        "Name": "Product backlog",
+        "Description": "A prioritized list of features, functionalities, and requirements for a product in Agile project management."
+      },
+      {
+        "Name": "Product scope description",
+        "Description": "A detailed description of the features and functions of the product, service, or result that the project will deliver."
+      },
+      {
+        "Name": "Program management",
+        "Description": "The coordinated management of multiple projects and programs to achieve strategic objectives and benefits."
+      },
+      {
+        "Name": "Project",
+        "Description": "A temporary endeavor undertaken to create a unique product, service, or result."
+      },
+      {
+        "Name": "Project assumptions",
+        "Description": "Factors that are considered to be true, real, or certain for the purpose of planning and executing the project."
+      },
+      {
+        "Name": "Project baseline",
+        "Description": "The approved version of a work product that can be changed only through formal change control procedures and is used as a basis for comparison to actual results."
+      },
+      {
+        "Name": "Project budget",
+        "Description": "The total amount of money allocated for the project, including all planned costs for resources, materials, and other expenses."
+      },
+      {
+        "Name": "Project charter",
+        "Description": "A document that formally authorizes the project and provides the project manager with the authority to apply organizational resources to project activities."
+      },
+      {
+        "Name": "Project closeout",
+        "Description": "The process of finalizing all activities across all project management process groups to formally close the project or phase."
+      },
+      {
+        "Name": "Project communications",
+        "Description": "The exchange of information among project stakeholders, including the methods and tools used to facilitate communication."
+      },
+      {
+        "Name": "Project constraints",
+        "Description": "Limitations or restrictions that affect the execution of the project, such as time, cost, scope, quality, resources, and risk."
+      },
+      {
+        "Name": "Project context",
+        "Description": "The environment in which the project operates, including organizational culture, stakeholder expectations, and external factors."
+      },
+      {
+        "Name": "Project cost management",
+        "Description": "The processes required to ensure that the project is completed within the approved budget."
+      },
+      {
+        "Name": "Project deliverables",
+        "Description": "Specific outcomes or outputs produced as a result of project activities, which are intended to meet project objectives."
+      },
+      {
+        "Name": "Project documents",
+        "Description": "Any document that is used to support project management processes, including plans, reports, logs, and registers."
+      },
+      {
+        "Name": "Project environment",
+        "Description": "The conditions and factors that influence the project, including organizational culture, stakeholder relationships, and external factors."
+      },
+      {
+        "Name": "Project execution",
+        "Description": "The process of performing the work defined in the project management plan to achieve project objectives."
+      },
+      {
+        "Name": "Project governance",
+        "Description": "The framework, functions, and processes that guide project management activities and ensure alignment with organizational objectives."
+      },
+      {
+        "Name": "Project integration management",
+        "Description": "The processes and activities that integrate the various elements of project management to ensure that the project is executed effectively."
+      },
+      {
+        "Name": "Project kick-off meeting",
+        "Description": "A meeting held at the beginning of a project to introduce team members, clarify roles and responsibilities, and set expectations for project execution."
+      },
+      {
+        "Name": "Project management",
+        "Description": "The application of knowledge, skills, tools, and techniques to project activities to meet project requirements."
+      },
+      {
+        "Name": "Project management information system (PMIS)",
+        "Description": "A system used to collect, integrate, and disseminate project information to support project management processes."
+      },
+      {
+        "Name": "Project management plan",
+        "Description": "A formal, approved document that defines how the project is executed, monitored, and controlled."
+      },
+      {
+        "Name": "Project management processes",
+        "Description": "The set of interrelated actions and activities performed to achieve project objectives, including initiating, planning, executing, monitoring and controlling, and closing."
+      },
+      {
+        "Name": "Project management software",
+        "Description": "Tools and applications used to assist in project planning, scheduling, resource allocation, and tracking progress."
+      },
+      {
+        "Name": "Project management team",
+        "Description": "A group of individuals responsible for managing and executing the project, including the project manager and other key stakeholders."
+      },
+      {
+        "Name": "Project management tools",
+        "Description": "Software applications and methodologies used to assist in planning, executing, and monitoring project activities."
+      },
+      {
+        "Name": "Project management triangle",
+        "Description": "A model that illustrates the relationship between project scope, time, and cost, highlighting the trade-offs that must be made to achieve project objectives."
+      },
+      {
+        "Name": "Project milestone list",
+        "Description": "A list of significant points or events in a project, often used to track progress and measure performance."
+      },
+      {
+        "Name": "Project monitoring and control",
+        "Description": "The process of tracking, reviewing, and regulating the progress and performance of the project and identifying any areas where changes to the plan are required."
+      },
+      {
+        "Name": "Project objective",
+        "Description": "A specific, measurable goal that the project is intended to achieve."
+      },
+      {
+        "Name": "Project organization chart",
+        "Description": "A visual representation of the project's organizational structure, showing roles, responsibilities, and reporting relationships."
+      },
+      {
+        "Name": "Project performance",
+        "Description": "The measure of how well the project is meeting its objectives, including scope, schedule, cost, and quality."
+      },
+      {
+        "Name": "Project phase",
+        "Description": "A distinct stage in the project lifecycle, characterized by specific deliverables and milestones."
+      },
+      {
+        "Name": "Project portfolio management",
+        "Description": "The centralized management of one or more portfolios to achieve strategic objectives and maximize value."
+      },
+     
+      {
+        "Name": "Project manager",
+        "Description": "The person assigned by the performing organization to lead the team that is responsible for achieving the project objectives."
+      },
+      {
+        "Name": "Project milestone",
+        "Description": "A significant point or event in a project, program, or portfolio."
+      },
+      {
+        "Name": "Project network diagram",
+        "Description": "A graphical representation of the logical relationships among the project schedule activities."
+      },
+      {
+        "Name": "Project procurement management",
+        "Description": "The processes necessary to purchase or acquire products, services, or results needed from outside the project team to perform the work."
+      },
+      {
+        "Name": "Project quality management",
+        "Description": "The processes and activities of the performing organization that determine quality policies, objectives, and responsibilities so that the project will satisfy the needs for which it was undertaken."
+      },
+      {
+        "Name": "Project resource management",
+        "Description": "The processes that organize, manage, and lead the project team."
+      },
+      {
+        "Name": "Project risk management",
+        "Description": "The processes of conducting risk management planning, identification, analysis, response planning, and monitoring and control on a project."
+      },
+      {
+        "Name": "Project schedule management",
+        "Description": "The processes required to manage the timely completion of the project."
+      },
+      {
+        "Name": "Project scope management",
+        "Description": "The processes involved in defining and controlling what is or is not included in the project."
+      },
+      {
+        "Name": "Project scope statement",
+        "Description": "A detailed description of the project scope, major deliverables, assumptions, and constraints. It is used as a basis for future project decisions."
+      },
+      {
+        "Name": "Project stakeholder management",
+        "Description": "The processes required to identify the people, groups, or organizations that could impact or be impacted by the project, to analyze stakeholder expectations and their impact on the project, and to develop appropriate management strategies for effectively engaging stakeholders in project decisions and execution."
+      },
+      {
+        "Name": "Project team",
+        "Description": "A set of individuals who support the project manager in performing the work of the project to achieve its objectives."
+      },
+      {
+        "Name": "Project team assignments",
+        "Description": "The process of identifying and documenting project roles, responsibilities, required skills, reporting relationships, and creating a staffing management plan."
+      },
+      {
+        "Name": "Project team development",
+        "Description": "The process of improving competencies, team member interaction, and overall team environment to enhance project performance."
+      },
+      {
+        "Name": "Project time management",
+        "Description": "The processes required to manage the timely completion of the project."
+      },
+      {
+        "Name": "Quality control measurements",
+        "Description": "The results of control quality activities that evaluate the quality of deliverables and processes against quality standards."
+      },
+      {
+        "Name": "Quality metrics",
+        "Description": "A description of a project or product attribute and how the Control Quality process will verify compliance to it."
+      },
+      {
+        "Name": "Quality management plan",
+        "Description": "A component of the project management plan that describes how an organization's quality policies will be implemented. It includes quality standards, quality assurance activities, quality control activities, and roles and responsibilities for managing quality."
+      },
+      {
+        "Name": "Quality management system (QMS)",
+        "Description": "A collection of processes, procedures, and policies for managing and controlling an organization's quality practices."
+      },
+      {
+        "Name": "Quantitative risk analysis",
+        "Description": "The process of numerically analyzing the effect of identified risks on overall project objectives. It is performed on individual project risks as well as on overall project risk."
+      },
+      {
+        "Name": "RACI chart",
+        "Description": "A type of responsibility assignment matrix (RAM) that defines roles and responsibilities for each task or deliverable in a project. RACI stands for Responsible, Accountable, Consulted, and Informed."
+      },
+      {
+        "Name": "Ramifications analysis",
+        "Description": "An analysis technique used to evaluate the potential consequences or impacts of a decision or action on a project."
+      },
+      {
+        "Name": "Rate of performance",
+        "Description": "The rate at which work is performed, often used in earned value management to assess project performance."
+      },
+      {
+        "Name": "Requirements documentation",
+        "Description": "A detailed description of the requirements for the project, including functional and non-functional requirements, constraints, and acceptance criteria."
+      },
+      {
+        "Name": "Requirements management plan",
+        "Description": "A component of the project management plan that describes how requirements will be analyzed, documented, and managed throughout the project."
+      },
+      {
+        "Name": "Requirements traceability matrix",
+        "Description": "A grid that links product requirements from their origin to the deliverables that satisfy them. It is used to ensure that all requirements are met and to manage changes to requirements."
+      },
+      {
+        "Name": "Resource breakdown structure (RBS)",
+        "Description": "A hierarchical representation of resources by category and type, used to facilitate resource planning and management."
+      },
+      {
+        "Name": "Resource calendar",
+        "Description": "A calendar that identifies the working days and shifts on which each specific resource is available."
+      },
+      {
+        "Name": "Resource leveling",
+        "Description": "A technique used to resolve resource conflicts by adjusting the start and finish dates of tasks based on resource availability."
+      },
+      {
+        "Name": "Resource management plan",
+        "Description": "A component of the project management plan that describes how resources will be acquired, allocated, managed, and controlled throughout the project."
+      },
+      {
+        "Name": "Resource optimization techniques",
+        "Description": "Techniques used to optimize resource usage in a project, such as resource leveling or resource smoothing."
+      },
+      {
+        "Name": "Resource smoothing",
+        "Description": "A technique used to adjust the activities of a schedule model such that the requirement for resources on the project does not exceed certain predefined limits."
+      },
+      {
+        "Name": "Responsibility assignment matrix (RAM)",
+        "Description": "A grid that shows the relationship between work packages or activities and project team members. It clarifies roles and responsibilities for each task or deliverable."
+      },
+      {
+        "Name": "Risk appetite",
+        "Description": "The degree of uncertainty an organization is willing to accept in pursuit of its objectives."
+      },
+      {
+        "Name": "Risk avoidance",
+        "Description": "A risk response strategy that involves eliminating a threat or protecting the project objectives from its impact."
+      },
+      {
+        "Name": "Risk breakdown structure (RBS)",
+        "Description": "A hierarchical representation of risks by category, used to facilitate risk identification and analysis."
+      },
+      {
+        "Name": "Risk categorization",
+        "Description": "The process of grouping risks based on common characteristics, such as source, impact, or timing."
+      },
+      {
+        "Name": "Risk control",
+        "Description": "The process of monitoring identified risks, identifying new risks, and evaluating risk process effectiveness throughout the project."
+      },
+      {
+        "Name": "Risk data quality assessment",
+        "Description": "An evaluation of the degree to which the data about risks is accurate, reliable, and relevant."
+      },
+      {
+        "Name": "Risk management plan",
+        "Description": "A component of the project management plan that describes how risk management activities will be structured and performed throughout the project."
+      },
+      {
+        "Name": "Risk mitigation",
+        "Description": "A risk response strategy that involves reducing the probability or impact of a risk to an acceptable level."
+      },
+      {
+        "Name": "Risk monitoring and control",
+        "Description": "The process of tracking identified risks, monitoring residual risks, identifying new risks, and evaluating risk process effectiveness throughout the project."
+      },
+      {
+        "Name": "Risk owner",
+        "Description": "The person assigned to manage a specific risk and ensure that appropriate responses are implemented."
+      },
+      {
+        "Name": "Risk register",
+        "Description": "A document that contains the results of risk analysis and risk response planning. It includes information on identified risks, their characteristics, and planned responses."
+      },
+      {
+        "Name": "Risk response planning",
+        "Description": "The process of developing options and actions to enhance opportunities and reduce threats to project objectives."
+      },
+      {
+        "Name": "Risk response strategies",
+        "Description": "Strategies for addressing risks, including avoidance, mitigation, transfer, acceptance, or exploitation."
+      },
+      {
+        "Name": "Root cause analysis",
+        "Description": "A technique used to identify the underlying causes of problems or issues in a project."
+      },
+      {
+        "Name": "Schedule baseline",
+        "Description": "The approved version of the project schedule, which includes planned start and finish dates for project activities. It is used as a basis for comparison to actual performance."
+      },
+      {
+        "Name": "Schedule compression",
+        "Description": "Techniques used to shorten the project schedule without changing the project scope, such as crashing or fast tracking."
+      },
+      {
+        "Name": "Schedule management plan",
+        "Description": "A component of the project management plan that describes how the project schedule will be developed, monitored, and controlled."
+      },
+      {
+        "Name": "Schedule network analysis",
+        "Description": "The process of analyzing the sequence of activities in a project schedule to determine the critical path and overall project duration."
+      },
+      {
+        "Name": "Scope baseline",
+        "Description": "The approved version of the project scope statement, work breakdown structure (WBS), and WBS dictionary. It is used as a basis for comparison to actual performance."
+      },
+      {
+        "Name": "Scope change control",
+        "Description": "The process of managing changes to the project scope, including evaluating, approving, and documenting changes."
+      },
+      {
+        "Name": "Scope creep",
+        "Description": "The uncontrolled expansion of product or project scope without adjustments to time, cost, and resources."
+      },
+      {
+        "Name": "Scope management plan",
+        "Description": "A component of the project management plan that describes how the project scope will be defined, validated, and controlled."
+      },
+      {
+        "Name": "Scope statement",
+        "Description": "A detailed description of the project scope, including deliverables, boundaries, assumptions, and constraints."
+      },
+      {
+        "Name": "Secondary risk",
+        "Description": "A risk that arises as a direct result of implementing a risk response."
+      },
+      {
+        "Name": "Sensitivity analysis",
+        "Description": "A technique used to determine how different values of an independent variable affect a particular dependent variable under a given set of assumptions."
+      },
+      {
+        "Name": "Service level agreement (SLA)",
+        "Description": "A formal agreement between a service provider and a customer that defines the level of service expected from the service provider."
+      },
+      {
+        "Name": "Simulation",
+        "Description": "A technique used to model the operation of a system or process over time to evaluate its performance under various conditions."
+      },
+      {
+        "Name": "Single source selection",
+        "Description": "A procurement method where a single supplier is selected to provide goods or services based on specific criteria, often used when only one supplier can meet the requirements."
+      },
+      {
+        "Name": "Skills assessment",
+        "Description": "The process of evaluating the skills and competencies of project team members to ensure they are suitable for their roles."
+      },
+      {
+        "Name": "Soft skills",
+        "Description": "Interpersonal skills that enable effective communication, teamwork, and conflict resolution in a project environment."
+      },
+      {
+        "Name": "Stakeholder analysis",
+        "Description": "The process of identifying and analyzing stakeholders to understand their interests, influence, and impact on the project."
+      },
+      {
+        "Name": "Stakeholder engagement",
+        "Description": "The process of managing relationships with stakeholders to ensure their needs and expectations are met throughout the project."
+      },
+      {
+        "Name": "Stakeholder engagement plan",
+        "Description": "A component of the project management plan that describes how stakeholders will be engaged throughout the project."
+      },
+      {
+        "Name": "Stakeholder register",
+        "Description": "A document that contains information about project stakeholders, including their interests, influence, and communication needs."
+      },
+      {
+        "Name": "Standard deviation (SD)",
+        "Description": "A measure of the amount of variation or dispersion in a set of values, often used in risk analysis."
+      },
+      {
+        "Name": "Start-to-finish (SF) dependency",
+        "Description": "A type of dependency where a successor activity cannot finish until a predecessor activity starts."
+      },
+      {
+        "Name": "Start-to-start (SS) dependency",
+        "Description": "A type of dependency where a successor activity cannot start until a predecessor activity starts."
+      },
+      {
+        "Name": "Statement of work (SOW)",
+        "Description": "A document that describes the work required for a project or contract, including deliverables, timelines, and performance criteria."
+      },
+      {
+        "Name": "Strategic alignment",
+        "Description": "The process of ensuring that a project aligns with the organization's strategic goals and objectives."
+      },
+      {
+        "Name": "Strengths, weaknesses, opportunities, threats (SWOT) analysis",
+        "Description": "A technique used to identify internal strengths and weaknesses, as well as external opportunities and threats related to a project or organization."
+      },
+      {
+        "Name": "Subcontracting",
+        "Description": "The practice of hiring another company or individual to perform part of the work required for a project."
+      },
+      {
+        "Name": "Supplier selection criteria",
+        "Description": "The criteria used to evaluate and select suppliers for a project, including quality, cost, delivery, and service."
+      },
+      {
+        "Name": "Sunk cost",
+        "Description": "A cost that has already been incurred and cannot be recovered, often considered in decision-making processes."
+      },
+      {
+        "Name": "Surveys",
+        "Description": "A data collection method used to gather information from stakeholders or customers about their needs, preferences, or satisfaction."
+      },
+      {
+        "Name": "SWOT analysis",
+        "Description": "A technique used to identify internal strengths and weaknesses, as well as external opportunities and threats related to a project or organization."
+      },
+      {
+        "Name": "Task list",
+        "Description": "A list of tasks or activities required to complete a project or achieve specific objectives."
+      },
+      {
+        "Name": "Team building activities",
+        "Description": "Activities designed to improve team cohesion, communication, and collaboration among project team members."
+      },
+      {
+        "Name": "Team performance assessment",
+        "Description": "The process of evaluating the performance of a project team against established criteria or benchmarks."
+      },
+      {
+        "Name": "Technical performance measurement (TPM)",
+        "Description": "A method of measuring the technical performance of a project against established standards or requirements."
+      },
+      {
+        "Name": "Time and cost estimates",
+        "Description": "Estimates of the time and cost required to complete project activities or deliverables."
+      },
+      {
+        "Name": "Total float (TF)",
+        "Description": "The amount of time that a task can be delayed without affecting the project's overall schedule."
+      },
+      {
+        "Name": "Trend analysis",
+        "Description": "A technique used to analyze historical data to identify patterns or trends that can inform future project decisions."
+      },
+      {
+        "Name": "Triple constraint",
+        "Description": "The three primary constraints in project management: scope, time, and cost. Changes to one constraint will affect the others."
+      },
+      {
+        "Name": "Two-point estimating",
+        "Description": "A technique used to estimate the duration or cost of an activity based on optimistic and pessimistic estimates."
+      },
+      {
+        "Name": "Variance analysis",
+        "Description": "A technique used to compare actual project performance against planned performance to identify variances and their causes."
+      },
+      {
+        "Name": "Vendor management",
+        "Description": "The process of managing relationships with vendors or suppliers to ensure they meet project requirements and deliverables."
+      },
+      {
+        "Name": "Virtual teams",
+        "Description": "Teams that work together remotely, often using technology to communicate and collaborate."
+      },
+      {
+        "Name": "Work authorization system",
+        "Description": "A system that defines how project work is authorized and controlled, ensuring that work is performed according to established procedures."
+      },
+      {
+        "Name": "Work breakdown structure (WBS)",
+        "Description": "A hierarchical decomposition of the total scope of work to accomplish the project objectives and create the deliverables."
+      },
+      {
+        "Name": "Work package",
+        "Description": "A group of related tasks within a project that can be assigned to a specific team member or group for execution."
+      },
+      {
+        "Name": "Work performance data",
+        "Description": "Raw observations and measurements identified during activities being performed to carry out the project work."
+      },
+      {
+        "Name": "Work performance information",
+        "Description": "Performance data collected from various controlling processes, analyzed in context and integrated based on relationships across areas."
+      },
+      {
+        "Name": "Work performance reports",
+        "Description": "Physical or electronic representation of work performance information compiled in project documents, intended to generate decisions, actions, or awareness."
+      },
+      {
+        "Name": "Workaround",
+        "Description": "An unplanned response to a risk that has occurred, used to mitigate the impact of the risk on the project."
+      },
+      {
+        "Name": "Workload analysis",
+        "Description": "The process of assessing the distribution of work among project team members to ensure balanced workloads and resource allocation."
+      },
+      {
+        "Name": "Workstream",
+        "Description": "A sequence of activities or tasks that are part of a larger project or program, often used to manage complex projects with multiple components."
+      },
+      {
+        "Name": "Zero float",
+        "Description": "A condition where a task has no flexibility in its schedule; any delay in the task will directly impact the project's overall timeline."
+      },
+      {
+        "Name": "Zero-sum game",
+        "Description": "A situation in which one party's gain is exactly balanced by another party's loss, often used in negotiation contexts."
       }
     ]
   }
