@@ -1,0 +1,222 @@
+integration - 7
+project charter | develop project management plan | direct and manage project work, manage project knowledge |
+monitor and control prject work, perform integration change control | close the project.
+
+scope - 6
+- | plan scope management, collect requirement, create scope, create wbs | - | validate scope, control scope | - 
+
+schedule - 6
+- | plan schedule management, define activities, sequence activities, estimate activity duration, develop schedule | - |  control schedule | - 
+
+cost - 4
+- | plan cost management, estimate cost, determine budget | - | control cost | - 
+
+quality - 3
+- | plan quality management | manage quality  | Control Quality | - 
+
+Resource - 6
+- | plan resource management, estimate activity resources | aquire resource , develop team, manage team | control resource | - 
+
+communication - 3
+- | plan communication management | manage communication | control communication | - 
+
+risk - 7
+- | plan risk management, identify risk, perform quantitative risk analysis, perform qualitative risk analysis, plan risk response| implement risk responses | monitor risks  | - 
+
+procurement - 3
+- | plan procurement management | conduct procurement | control procurement  | - 
+
+stakeholder - 4
+identify stakeholder | plan stakeholder engagement| manage stakeholder engagement| monitor stakeholder engagement | -
+-----------------------------------------------------------------------------------
+
+project charter -- develop project management plan -- direct and manage project work, manage project document -- monitor and control project work, perform integration change management -- close project
+
+ -- scope management plan , collect reqirement , create scope, create wbs (scope base line) -- -- validate scope, control scope -- 
+ -- schedule management plan, define activities, sequence activities, estimate activity duration, develop schedule (schedule baseline) -- -- control schedule -- 
+ -- cost management plan, estimate cost, determine budget (cost baseline)  -- -- control scope -- 
+ 
+ 
+  -- resource management plan, estimate activity resources -- aquire team, develop team, manage team -- control resources -- 
+ -- risk management plan, identify risk, perform quantitative risk analysis, perform qualitative risk analysis, plan risk responses -- implement risk response -- monitor risk -- 
+ 
+ 
+ -- quality management plan -- manage quality -- control quality -- 
+ -- communication management plan -- manage communication -- control communication -- 
+ -- stakeholder management plan -- manage stakeholder engagement -- control stakeholder engagement --  
+ -- procurement management plan -- conduct procurement -- control procurement 
+ ----------------------------------------------------------------------------------
+ 
+ 1.1. project management plan 
+	input - project charter 
+	outputs - [all plans + change, configuration] + base lines (cost, schedule, scope, performance) , pro lifecycle + dev approach
+	Only changed when a change request is generated and approved by the change control board. 
+	
+ 1.2. direct and manage project work
+	input - approved change requests outputs - deliverable, work performance data
+
+ 1.3. manage project document
+	explicit knowledge - documented 
+	tactic knowledge - inside employees head 
+	input - deliverables  output - Lessons Learned Register
+
+ 1.4. monitor and control project work 
+	identifies any areas in which changes to the plan are required, and initiates the corresponding changes
+	input - Work Performance Information output - work performance report
+ 
+ 1.5. perform integration change control 
+    CCB will review the changes and authority to manage the change. 
+	input - Risk Report,Work Performance Reports, Change Requests output - Approved Change Requests
+	
+ 1.6. close project
+	formal acceptance of deliverables by the customer, if prematurely closed log reasons, Audit project success or failure, Reassigning personnel
+	input - Accepted Deliverables output - Final Product, Services, or Result Transition, Final Report
+
+ 2.1 plan scope management
+	 Prevent Gold Plating, which is doing extra work not in the scope.
+	 Prevent Scope creep, which are unauthorized work added to the scope. 
+	 input - project charter output - Scope Management Plan 
+	 
+ 2.2. collect requirements 		
+	  input -  data gathering, analysis, etc 	  output - Requirements Documentation , Requirements Traceability Matrix
+ 
+ 2.3 define scope 
+	 A detailed project scope statement
+	 output - Project Scope Statement
+	 
+ 2.4. create wbs
+	 t & t - decomposition output - Scope Baseline (3Components)  Project Scope Statement WBS  WBS Dictionary  
+	 
+ 2.5. control scope
+	When changes are made and approved, the project baselines will need to be adjusted to reflect these changes. diret adding refer to scope creep. 
+	input - work performance data output - work performance report, change requests
+
+ 3.1 plan schedule management
+		output - Schedule Management Plan
+		
+ 3.2. define activities
+      output - Project Management Plan Updates,  Activity List, Activity Attributes, Milestone List, Change Requests
+	  
+ 3.3. sequence activities
+     t & t - Precedence Diagramming Method,  Dependency Determination and Integration,  Leads and Lags  
+	 output - Project Schedule Network Diagrams
+	 
+ 3.4 estimate activity duration 
+	t&t - Analogous Estimating - (top-down), Parametric Estimating, Three-Point Estimates, Bottom-Up Estimating ( very detailed ) 
+		 Three Point Estimate -  (O+P+4M)/6.  If the Optimistic is 8 days, Pessimistic is 14 days, and Most likely is 10 days, Pert is 10.333.
+		 Standard Deviation (P-O)/6 Triangle Distribution
+		 The Triangle Distribution formula is (O+R+P)/3
+	output - Duration Estimates, Basis of Estimates
+
+ 3.5 develop schedule
+	 t&t - Schedule Network Analysis,Critical Path Method, Resource Optimization, 
+	Schedule Compression -  Crashing(Adding resources to a project activity)  Fast Tracking( Activates performed in parallel)
+	 output - Schedule Baseline,Project Schedule,Schedule Data,Project Calendars, Data Analysis - What If Scenarios (Monte Carlo)
+	 
+ 3.6 control schedule	
+	 t&t - Critical Path Method, Project Management Information System, Resource Optimization,Leads and Lags,Schedule Compression
+	 output - Work Performance Information, Schedule Forecasts, Change Requests
+
+  4.1 cost management plan
+		output - cost management plan 
+		
+  4.2 estimate cost
+   t&t - Analogous Estimating, Parametric Estimating, Bottom-up Estimating,Three-Point Estimating
+   output - Cost Estimates, Basis of Estimates 
+   
+  4.3 determine budget
+   t&t - Cost Aggregation,Data Analysis, Historical Information Review, Funding Limit Reconciliation, Financing
+   output - Cost Baseline, Project Funding Requirements
+  
+  4.4. control costs
+	t&t - To-Complete Performance Index, data analysis - ev, sv,cv, ac, spi, cpi, tcpi 
+	output - Cost Forecasts, Work Performance Information, Change Requests
+	
+  5.1. quality management plan
+  
+  5.2. manage quality
+	t&t - design of x , quality imporovemetn methods
+	output - quality reports 
+
+  5.3 control quality
+	
+	
+  6.1. resource management plan
+ 
+  6.2. estimate activities resource
+	 t&t - Bottom-up Estimating, Analogous Estimating, Parametric Estimating
+	 output - basis of estimates 
+	 
+  6.3. aquire resources
+   output - Physical Resource Assignments, Project Team Assignments, Resource Calendars, Change Requests
+  
+  6.4. develop team
+	Tuckman’s Ladder, (Five Stages)
+		 Forming  People getting to know one another
+		 Storming Speaking about issues on the project
+		 Norming  Coming to a solution to issues
+		 Performing Doing the work
+		 Adjourning Team is release 
+	t&t - Recognition and Rewards, Individual and Team Assessments
+	output - Team Performance Assessments
+
+  
+  
+  6.5. manage team
+	t&t - Interpersonal and Team Skills
+	output - change request
+	
+	Problem Solving (confronting) Let’s put our heads together, study the problem and find the best solution. 	Win-Win
+	Forcing Bob’s got priority here, so we’ll go with his opinion on the solution. 	Win-Lose
+	Compromising Let’s take a little of both sides of the arguments and create a mixed solution.  	Lose-Lose
+	Smoothing It’s really not that big of a problem. Can be considered a Lose-Lose
+	Withdrawal I’m leaving. Do whatever solution works. The conflict is not resolved and it is considered a Yield-Lose solution
+  
+  6.6. control team
+  
+  
+  7.1 communication management plan
+  
+  7.2. manage communication
+  
+  7.3. control communication
+  
+  
+  8.1 risk management plan
+  
+  8.2. identify risk
+  
+  8.3 perform qualitative risk  analysis,
+  
+  8.4 perform quantitative risk analysis
+  
+  8.5. develop risk response
+  
+  8.6. implement  risk response
+  
+  8.7 monitor risk response
+  
+  
+  9.1 procurement management plan
+  
+  9.2 conduct procurement
+  
+  9.3 monitor procurement
+  
+  
+  10.1 stakeholder management plan
+  
+  10.2 manage stakeholder engagement
+  
+  10.3 control stakeholder engagement
+  
+
+   
+   
+
+	
+	 
+	 
+	 
+	 
+	 
