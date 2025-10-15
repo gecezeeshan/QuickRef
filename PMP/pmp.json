@@ -138,27 +138,7 @@
         "Output": [
           "Project Management Plan"
         ]
-      },
-      {
-        "Name": "Develop Project Management Plan",
-        "ProcessGroup": "Planning",
-        "KnowledgeArea": "Integration Management",
-        "Input": [
-          "Project Charter",
-          "Outputs from other Processes",
-          "Enterprise Environmental Factors",
-          "Organizational Process Assets"
-        ],
-        "Tool Techniques": [
-          "Expert Judgment",
-          "Data Gathering",
-          "Interpersonal and Team Skills",
-          "Meetings"
-        ],
-        "Output": [
-          "Project Management Plan"
-        ]
-      },
+      },    
       {
         "Name": "Plan Scope Management",
         "ProcessGroup": "Planning",
@@ -371,33 +351,121 @@
         ]
       },
       {
-        "Name": "Validate Scope",
+        "Name": "Plan Cost Management",
         "ProcessGroup": "Planning",
-        "KnowledgeArea": "Scope Management",
+        "KnowledgeArea": "Cost Management",
         "Input": [
-          "$$ TBD$$ Project Charter$$ Project Management Plan$$ Project Documents$$ Enterprise Environmental Factors$$ Organizational Process Assets"
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
         ],
         "Tool Techniques": [
-          "$$ Expert Judgment$$ Data Analysis$$ Decision Making$$ Interpersonal and Team Skills$$ Product Analysis"
+          "Expert Judgment",
+          "Data Analysis",
+          "Decision Making",
+          "Meetings"
         ],
         "Output": [
-          "$$ Project Scope Statement$$ Project Documents Updates"
+          "Cost Management Plan"
         ]
       },
       {
-        "Name": "Control Scope",
+        "Name": "Estimate Costs",
         "ProcessGroup": "Planning",
-        "KnowledgeArea": "Scope Management",
+        "KnowledgeArea": "Cost Management",
         "Input": [
-          "$$ TBD$$ Project Charter$$ Project Management Plan$$ Project Documents$$ Enterprise Environmental Factors$$ Organizational Process Assets"
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
         ],
         "Tool Techniques": [
-          "$$ Expert Judgment$$ Data Analysis$$ Decision Making$$ Interpersonal and Team Skills$$ Product Analysis"
+          "Expert Judgment",
+          "Analogous Estimating",
+          "Parametric Estimating",
+          "Bottom-Up Estimating",
+          "Three-Point Estimating",
+          "Data Analysis",
+          "Decision Making",
+          "Meetings"
         ],
         "Output": [
-          "$$ Project Scope Statement$$ Project Documents Updates"
+          "Cost Estimates",
+          "Basis of Estimates",
+          "Project Documents Updates"
         ]
       },
+      {
+        "Name": "Determine Budget",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Cost Management",
+        "Input": [
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Cost Aggregation",
+          "Data Analysis",
+          "Historical Information Review",
+          "Funding Limit Reconciliation"
+        ],
+        "Output": [
+          "Cost Baseline",
+          "Project Funding Requirements",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Plan Quality Management",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Quality Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Gathering",
+          "Data Analysis",
+          "Decision Making",
+          "Data Representation"
+        ],
+        "Output": [
+          "Quality Management Plan",
+          "Process Improvement Plan",
+          "Project Documents Updates"
+        ]
+      },
+      {
+        "Name": "Plan Resource Management",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Resource Management",
+        "Input": [
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Representation",
+          "Organizational Theory"
+        ],
+        "Output": [
+          "Resource Management Plan",
+          "Project Documents Updates"
+        ]
+      },
+      
       {
         "Name": "Plan Schedule Management",
         "ProcessGroup": "Planning",
@@ -519,11 +587,34 @@
         ]
       },
       {
+        "Name": "Develop Schedule",
+        "ProcessGroup": "Planning",
+        "KnowledgeArea": "Schedule Management",
+        "Input": [
+          "TBD",
+          "Project Charter",
+          "Project Management Plan",
+          "Project Documents",
+          "Enterprise Environmental Factors",
+          "Organizational Process Assets"
+        ],
+        "Tool Techniques": [
+          "Expert Judgment",
+          "Data Analysis",
+          "Decision Making",
+          "Interpersonal and Team Skills",
+          "Product Analysis"
+        ],
+        "Output": [
+          "Project Scope Statement",
+          "Project Documents Updates"
+        ]
+      },
+      {
         "Name": "Plan Cost Management",
         "ProcessGroup": "Planning",
         "KnowledgeArea": "Cost Management",
         "Input": [
-          "TBD",
           "Project Charter",
           "Project Management Plan",
           "Project Documents",
