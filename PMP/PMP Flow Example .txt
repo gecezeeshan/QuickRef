@@ -1,0 +1,184 @@
+Project: Painting a Wall
+
+--- Initiating ---
+1. Develop Project Charter
+   - Project Charter: Authorize painting project, budget approval, objectives (paint wall with two coats, finish in 2 days)
+   - Assumption Log: Wall is clean, paint available, no major repairs needed
+
+2. Identify Stakeholders
+   - Stakeholder Register: Homeowner, Painter, Supplier, Neighbors
+   - Stakeholder Engagement Assessment Matrix: Influence vs Interest (e.g., homeowner high interest/high influence)
+
+--- Planning ---
+3. Develop Project Management Plan
+   - Project Management Plan: Overall plan for wall painting including scope, schedule, budget, quality, risk, resources
+
+4. Plan Scope Management
+   - Scope Management Plan: Defines boundaries of painting project (only living room wall)
+   - Requirements Management Plan: How requirements (color, finish, coats) will be managed
+
+5. Collect Requirements
+   - Requirements Documentation: Wall color, type of paint, number of coats, finish style
+   - Requirements Traceability Matrix: Links color choice to homeowner approval
+
+6. Define Scope
+   - Project Scope Statement: Paint one wall, 2 coats, smooth finish, including prep and cleanup
+
+7. Create WBS
+   - WBS: Prep wall, tape edges, apply primer, paint first coat, paint second coat, cleanup
+   - WBS Dictionary: Details for each WBS item (duration, resources needed)
+
+8. Plan Schedule Management
+   - Schedule Management Plan: Defines how schedule will be created and controlled
+
+9. Define Activities
+   - Activity List: List all painting steps
+   - Milestone List: Primer done, first coat done, second coat done
+   - Activity Attributes: Duration, resources, dependencies
+
+10. Sequence Activities
+    - Project Schedule Network Diagram: Show sequence (prep → primer → first coat → second coat → cleanup)
+
+11. Estimate Activity Durations
+    - Activity Duration Estimates: Prep 2 hrs, primer 1 hr, each coat 2 hrs, cleanup 1 hr
+    - Basis of Estimates: Painter experience, wall size
+
+12. Develop Schedule
+    - Project Schedule: Timeline of tasks with start/end times
+    - Schedule Baseline
+    - Schedule Data
+
+13. Plan Cost Management
+    - Cost Management Plan: How painting cost will be tracked
+
+14. Estimate Costs
+    - Activity Cost Estimates: Paint $50, tape $5, painter labor $100
+    - Basis of Estimates: Supplier quotes, painter rates
+
+15. Determine Budget
+    - Cost Baseline: Total $155
+    - Project Funding Requirements
+
+16. Plan Quality Management
+    - Quality Management Plan: Define smoothness, number of coats, no streaks
+    - Quality Metrics: Even coverage, no drips, complete edges
+    - Checklists: Wall prep checklist, paint application checklist
+
+17. Plan Resource Management
+    - Resource Management Plan: Painter, paint, brush, roller, tape
+    - Roles & Responsibilities: Painter applies paint, homeowner approves
+    - Resource Breakdown Structure: Labor, materials, tools
+
+18. Plan Communications Management
+    - Communications Management Plan: Update homeowner after primer and each coat
+
+19. Plan Risk Management
+    - Risk Management Plan: Identify risk tracking process
+
+20. Identify Risks
+    - Risk Register: Paint spill, wall damage, delayed drying
+
+21. Perform Qualitative Risk Analysis
+    - Updated Risk Register, Risk Categorization (high, medium, low)
+
+22. Perform Quantitative Risk Analysis
+    - Probabilistic analysis: Chance of drying delay 20%
+
+23. Plan Risk Responses
+    - Risk Response Plan: Keep rags ready, schedule buffer for drying
+
+24. Plan Procurement Management
+    - Procurement Management Plan: How paint, brushes, and tape will be purchased
+    - Procurement Strategy, Bid Documents if hiring painter
+
+25. Plan Stakeholder Engagement
+    - Stakeholder Engagement Plan: Homeowner informed at each milestone, neighbors notified
+
+--- Executing ---
+26. Direct and Manage Project Work
+    - Deliverables: Painted wall (work in progress)
+    - Work Performance Data: Hours worked, paint used
+    - Issue Log: Unexpected wall cracks
+    - Change Requests: Add extra coat if needed
+
+27. Manage Project Knowledge
+    - Lessons Learned Register: Prep technique that works best
+
+28. Manage Quality
+    - Quality Reports: Coverage even, edges neat
+    - Verified Deliverables: Confirmed primer coverage
+
+29. Acquire Resources
+    - Physical Resource Assignments: Painter, paint, tape
+    - Team Assignments: Painter assigned to task
+    - Resource Calendars: Painter availability
+
+30. Develop Team
+    - Team Performance Assessments: Painter efficiency
+
+31. Manage Team
+    - Issue Log Updates: Painter late 10 mins
+    - Change Requests: Adjust schedule
+
+32. Manage Communications
+    - Project Communications: Notify homeowner at milestones
+    - Performance Reports
+
+33. Implement Risk Responses
+    - Risk Register Updates: Spill avoided
+    - Change Requests if drying delay
+
+34. Conduct Procurements
+    - Selected Sellers: Buy paint, tape, brushes
+    - Agreements/Contracts: Painter hired
+
+35. Manage Stakeholder Engagement
+    - Stakeholder Engagement Updates: Homeowner satisfied with primer
+
+--- Monitoring & Controlling ---
+36. Monitor and Control Project Work
+    - Work Performance Reports: Actual vs planned duration
+    - Change Requests
+
+37. Perform Integrated Change Control
+    - Approved Change Requests: Add second coat earlier
+    - Change Log
+
+38. Validate Scope
+    - Accepted Deliverables: Homeowner approves primer and first coat
+
+39. Control Scope
+    - Work Performance Information: Verify no extra walls painted
+    - Change Requests
+
+40. Control Schedule
+    - Schedule Forecasts: Second coat delayed by 1 hr
+
+41. Control Costs
+    - Cost Forecasts: Paint + labor within $155
+
+42. Control Quality
+    - Quality Control Measurements: Check coverage and edges
+
+43. Control Resources
+    - Resource Utilization Updates: Painter working 2 hrs per coat
+
+44. Monitor Communications
+    - Work Performance Information: Confirm homeowner notified
+
+45. Monitor Risks
+    - Risk Register Updates: Drying time monitored
+
+46. Control Procurements
+    - Contract Change Requests: Extra brush added
+
+47. Monitor Stakeholder Engagement
+    - Updates to Stakeholder Engagement Plan: Keep homeowner informed
+
+--- Closing ---
+48. Close Project or Phase
+    - Final Product/Service/Result Transition: Painted wall handed over
+    - Final Report: Document completion, lessons learned
+    - Lessons Learned Register: Best prep and painting techniques
+    - Project Document Updates: Update Risk Register, Issue Log
+    - Organizational Process Assets Updates: Templates for future painting projects
