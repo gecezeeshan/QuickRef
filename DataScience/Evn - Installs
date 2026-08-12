@@ -1,0 +1,29 @@
+create new env
+conda create -n ml_prac python=3.10
+
+conda activate nlp_prac
+conda deactivate 
+conda env list
+
+conda install numpy pandas scikit-learn matplotlib
+pip install tensorflow transformers torch
+
+
+conda = python + system libraries + environment manager
+pip = python-only package installer
+For machine learning, data science, and GPU frameworks → use conda.
+For web frameworks and utilities → use pip.
+
+
+Best Practice (Remember this Rule 👍)
+Use conda to install heavy scientific libraries.
+Use pip for pure Python or small libraries.
+
+Examples:
+✅ Good (recommended):
+conda install numpy pandas matplotlib scikit-learn pytorch tensorflow
+pip install flask fastapi transformers nltk beautifulsoup4
+
+
+❌ Not recommended:
+pip install numpy scipy torch tensorflow (may cause dependency hell)

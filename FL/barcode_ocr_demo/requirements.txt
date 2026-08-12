@@ -1,0 +1,11 @@
+opencv-python
+pillow
+numpy
+pandas
+pyzbar
+easyocr
+pytesseract
+python-barcode
+fastapi
+uvicorn
+imutils

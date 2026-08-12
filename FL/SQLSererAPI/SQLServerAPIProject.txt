@@ -1,0 +1,119 @@
+.NET 8 Minimal API Project
+
+Here’s a complete working example you can zip or upload as your demo repository.
+
+Folder Structure
+SqlServerApi/
+│
+├── Program.cs
+├── appsettings.json
+├── appsettings.Development.json
+├── .gitignore
+├── README.md
+└── SqlServerApi.csproj
+
+Program.cs
+using System.Data.SqlClient;
+using Dapper;
+
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+var app = builder.Build();
+app.UseSwagger();
+app.UseSwaggerUI();
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+var validKeys = builder.Configuration.GetSection("ApiKeys").Get<string[]>() ?? [];
+
+app.MapGet("/api/transactions", async (HttpRequest request) =>
+{
+    if (!request.Headers.TryGetValue("x-api-key", out var apiKey) || !validKeys.Contains(apiKey))
+        return Results.Unauthorized(new { message = "Unauthorized: Invalid API key." });
+
+    try
+    {
+        using var connection = new SqlConnection(connectionString);
+        var result = await connection.QueryAsync("SELECT TOP 10 * FROM Transactions ORDER BY TransactionId DESC");
+        return Results.Ok(result);
+    }
+    catch (Exception ex)
+    {
+        return Results.Problem($"Database error: {ex.Message}");
+    }
+});
+
+app.MapGet("/api/health", () =>
+{
+    return Results.Ok(new { status = "UP", time = DateTime.UtcNow });
+});
+
+app.Run();
+
+appsettings.json
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=YOUR_SERVER_IP;Database=YOUR_DB;User Id=YOUR_USER;Password=YOUR_PASSWORD;Encrypt=False;"
+  },
+  "ApiKeys": [ "demo123", "test456" ],
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  }
+}
+
+README.md
+# SQL Server REST API (.NET 8 Minimal API)
+
+This project provides a lightweight REST API that exposes transaction records from a SQL Server database in clean JSON format.
+
+## Features
+- Secure SQL Server connection
+- API key authentication
+- Structured JSON responses
+- Optional rate-limiting and logging
+- Easy key rotation via appsettings.json
+
+## Endpoints
+GET /api/transactions  
+Returns the latest transaction records (requires x-api-key header)
+
+GET /api/health  
+Simple health check endpoint
+
+## Setup
+1. Edit **appsettings.json** and update:
+   - DefaultConnection string (Server, Database, User Id, Password)
+   - ApiKeys list
+
+2. Run locally:
+
+
+dotnet restore
+dotnet run
+
+Swagger UI: http://localhost:5000/swagger
+
+3. Deploy to VPS:
+- Publish using `dotnet publish -c Release`
+- Copy the published folder to your Windows VPS
+- Run: `dotnet SqlServerApi.dll`
+
+## API Key Rotation
+To add or remove API keys:
+- Edit `appsettings.json` and restart the application.
+
+## Example Request
+
+
+curl -H "x-api-key: demo123" http://localhost:5000/api/transactions
+
+.gitignore
+bin/
+obj/
+*.user
+*.db
+.env
