@@ -1,0 +1,94 @@
+Compute
+Steady load → EC2 + ASG
+Spiky / unpredictable → Lambda
+Containers → ECS / EKS
+Batch jobs → EC2 Spot / Batch
+
+🔹 Storage
+Static website → S3 + CloudFront
+Shared file system → EFS
+Block storage → EBS
+Archive → Glacier
+
+🔹 Databases
+Relational + transactions → RDS
+Serverless relational → Aurora Serverless
+Key-value / massive scale → DynamoDB
+Analytics → Redshift
+
+🔹 High Availability
+Always → Multi-AZ
+Disaster recovery → Cross-Region
+Static content → CloudFront
+
+🔹 Security
+Private access to AWS services → VPC Endpoint
+Cross-account access → IAM Role
+Secrets → Secrets Manager (not SSM Parameter for passwords)
+
+🔹 Cost
+Unused capacity → Spot
+Predictable workload → Reserved Instances
+Auto savings → Savings Plans
+
+
+EC2 - virtual servers (vms)
+ECS (Elastic Container Service) - AWS-managed container orchestration service.
+ASG (Auto Scaling Group) - Automatically adds/removes EC2 instances based on demand
+EKS (Elastic Kubernetes Service) AWS-managed Kubernetes.
+Spot Instances (EC2 Spot) Unused EC2 capacity at up to 90% discount.
+S3 (Simple Storage Service) Object storage for unlimited data.
+CloudFront Content Delivery Network (CDN).
+EFS (Elastic File System) Managed network file system.
+EBS (Elastic Block Store) Block storage for EC2.
+Glacier (S3 Glacier) Low-cost archival storage.
+RDS RDS (Relational Database Service).
+Aurora Serverless Auto-scaling serverless SQL database.
+DynamoDB Serverless NoSQL key-value store.
+Redshift Data warehouse for analytics. 
+Multi-AZ High availability deployment across AZs.
+VPC Endpoint - Private connection to AWS services without internet
+
+
+
+
+LAYER 1: CORE INFRASTRUCTURE (VERY HEAVY)
+1 Compute
+	EC2
+	EC2 instance types
+	Spot / On-Demand / Reserved
+	Auto Scaling Groups (ASG)
+	Launch templates
+	Elastic Load Balancer (ALB, NLB)
+Storage
+	S3 (all storage classes)
+	S3 Lifecycle policies
+	S3 Encryption
+	EBS
+	EFS
+	S3 Glacier
+	
+Databases
+	RDS (Single-AZ vs Multi-AZ)
+	Aurora & Aurora Serverless
+	DynamoDB
+	DynamoDB Global Tables
+	Redshift
+
+Networking (VPC)
+	VPC
+	Subnets (public vs private)
+	Route tables
+	Internet Gateway
+	NAT Gateway
+	Security Groups vs NACL
+	VPC Endpoints (Gateway & Interface)
+	VPC Peering
+
+LAYER 2: SCALABILITY, HA & PERFORMANCE (HEAVY)
+LAYER 3: SECURITY & ACCESS (VERY IMPORTANT)
+LAYER 4: INTEGRATION, SERVERLESS & COST (MEDIUM)
+LAYER 5: EDGE / LOW FREQUENCY (LIGHT)
+
+
+
